@@ -1,0 +1,21 @@
+{
+  "label_names": [
+    "logo",
+    "signature",
+    "stamp",
+    "registrar_block",
+    "gpa",
+    "issue_date",
+    "grade_table"
+  ],
+  "annotation_format": "COCO_bbox",
+  "instructions": {
+    "logo": "University/institution logo at top of document",
+    "signature": "Registrar or authorized signatory signature",
+    "stamp": "Official stamp/seal (circular or rectangular)",
+    "registrar_block": "Block containing registrar details, name, designation",
+    "gpa": "Grade Point Average field/value",
+    "issue_date": "Date the transcript was issued",
+    "grade_table": "Table listing courses and grades"
+  }
+}
