@@ -1,0 +1,137 @@
+{
+  "file_name": "19-3.png",
+  "width": 1241,
+  "height": 1754,
+  "ocr_results": [
+    {
+      "text": "Senior Programs Manager Marwa Amri",
+      "confidence": 0.9778659787401255,
+      "bbox": {
+        "x_min": 114,
+        "y_min": 215,
+        "x_max": 506,
+        "y_max": 245
+      }
+    },
+    {
+      "text": "SM",
+      "confidence": 0.959222239424874,
+      "bbox": {
+        "x_min": 392,
+        "y_min": 1022,
+        "x_max": 512,
+        "y_max": 1124
+      }
+    },
+    {
+      "text": "Jnstkudeorfechnology",
+      "confidence": 0.05095711181087133,
+      "bbox": {
+        "x_min": 554,
+        "y_min": 1037,
+        "x_max": 897,
+        "y_max": 1135
+      }
+    },
+    {
+      "text": "4",
+      "confidence": 0.02072056014903101,
+      "bbox": {
+        "x_min": -51,
+        "y_min": -60,
+        "x_max": 312,
+        "y_max": 304
+      }
+    },
+    {
+      "text": "UnSffIO",
+      "confidence": 0.1951806579606004,
+      "bbox": {
+        "x_min": 571,
+        "y_min": -57,
+        "x_max": 925,
+        "y_max": 309
+      }
+    },
+    {
+      "text": "UNOFFICIAL",
+      "confidence": 0.9775177398757994,
+      "bbox": {
+        "x_min": 569,
+        "y_min": 169,
+        "x_max": 992,
+        "y_max": 610
+      }
+    },
+    {
+      "text": "NNOFFICIA",
+      "confidence": 0.6278737997717923,
+      "bbox": {
+        "x_min": -40,
+        "y_min": 206,
+        "x_max": 332,
+        "y_max": 598
+      }
+    },
+    {
+      "text": "NNOFFICIAL",
+      "confidence": 0.697215295918982,
+      "bbox": {
+        "x_min": -40,
+        "y_min": 464,
+        "x_max": 371,
+        "y_max": 894
+      }
+    },
+    {
+      "text": "V",
+      "confidence": 0.1049511476674434,
+      "bbox": {
+        "x_min": 501,
+        "y_min": 446,
+        "x_max": 1098,
+        "y_max": 1048
+      }
+    },
+    {
+      "text": "NNOFFICIAL",
+      "confidence": 0.6185208576229376,
+      "bbox": {
+        "x_min": -40,
+        "y_min": 760,
+        "x_max": 370,
+        "y_max": 1188
+      }
+    },
+    {
+      "text": "26  CiAL",
+      "confidence": 0.08634971524558889,
+      "bbox": {
+        "x_min": 542,
+        "y_min": 766,
+        "x_max": 1023,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "NNOFFICIAL",
+      "confidence": 0.8232394298809383,
+      "bbox": {
+        "x_min": -41,
+        "y_min": 1054,
+        "x_max": 370,
+        "y_max": 1483
+      }
+    },
+    {
+      "text": "UNOFFICIAL",
+      "confidence": 0.998671222942501,
+      "bbox": {
+        "x_min": 569,
+        "y_min": 1055,
+        "x_max": 990,
+        "y_max": 1494
+      }
+    }
+  ]
+}

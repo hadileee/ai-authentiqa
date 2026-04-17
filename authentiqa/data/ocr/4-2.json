@@ -1,0 +1,1397 @@
+{
+  "file_name": "4-2.png",
+  "width": 1241,
+  "height": 1754,
+  "ocr_results": [
+    {
+      "text": "0",
+      "confidence": 0.233119645918344,
+      "bbox": {
+        "x_min": 169,
+        "y_min": 0,
+        "x_max": 289,
+        "y_max": 79
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.779812114925808,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 92,
+        "x_max": 342,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 1.0,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 94,
+        "x_max": 596,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.9999994942378553,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 94,
+        "x_max": 746,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "20",
+      "confidence": 0.9999996628252286,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 94,
+        "x_max": 894,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "Fall 2022",
+      "confidence": 0.9999441297992534,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 116,
+        "x_max": 130,
+        "y_max": 142
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.6539804876185065,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 140,
+        "x_max": 318,
+        "y_max": 166
+      }
+    },
+    {
+      "text": "1.56",
+      "confidence": 0.9473487138748169,
+      "bbox": {
+        "x_min": 1158,
+        "y_min": 140,
+        "x_max": 1202,
+        "y_max": 164
+      }
+    },
+    {
+      "text": "CS261",
+      "confidence": 0.9932477362171287,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 188,
+        "x_max": 106,
+        "y_max": 212
+      }
+    },
+    {
+      "text": "Computer Organization",
+      "confidence": 0.9998614471654873,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 187,
+        "x_max": 435,
+        "y_max": 215
+      }
+    },
+    {
+      "text": "Design",
+      "confidence": 0.9999938192881466,
+      "bbox": {
+        "x_min": 455,
+        "y_min": 187,
+        "x_max": 528,
+        "y_max": 216
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9998973608016968,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 191,
+        "x_max": 751,
+        "y_max": 211
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999248429155644,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 188,
+        "x_max": 900,
+        "y_max": 212
+      }
+    },
+    {
+      "text": "ISS296",
+      "confidence": 0.9859934147887937,
+      "bbox": {
+        "x_min": 36,
+        "y_min": 236,
+        "x_max": 112,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "Sophomore Project",
+      "confidence": 0.7909445818933699,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 236,
+        "x_max": 402,
+        "y_max": 264
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997626543045044,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 236,
+        "x_max": 752,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9327054619789124,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 236,
+        "x_max": 902,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "B+",
+      "confidence": 0.8988253566495853,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 236,
+        "x_max": 1100,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "ECE251",
+      "confidence": 0.9924993387219918,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 282,
+        "x_max": 120,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "Electrical Circuits",
+      "confidence": 0.9458411850769153,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 282,
+        "x_max": 382,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999945146265781,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 284,
+        "x_max": 754,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "D",
+      "confidence": 0.9991466436188148,
+      "bbox": {
+        "x_min": 1073,
+        "y_min": 283,
+        "x_max": 1091,
+        "y_max": 305
+      }
+    },
+    {
+      "text": "ECO172",
+      "confidence": 0.8685269583562055,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 330,
+        "x_max": 124,
+        "y_max": 356
+      }
+    },
+    {
+      "text": "Introduction to Macroeconomics",
+      "confidence": 0.8051856463729332,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 332,
+        "x_max": 516,
+        "y_max": 356
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999525793705192,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 332,
+        "x_max": 754,
+        "y_max": 356
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999281465077696,
+      "bbox": {
+        "x_min": 865,
+        "y_min": 333,
+        "x_max": 899,
+        "y_max": 353
+      }
+    },
+    {
+      "text": "MATH341",
+      "confidence": 0.9957042240927648,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 378,
+        "x_max": 136,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "Differential Equation",
+      "confidence": 0.9999416182903783,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 378,
+        "x_max": 410,
+        "y_max": 406
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997630375121919,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 378,
+        "x_max": 754,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9998320676316421,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 378,
+        "x_max": 900,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "D+",
+      "confidence": 0.9996107538993722,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 378,
+        "x_max": 1104,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "PHYS253",
+      "confidence": 0.9996798092848513,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 426,
+        "x_max": 136,
+        "y_max": 450
+      }
+    },
+    {
+      "text": "Waves Optics and Quantum",
+      "confidence": 0.6928040930869201,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 426,
+        "x_max": 482,
+        "y_max": 452
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999248429155644,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 426,
+        "x_max": 900,
+        "y_max": 450
+      }
+    },
+    {
+      "text": "Physics",
+      "confidence": 0.9998166130839456,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 449,
+        "x_max": 294,
+        "y_max": 479
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.8054275148505804,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 496,
+        "x_max": 342,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 1.0,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 498,
+        "x_max": 596,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.9999994942378553,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 498,
+        "x_max": 746,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "24.5",
+      "confidence": 0.6880477686061757,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 498,
+        "x_max": 912,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "Spring 2023",
+      "confidence": 0.8146617472032159,
+      "bbox": {
+        "x_min": 36,
+        "y_min": 519,
+        "x_max": 156,
+        "y_max": 550
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9897474163467166,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 544,
+        "x_max": 318,
+        "y_max": 570
+      }
+    },
+    {
+      "text": "1.84",
+      "confidence": 0.7566429518384599,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 546,
+        "x_max": 1202,
+        "y_max": 570
+      }
+    },
+    {
+      "text": "CS341",
+      "confidence": 0.9987197751320442,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 592,
+        "x_max": 106,
+        "y_max": 618
+      }
+    },
+    {
+      "text": "Data Structures and Algorithms",
+      "confidence": 0.7881724385436559,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 594,
+        "x_max": 512,
+        "y_max": 620
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.99995058344352,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 594,
+        "x_max": 752,
+        "y_max": 618
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999605630838538,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 594,
+        "x_max": 900,
+        "y_max": 618
+      }
+    },
+    {
+      "text": "MATH241",
+      "confidence": 0.993548921881338,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 640,
+        "x_max": 136,
+        "y_max": 664
+      }
+    },
+    {
+      "text": "Linear",
+      "confidence": 0.9999964959754363,
+      "bbox": {
+        "x_min": 217,
+        "y_min": 643,
+        "x_max": 279,
+        "y_max": 663
+      }
+    },
+    {
+      "text": "Algebra",
+      "confidence": 0.8767784247853759,
+      "bbox": {
+        "x_min": 279,
+        "y_min": 639,
+        "x_max": 356,
+        "y_max": 670
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8415587544441223,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 640,
+        "x_max": 754,
+        "y_max": 664
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.892988920211792,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 640,
+        "x_max": 900,
+        "y_max": 664
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.888435190882348,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 688,
+        "x_max": 342,
+        "y_max": 714
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.9999949423819248,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 688,
+        "x_max": 748,
+        "y_max": 712
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.9999981455391691,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 688,
+        "x_max": 894,
+        "y_max": 712
+      }
+    },
+    {
+      "text": "Summer 2023",
+      "confidence": 0.9583647500493749,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 712,
+        "x_max": 176,
+        "y_max": 736
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9749158440524679,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 734,
+        "x_max": 318,
+        "y_max": 760
+      }
+    },
+    {
+      "text": "CS303",
+      "confidence": 0.834187165282051,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 782,
+        "x_max": 108,
+        "y_max": 808
+      }
+    },
+    {
+      "text": "Operating Systems",
+      "confidence": 0.9784502238207261,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 784,
+        "x_max": 398,
+        "y_max": 812
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999573971275442,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 784,
+        "x_max": 752,
+        "y_max": 808
+      }
+    },
+    {
+      "text": "ECE355",
+      "confidence": 0.9864077373470066,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 830,
+        "x_max": 122,
+        "y_max": 856
+      }
+    },
+    {
+      "text": "Embedded Systems",
+      "confidence": 0.8784845801266259,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 830,
+        "x_max": 408,
+        "y_max": 858
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999445268407203,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 832,
+        "x_max": 752,
+        "y_max": 856
+      }
+    },
+    {
+      "text": "MGMT101",
+      "confidence": 0.8267138875958622,
+      "bbox": {
+        "x_min": 39,
+        "y_min": 878,
+        "x_max": 139,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "Introduction to Management",
+      "confidence": 0.8748191230397113,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 877,
+        "x_max": 482,
+        "y_max": 907
+      }
+    },
+    {
+      "text": "3",
+      "confidence": 0.5393376317602048,
+      "bbox": {
+        "x_min": 565,
+        "y_min": 865,
+        "x_max": 697,
+        "y_max": 929
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9996498227119446,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 878,
+        "x_max": 752,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999481057417806,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 878,
+        "x_max": 902,
+        "y_max": 904
+      }
+    },
+    {
+      "text": "C-",
+      "confidence": 0.9768275218560359,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 876,
+        "x_max": 1100,
+        "y_max": 906
+      }
+    },
+    {
+      "text": "MATH348",
+      "confidence": 0.99988095744499,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 926,
+        "x_max": 138,
+        "y_max": 950
+      }
+    },
+    {
+      "text": "Graph Theory & Application",
+      "confidence": 0.9876333722856253,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 924,
+        "x_max": 478,
+        "y_max": 955
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997950196266174,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 926,
+        "x_max": 752,
+        "y_max": 950
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.779812114925808,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 972,
+        "x_max": 342,
+        "y_max": 998
+      }
+    },
+    {
+      "text": "13",
+      "confidence": 0.999756981061593,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 972,
+        "x_max": 600,
+        "y_max": 998
+      }
+    },
+    {
+      "text": "19",
+      "confidence": 0.9999996628252286,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 972,
+        "x_max": 746,
+        "y_max": 998
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9987277731397765,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 975,
+        "x_max": 899,
+        "y_max": 995
+      }
+    },
+    {
+      "text": "Fall 2023",
+      "confidence": 0.9469404177301178,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 996,
+        "x_max": 130,
+        "y_max": 1022
+      }
+    },
+    {
+      "text": "I8",
+      "confidence": 0.2733390639057787,
+      "bbox": {
+        "x_min": 576,
+        "y_min": 963,
+        "x_max": 719,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9749158440524679,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1020,
+        "x_max": 318,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "0.39",
+      "confidence": 0.6860261251956009,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 1022,
+        "x_max": 1202,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "ISS396",
+      "confidence": 0.984975856363781,
+      "bbox": {
+        "x_min": 36,
+        "y_min": 1068,
+        "x_max": 112,
+        "y_max": 1092
+      }
+    },
+    {
+      "text": "Junior Project",
+      "confidence": 0.999865484211167,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1068,
+        "x_max": 350,
+        "y_max": 1094
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.08633137960863824,
+      "bbox": {
+        "x_min": 394,
+        "y_min": 1024,
+        "x_max": 514,
+        "y_max": 1122
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8991401791572571,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1068,
+        "x_max": 754,
+        "y_max": 1092
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8810734748840332,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1068,
+        "x_max": 900,
+        "y_max": 1092
+      }
+    },
+    {
+      "text": "MATH342",
+      "confidence": 0.998928542330079,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 1116,
+        "x_max": 138,
+        "y_max": 1140
+      }
+    },
+    {
+      "text": "Multivariable Calculus & Numerical",
+      "confidence": 0.7763947935017315,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1115,
+        "x_max": 544,
+        "y_max": 1143
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9998963494934908,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1116,
+        "x_max": 752,
+        "y_max": 1140
+      }
+    },
+    {
+      "text": "D+",
+      "confidence": 0.9995749333509835,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1116,
+        "x_max": 1104,
+        "y_max": 1140
+      }
+    },
+    {
+      "text": "Methods",
+      "confidence": 0.9999981977244236,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1140,
+        "x_max": 302,
+        "y_max": 1164
+      }
+    },
+    {
+      "text": "ISS197",
+      "confidence": 0.9845389759412421,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1188,
+        "x_max": 112,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "Startup Engineering",
+      "confidence": 0.9999819536816489,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1187,
+        "x_max": 405,
+        "y_max": 1215
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997626543045044,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1188,
+        "x_max": 752,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9996113181114197,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1188,
+        "x_max": 900,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "B-",
+      "confidence": 0.9985634320537217,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1188,
+        "x_max": 1096,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "COM307",
+      "confidence": 0.988678411785579,
+      "bbox": {
+        "x_min": 37,
+        "y_min": 1235,
+        "x_max": 125,
+        "y_max": 1259
+      }
+    },
+    {
+      "text": "Effective Technical Communication",
+      "confidence": 0.951134455699475,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1234,
+        "x_max": 546,
+        "y_max": 1260
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999461786409964,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1236,
+        "x_max": 752,
+        "y_max": 1260
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9499829272775945,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 1237,
+        "x_max": 899,
+        "y_max": 1257
+      }
+    },
+    {
+      "text": "B+",
+      "confidence": 0.9920200013914036,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1236,
+        "x_max": 1102,
+        "y_max": 1260
+      }
+    },
+    {
+      "text": "ECE251",
+      "confidence": 0.9900845099197607,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1282,
+        "x_max": 120,
+        "y_max": 1308
+      }
+    },
+    {
+      "text": "Electrical Circuits",
+      "confidence": 0.8852751057803717,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1282,
+        "x_max": 382,
+        "y_max": 1308
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9998719856391529,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1284,
+        "x_max": 754,
+        "y_max": 1308
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9978951356205809,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1330,
+        "x_max": 342,
+        "y_max": 1354
+      }
+    },
+    {
+      "text": "17",
+      "confidence": 0.5595229467494449,
+      "bbox": {
+        "x_min": 573,
+        "y_min": 1331,
+        "x_max": 597,
+        "y_max": 1351
+      }
+    },
+    {
+      "text": "24.5",
+      "confidence": 0.9999770522117615,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1333,
+        "x_max": 763,
+        "y_max": 1353
+      }
+    },
+    {
+      "text": "13.5",
+      "confidence": 0.9993925411195916,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1330,
+        "x_max": 912,
+        "y_max": 1354
+      }
+    },
+    {
+      "text": "Spring 2024",
+      "confidence": 0.9817937243143139,
+      "bbox": {
+        "x_min": 37,
+        "y_min": 1352,
+        "x_max": 156,
+        "y_max": 1382
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.6539804876185065,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1378,
+        "x_max": 318,
+        "y_max": 1404
+      }
+    },
+    {
+      "text": "1.67",
+      "confidence": 0.999910831451416,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 1378,
+        "x_max": 1200,
+        "y_max": 1402
+      }
+    },
+    {
+      "text": "MATH348",
+      "confidence": 0.9999235825950386,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 1424,
+        "x_max": 138,
+        "y_max": 1450
+      }
+    },
+    {
+      "text": "Graph Theory & Application",
+      "confidence": 0.8937200411616405,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1422,
+        "x_max": 478,
+        "y_max": 1453
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8764528449561327,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1427,
+        "x_max": 751,
+        "y_max": 1447
+      }
+    },
+    {
+      "text": "CS303",
+      "confidence": 0.8146276737722571,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1472,
+        "x_max": 108,
+        "y_max": 1498
+      }
+    },
+    {
+      "text": "Operating Systems",
+      "confidence": 0.9920290935162565,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1474,
+        "x_max": 398,
+        "y_max": 1502
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999496198927458,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1474,
+        "x_max": 752,
+        "y_max": 1498
+      }
+    },
+    {
+      "text": "D+",
+      "confidence": 0.999484667236561,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1474,
+        "x_max": 1104,
+        "y_max": 1498
+      }
+    },
+    {
+      "text": "ECE355",
+      "confidence": 0.9924860161760848,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1520,
+        "x_max": 122,
+        "y_max": 1546
+      }
+    },
+    {
+      "text": "Embedded Systems",
+      "confidence": 0.8166397882847816,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1520,
+        "x_max": 408,
+        "y_max": 1548
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8764528449561327,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1523,
+        "x_max": 751,
+        "y_max": 1543
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.999958842455258,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1522,
+        "x_max": 900,
+        "y_max": 1546
+      }
+    },
+    {
+      "text": "C+",
+      "confidence": 0.9974521631826532,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1522,
+        "x_max": 1102,
+        "y_max": 1546
+      }
+    },
+    {
+      "text": "FIN101",
+      "confidence": 0.7418609485971457,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1568,
+        "x_max": 110,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "Introduction to Finance",
+      "confidence": 0.9812496863316674,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1568,
+        "x_max": 434,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "3",
+      "confidence": 0.9999995231628986,
+      "bbox": {
+        "x_min": 571,
+        "y_min": 1569,
+        "x_max": 589,
+        "y_max": 1591
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.868567705154419,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1568,
+        "x_max": 754,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8669875860214233,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 1571,
+        "x_max": 899,
+        "y_max": 1591
+      }
+    },
+    {
+      "text": "B+",
+      "confidence": 0.9952806297082775,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1568,
+        "x_max": 1102,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "CS420",
+      "confidence": 0.9926704189276722,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1616,
+        "x_max": 108,
+        "y_max": 1640
+      }
+    },
+    {
+      "text": "Programing Langage Design and",
+      "confidence": 0.8152286799343474,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1616,
+        "x_max": 528,
+        "y_max": 1645
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999927182959892,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1616,
+        "x_max": 752,
+        "y_max": 1640
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 0.045589227301672475,
+      "bbox": {
+        "x_min": 735,
+        "y_min": -51,
+        "x_max": 932,
+        "y_max": 147
+      }
+    },
+    {
+      "text": "oA",
+      "confidence": 0.0622068158249201,
+      "bbox": {
+        "x_min": 852,
+        "y_min": 201,
+        "x_max": 979,
+        "y_max": 338
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 0.16444044551059278,
+      "bbox": {
+        "x_min": 725,
+        "y_min": 262,
+        "x_max": 903,
+        "y_max": 446
+      }
+    },
+    {
+      "text": "UN <",
+      "confidence": 0.5589599438727073,
+      "bbox": {
+        "x_min": 574,
+        "y_min": 388,
+        "x_max": 780,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "'",
+      "confidence": 0.5448477366265116,
+      "bbox": {
+        "x_min": 858,
+        "y_min": 771,
+        "x_max": 995,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "A,",
+      "confidence": 0.23524532969440076,
+      "bbox": {
+        "x_min": 767,
+        "y_min": 880,
+        "x_max": 884,
+        "y_max": 980
+      }
+    },
+    {
+      "text": "T",
+      "confidence": 0.08150484994271867,
+      "bbox": {
+        "x_min": 835,
+        "y_min": 1070,
+        "x_max": 996,
+        "y_max": 1208
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 0.6164810071229709,
+      "bbox": {
+        "x_min": 724,
+        "y_min": 1155,
+        "x_max": 888,
+        "y_max": 1330
+      }
+    },
+    {
+      "text": "UNC",
+      "confidence": 0.46373861837292407,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 1301,
+        "x_max": 746,
+        "y_max": 1493
+      }
+    }
+  ]
+}

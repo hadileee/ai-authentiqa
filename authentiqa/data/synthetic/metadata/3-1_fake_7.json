@@ -1,0 +1,18 @@
+{
+  "source": "3-1.png",
+  "output": "3-1_fake_7.png",
+  "label": "forged",
+  "operations": [
+    {
+      "type": "date_alteration",
+      "old": "Date of Birth: 05/10/2004",
+      "new": "23/6/2020",
+      "bbox": {
+        "x_min": 58,
+        "y_min": 358,
+        "x_max": 294,
+        "y_max": 382
+      }
+    }
+  ]
+}

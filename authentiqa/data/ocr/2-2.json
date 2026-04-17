@@ -1,0 +1,1397 @@
+{
+  "file_name": "2-2.png",
+  "width": 1241,
+  "height": 1754,
+  "ocr_results": [
+    {
+      "text": "CS102",
+      "confidence": 0.9463018051187808,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 92,
+        "x_max": 108,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "confidence": 0.6072291397313756,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 90,
+        "x_max": 500,
+        "y_max": 122
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9998810704568948,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 92,
+        "x_max": 754,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "ENG121",
+      "confidence": 0.9858192649856328,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 140,
+        "x_max": 122,
+        "y_max": 164
+      }
+    },
+    {
+      "text": "English Composition",
+      "confidence": 0.999833462780428,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 140,
+        "x_max": 412,
+        "y_max": 168
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.854140043258667,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 140,
+        "x_max": 754,
+        "y_max": 164
+      }
+    },
+    {
+      "text": "ISS196",
+      "confidence": 0.9894144975895316,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 188,
+        "x_max": 112,
+        "y_max": 212
+      }
+    },
+    {
+      "text": "Freshman Project",
+      "confidence": 0.9991952783863743,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 187,
+        "x_max": 388,
+        "y_max": 214
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997770190238953,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 188,
+        "x_max": 752,
+        "y_max": 212
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.6138781309127808,
+      "bbox": {
+        "x_min": 869,
+        "y_min": 191,
+        "x_max": 899,
+        "y_max": 211
+      }
+    },
+    {
+      "text": "B-",
+      "confidence": 0.9985634320537217,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 188,
+        "x_max": 1096,
+        "y_max": 212
+      }
+    },
+    {
+      "text": "MATH142",
+      "confidence": 0.9877267223156074,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 236,
+        "x_max": 138,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "Calculus II",
+      "confidence": 0.699049400976737,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 236,
+        "x_max": 320,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999927182959892,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 236,
+        "x_max": 752,
+        "y_max": 260
+      }
+    },
+    {
+      "text": "'",
+      "confidence": 0.47367280932522604,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 221,
+        "x_max": 947,
+        "y_max": 289
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9773030311731646,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 282,
+        "x_max": 342,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "18",
+      "confidence": 0.9999997471189183,
+      "bbox": {
+        "x_min": 572,
+        "y_min": 284,
+        "x_max": 600,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "25.5",
+      "confidence": 0.9999724626541138,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 284,
+        "x_max": 764,
+        "y_max": 308
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.9999991570631338,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 285,
+        "x_max": 895,
+        "y_max": 305
+      }
+    },
+    {
+      "text": "Spring 2023",
+      "confidence": 0.9886275114860803,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 306,
+        "x_max": 156,
+        "y_max": 334
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.7162057526128066,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 332,
+        "x_max": 318,
+        "y_max": 356
+      }
+    },
+    {
+      "text": "0.89",
+      "confidence": 0.9999969601631165,
+      "bbox": {
+        "x_min": 1158,
+        "y_min": 332,
+        "x_max": 1202,
+        "y_max": 356
+      }
+    },
+    {
+      "text": "ENG121",
+      "confidence": 0.994340074139668,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 378,
+        "x_max": 122,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "English Composition",
+      "confidence": 0.999833462780428,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 378,
+        "x_max": 412,
+        "y_max": 406
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997630375121919,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 378,
+        "x_max": 754,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9037392735481262,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 378,
+        "x_max": 900,
+        "y_max": 402
+      }
+    },
+    {
+      "text": "MATH142",
+      "confidence": 0.979872091621291,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 426,
+        "x_max": 138,
+        "y_max": 452
+      }
+    },
+    {
+      "text": "Calculus II",
+      "confidence": 0.6086224607179369,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 426,
+        "x_max": 318,
+        "y_max": 450
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999930486553133,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 426,
+        "x_max": 752,
+        "y_max": 450
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999150697971858,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 426,
+        "x_max": 900,
+        "y_max": 450
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.779812114925808,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 472,
+        "x_max": 342,
+        "y_max": 498
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.9999954481433951,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 475,
+        "x_max": 747,
+        "y_max": 495
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.9999991570631338,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 475,
+        "x_max": 893,
+        "y_max": 495
+      }
+    },
+    {
+      "text": "Summer 2023",
+      "confidence": 0.7473698204268392,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 498,
+        "x_max": 174,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.978666175031984,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 520,
+        "x_max": 318,
+        "y_max": 546
+      }
+    },
+    {
+      "text": "2.34",
+      "confidence": 0.7583238207906264,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 522,
+        "x_max": 1202,
+        "y_max": 546
+      }
+    },
+    {
+      "text": "MGMT101",
+      "confidence": 0.8473138823612533,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 568,
+        "x_max": 140,
+        "y_max": 594
+      }
+    },
+    {
+      "text": "Introduction to Management",
+      "confidence": 0.9169549945298724,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 570,
+        "x_max": 482,
+        "y_max": 596
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8764528449561327,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 571,
+        "x_max": 751,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9998977184295654,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 571,
+        "x_max": 899,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "C+",
+      "confidence": 0.9989087396888388,
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 573,
+        "x_max": 1103,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "CS102",
+      "confidence": 0.8711179100584887,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 616,
+        "x_max": 108,
+        "y_max": 640
+      }
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "confidence": 0.8031155888921312,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 615,
+        "x_max": 498,
+        "y_max": 645
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9994615285944352,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 616,
+        "x_max": 754,
+        "y_max": 640
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999497575428488,
+      "bbox": {
+        "x_min": 865,
+        "y_min": 619,
+        "x_max": 899,
+        "y_max": 639
+      }
+    },
+    {
+      "text": "COM2O5",
+      "confidence": 0.7155437011055471,
+      "bbox": {
+        "x_min": 37,
+        "y_min": 663,
+        "x_max": 127,
+        "y_max": 687
+      }
+    },
+    {
+      "text": "Technical Writing",
+      "confidence": 0.7712387174232587,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 660,
+        "x_max": 381,
+        "y_max": 692
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.7663118839263916,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 664,
+        "x_max": 754,
+        "y_max": 688
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8660183548927307,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 664,
+        "x_max": 900,
+        "y_max": 688
+      }
+    },
+    {
+      "text": "C+",
+      "confidence": 0.9987956555927019,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 664,
+        "x_max": 1102,
+        "y_max": 688
+      }
+    },
+    {
+      "text": "MATH244",
+      "confidence": 0.9958196377379966,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 712,
+        "x_max": 138,
+        "y_max": 736
+      }
+    },
+    {
+      "text": "Probability and Statistics",
+      "confidence": 0.8476014937948838,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 710,
+        "x_max": 448,
+        "y_max": 738
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999927182959892,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 712,
+        "x_max": 752,
+        "y_max": 736
+      }
+    },
+    {
+      "text": "D",
+      "confidence": 0.9991825106235162,
+      "bbox": {
+        "x_min": 1073,
+        "y_min": 711,
+        "x_max": 1093,
+        "y_max": 735
+      }
+    },
+    {
+      "text": "PHYS152",
+      "confidence": 0.9973268377659621,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 758,
+        "x_max": 136,
+        "y_max": 784
+      }
+    },
+    {
+      "text": "Electromagnetism",
+      "confidence": 0.9074915474426212,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 760,
+        "x_max": 388,
+        "y_max": 786
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9998618684687738,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 760,
+        "x_max": 754,
+        "y_max": 784
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.7769908447114781,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 806,
+        "x_max": 342,
+        "y_max": 832
+      }
+    },
+    {
+      "text": "18",
+      "confidence": 0.5396882949802352,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 808,
+        "x_max": 600,
+        "y_max": 832
+      }
+    },
+    {
+      "text": "25.5",
+      "confidence": 0.9999698400497437,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 808,
+        "x_max": 764,
+        "y_max": 832
+      }
+    },
+    {
+      "text": "14.5",
+      "confidence": 0.9999523758888245,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 806,
+        "x_max": 912,
+        "y_max": 832
+      }
+    },
+    {
+      "text": "Fall 2023",
+      "confidence": 0.8140233179536873,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 830,
+        "x_max": 130,
+        "y_max": 854
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.679956340460886,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 854,
+        "x_max": 318,
+        "y_max": 878
+      }
+    },
+    {
+      "text": "14",
+      "confidence": 0.11817577176710943,
+      "bbox": {
+        "x_min": 546,
+        "y_min": 722,
+        "x_max": 764,
+        "y_max": 950
+      }
+    },
+    {
+      "text": "1.67",
+      "confidence": 0.999910831451416,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 854,
+        "x_max": 1200,
+        "y_max": 878
+      }
+    },
+    {
+      "text": "PHYS152",
+      "confidence": 0.9953345374721093,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 902,
+        "x_max": 136,
+        "y_max": 926
+      }
+    },
+    {
+      "text": "Electromagnetism",
+      "confidence": 0.9999515700533901,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 902,
+        "x_max": 388,
+        "y_max": 930
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999347562635714,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 900,
+        "x_max": 752,
+        "y_max": 926
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999142439004445,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 902,
+        "x_max": 900,
+        "y_max": 926
+      }
+    },
+    {
+      "text": "ECO172",
+      "confidence": 0.8644709412908155,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 948,
+        "x_max": 124,
+        "y_max": 974
+      }
+    },
+    {
+      "text": "Introduction to Macroeconomics",
+      "confidence": 0.6606243707891656,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 950,
+        "x_max": 518,
+        "y_max": 974
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.5484986901283264,
+      "bbox": {
+        "x_min": 720,
+        "y_min": 948,
+        "x_max": 752,
+        "y_max": 972
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999496198927458,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 950,
+        "x_max": 900,
+        "y_max": 974
+      }
+    },
+    {
+      "text": "C+",
+      "confidence": 0.9351822581124273,
+      "bbox": {
+        "x_min": 1073,
+        "y_min": 951,
+        "x_max": 1101,
+        "y_max": 971
+      }
+    },
+    {
+      "text": "MATH341",
+      "confidence": 0.9944899984154257,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 998,
+        "x_max": 136,
+        "y_max": 1022
+      }
+    },
+    {
+      "text": "Differential Equation",
+      "confidence": 0.9999361026719625,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 995,
+        "x_max": 410,
+        "y_max": 1026
+      }
+    },
+    {
+      "text": "3",
+      "confidence": 0.9999917745759355,
+      "bbox": {
+        "x_min": 573,
+        "y_min": 995,
+        "x_max": 587,
+        "y_max": 1021
+      }
+    },
+    {
+      "text": "3N",
+      "confidence": 0.10330105862407415,
+      "bbox": {
+        "x_min": 572,
+        "y_min": 958,
+        "x_max": 716,
+        "y_max": 1030
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8816351294517517,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 996,
+        "x_max": 752,
+        "y_max": 1022
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9999496198927458,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 998,
+        "x_max": 900,
+        "y_max": 1022
+      }
+    },
+    {
+      "text": "D+",
+      "confidence": 0.9962948611426841,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 996,
+        "x_max": 1104,
+        "y_max": 1022
+      }
+    },
+    {
+      "text": "ECE251",
+      "confidence": 0.9846692241928224,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 1044,
+        "x_max": 120,
+        "y_max": 1068
+      }
+    },
+    {
+      "text": "Electrical Circuits",
+      "confidence": 0.8142924929553724,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1044,
+        "x_max": 382,
+        "y_max": 1070
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.7761967778205872,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1044,
+        "x_max": 752,
+        "y_max": 1068
+      }
+    },
+    {
+      "text": "ISS296",
+      "confidence": 0.992097186548711,
+      "bbox": {
+        "x_min": 36,
+        "y_min": 1092,
+        "x_max": 112,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "Sophomore Project",
+      "confidence": 0.7964407178619114,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1092,
+        "x_max": 402,
+        "y_max": 1120
+      }
+    },
+    {
+      "text": "7n",
+      "confidence": 0.013712943592632833,
+      "bbox": {
+        "x_min": 392,
+        "y_min": 1026,
+        "x_max": 514,
+        "y_max": 1124
+      }
+    },
+    {
+      "text": ";",
+      "confidence": 0.6753876565405257,
+      "bbox": {
+        "x_min": 554,
+        "y_min": 1053,
+        "x_max": 704,
+        "y_max": 1170
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.7501386404037476,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1090,
+        "x_max": 754,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "5|",
+      "confidence": 0.28633967618733114,
+      "bbox": {
+        "x_min": 733,
+        "y_min": 1057,
+        "x_max": 875,
+        "y_max": 1121
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9990248061752274,
+      "bbox": {
+        "x_min": 868,
+        "y_min": 1092,
+        "x_max": 900,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "CS261",
+      "confidence": 0.9958172250453455,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1140,
+        "x_max": 106,
+        "y_max": 1164
+      }
+    },
+    {
+      "text": "Computer Organization",
+      "confidence": 0.9998856722629567,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1139,
+        "x_max": 435,
+        "y_max": 1167
+      }
+    },
+    {
+      "text": "& Design",
+      "confidence": 0.9084466235078559,
+      "bbox": {
+        "x_min": 440,
+        "y_min": 1139,
+        "x_max": 528,
+        "y_max": 1168
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9990871548652649,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1143,
+        "x_max": 751,
+        "y_max": 1163
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999549882486429,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 1140,
+        "x_max": 900,
+        "y_max": 1164
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.7079614858044114,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1188,
+        "x_max": 342,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 1.0,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 1188,
+        "x_max": 596,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.9999994942378553,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1188,
+        "x_max": 746,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "24.5",
+      "confidence": 0.8045204141571201,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1188,
+        "x_max": 912,
+        "y_max": 1212
+      }
+    },
+    {
+      "text": "Spring 2024",
+      "confidence": 0.9005519736190862,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1210,
+        "x_max": 156,
+        "y_max": 1238
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.727538008450399,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1236,
+        "x_max": 318,
+        "y_max": 1260
+      }
+    },
+    {
+      "text": "1.51",
+      "confidence": 0.9957345501243163,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 1236,
+        "x_max": 1200,
+        "y_max": 1260
+      }
+    },
+    {
+      "text": "CS341",
+      "confidence": 0.9990800512212906,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1282,
+        "x_max": 106,
+        "y_max": 1306
+      }
+    },
+    {
+      "text": "Data Structures and Algorithms",
+      "confidence": 0.9031715160395112,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1282,
+        "x_max": 512,
+        "y_max": 1310
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9994779079030969,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 1282,
+        "x_max": 752,
+        "y_max": 1306
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9999641419926035,
+      "bbox": {
+        "x_min": 865,
+        "y_min": 1285,
+        "x_max": 899,
+        "y_max": 1305
+      }
+    },
+    {
+      "text": "MATH244",
+      "confidence": 0.9988759423049864,
+      "bbox": {
+        "x_min": 40,
+        "y_min": 1330,
+        "x_max": 138,
+        "y_max": 1354
+      }
+    },
+    {
+      "text": "Probability and Statistics",
+      "confidence": 0.9998826873835944,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1326,
+        "x_max": 448,
+        "y_max": 1358
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9990530898183714,
+      "bbox": {
+        "x_min": 716,
+        "y_min": 1330,
+        "x_max": 754,
+        "y_max": 1354
+      }
+    },
+    {
+      "text": "GOV101",
+      "confidence": 0.8801835315060483,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1378,
+        "x_max": 122,
+        "y_max": 1402
+      }
+    },
+    {
+      "text": "Governance and Citizenship",
+      "confidence": 0.8057607074187669,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1377,
+        "x_max": 484,
+        "y_max": 1406
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9997626543045044,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1378,
+        "x_max": 752,
+        "y_max": 1402
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8669875860214233,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 1381,
+        "x_max": 899,
+        "y_max": 1401
+      }
+    },
+    {
+      "text": "ISS197",
+      "confidence": 0.9727623202445638,
+      "bbox": {
+        "x_min": 36,
+        "y_min": 1424,
+        "x_max": 112,
+        "y_max": 1450
+      }
+    },
+    {
+      "text": "Startup Engineering",
+      "confidence": 0.923301184423708,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1423,
+        "x_max": 406,
+        "y_max": 1454
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8764528449561327,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1427,
+        "x_max": 751,
+        "y_max": 1447
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9499829272775945,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 1427,
+        "x_max": 899,
+        "y_max": 1447
+      }
+    },
+    {
+      "text": "C+",
+      "confidence": 0.9651098568591394,
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 1424,
+        "x_max": 1102,
+        "y_max": 1450
+      }
+    },
+    {
+      "text": "CS321",
+      "confidence": 0.9930095042625426,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1472,
+        "x_max": 106,
+        "y_max": 1498
+      }
+    },
+    {
+      "text": "Prompt Engineering",
+      "confidence": 0.9999533000691176,
+      "bbox": {
+        "x_min": 215,
+        "y_min": 1473,
+        "x_max": 406,
+        "y_max": 1502
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.8764528449561327,
+      "bbox": {
+        "x_min": 719,
+        "y_min": 1475,
+        "x_max": 751,
+        "y_max": 1495
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.999958842455258,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1474,
+        "x_max": 900,
+        "y_max": 1498
+      }
+    },
+    {
+      "text": "C",
+      "confidence": 0.9918041764661076,
+      "bbox": {
+        "x_min": 1073,
+        "y_min": 1473,
+        "x_max": 1093,
+        "y_max": 1497
+      }
+    },
+    {
+      "text": "CS331",
+      "confidence": 0.9989238819242113,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1520,
+        "x_max": 106,
+        "y_max": 1544
+      }
+    },
+    {
+      "text": "Database Management Systems",
+      "confidence": 0.9995387128490189,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1519,
+        "x_max": 524,
+        "y_max": 1549
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.999927182959892,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1520,
+        "x_max": 752,
+        "y_max": 1544
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.888435190882348,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1568,
+        "x_max": 342,
+        "y_max": 1594
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 1.0,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 1568,
+        "x_max": 596,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.7180159051763797,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 1568,
+        "x_max": 746,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "19",
+      "confidence": 0.8764673436171496,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1568,
+        "x_max": 894,
+        "y_max": 1592
+      }
+    },
+    {
+      "text": "Fall 2024",
+      "confidence": 0.6910428530883511,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 1592,
+        "x_max": 130,
+        "y_max": 1616
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9749158440524679,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 1614,
+        "x_max": 318,
+        "y_max": 1640
+      }
+    },
+    {
+      "text": "1.37",
+      "confidence": 0.7660774970198821,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 1616,
+        "x_max": 1200,
+        "y_max": 1640
+      }
+    },
+    {
+      "text": "0",
+      "confidence": 0.013044903174037836,
+      "bbox": {
+        "x_min": 112,
+        "y_min": -51,
+        "x_max": 308,
+        "y_max": 146
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 0.202970346024145,
+      "bbox": {
+        "x_min": 725,
+        "y_min": -50,
+        "x_max": 930,
+        "y_max": 155
+      }
+    },
+    {
+      "text": "NIC",
+      "confidence": 0.5559472647727723,
+      "bbox": {
+        "x_min": 732,
+        "y_min": 261,
+        "x_max": 903,
+        "y_max": 443
+      }
+    },
+    {
+      "text": "Bic",
+      "confidence": 0.19033244275730365,
+      "bbox": {
+        "x_min": 736,
+        "y_min": 570,
+        "x_max": 885,
+        "y_max": 733
+      }
+    },
+    {
+      "text": "Ny",
+      "confidence": 0.1675285391006416,
+      "bbox": {
+        "x_min": 568,
+        "y_min": 1302,
+        "x_max": 743,
+        "y_max": 1493
+      }
+    }
+  ]
+}
