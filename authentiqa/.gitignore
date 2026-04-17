@@ -1,0 +1,10 @@
+venv/
+authentiqa/venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.lib
+*.pt
+*.pth
+*.onnx
