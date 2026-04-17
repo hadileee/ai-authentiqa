@@ -1,0 +1,4 @@
+# Virtual environment
+venv/
+authentiqa/venv/
+.venv/
