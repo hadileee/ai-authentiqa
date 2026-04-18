@@ -1,0 +1,13 @@
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    container_name: authentiqa-label-studio
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/label-studio/data
+      - ./data/authentic:/label-studio/data/authentic:ro
+    environment:
+      - LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
+      - LABEL_STUDIO_LOCAL_FILES_PATH=/label-studio/data
+    restart: unless-stopped

@@ -1,0 +1,317 @@
+{
+  "file_name": "7-2.png",
+  "width": 1241,
+  "height": 1754,
+  "ocr_results": [
+    {
+      "text": "Term Credits",
+      "confidence": 0.779812114925808,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 92,
+        "x_max": 342,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 1.0,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 94,
+        "x_max": 596,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.9999996628252286,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 94,
+        "x_max": 748,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "30",
+      "confidence": 0.9999994099441718,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 94,
+        "x_max": 894,
+        "y_max": 118
+      }
+    },
+    {
+      "text": "Fall 2024",
+      "confidence": 0.9999592300074227,
+      "bbox": {
+        "x_min": 38,
+        "y_min": 116,
+        "x_max": 130,
+        "y_max": 142
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.6539804876185065,
+      "bbox": {
+        "x_min": 216,
+        "y_min": 140,
+        "x_max": 318,
+        "y_max": 166
+      }
+    },
+    {
+      "text": "2.86",
+      "confidence": 0.6597957305259783,
+      "bbox": {
+        "x_min": 1156,
+        "y_min": 140,
+        "x_max": 1202,
+        "y_max": 164
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.7425506337211218,
+      "bbox": {
+        "x_min": 67,
+        "y_min": 275,
+        "x_max": 372,
+        "y_max": 304
+      }
+    },
+    {
+      "text": "63",
+      "confidence": 0.7806487343999537,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 278,
+        "x_max": 600,
+        "y_max": 302
+      }
+    },
+    {
+      "text": "90",
+      "confidence": 0.9999905591189865,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 278,
+        "x_max": 746,
+        "y_max": 302
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.7547266148608878,
+      "bbox": {
+        "x_min": 68,
+        "y_min": 336,
+        "x_max": 340,
+        "y_max": 360
+      }
+    },
+    {
+      "text": "63",
+      "confidence": 0.6758256297206042,
+      "bbox": {
+        "x_min": 570,
+        "y_min": 336,
+        "x_max": 598,
+        "y_max": 360
+      }
+    },
+    {
+      "text": "90",
+      "confidence": 0.9999914020537298,
+      "bbox": {
+        "x_min": 718,
+        "y_min": 336,
+        "x_max": 746,
+        "y_max": 360
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.764711457794241,
+      "bbox": {
+        "x_min": 68,
+        "y_min": 394,
+        "x_max": 236,
+        "y_max": 420
+      }
+    },
+    {
+      "text": "2.84",
+      "confidence": 0.49964693922162823,
+      "bbox": {
+        "x_min": 1118,
+        "y_min": 396,
+        "x_max": 1166,
+        "y_max": 420
+      }
+    },
+    {
+      "text": "Senior Programs Manager Marwa Amri",
+      "confidence": 0.8174163744180674,
+      "bbox": {
+        "x_min": 114,
+        "y_min": 600,
+        "x_max": 506,
+        "y_max": 631
+      }
+    },
+    {
+      "text": "S",
+      "confidence": 0.04048580874838592,
+      "bbox": {
+        "x_min": 392,
+        "y_min": 1020,
+        "x_max": 514,
+        "y_max": 1124
+      }
+    },
+    {
+      "text": "M",
+      "confidence": 0.01712545912089447,
+      "bbox": {
+        "x_min": 563,
+        "y_min": 1055,
+        "x_max": 647,
+        "y_max": 1121
+      }
+    },
+    {
+      "text": "eghmdlogy",
+      "confidence": 0.03659256774960165,
+      "bbox": {
+        "x_min": 713,
+        "y_min": 1046,
+        "x_max": 896,
+        "y_max": 1132
+      }
+    },
+    {
+      "text": "",
+      "confidence": 0.0,
+      "bbox": {
+        "x_min": 133,
+        "y_min": -48,
+        "x_max": 303,
+        "y_max": 125
+      }
+    },
+    {
+      "text": "RiO",
+      "confidence": 0.34302520944957693,
+      "bbox": {
+        "x_min": 738,
+        "y_min": -53,
+        "x_max": 924,
+        "y_max": 149
+      }
+    },
+    {
+      "text": "Yo*",
+      "confidence": 0.25062815333231897,
+      "bbox": {
+        "x_min": 562,
+        "y_min": 75,
+        "x_max": 784,
+        "y_max": 317
+      }
+    },
+    {
+      "text": "^SFICIA",
+      "confidence": 0.6964064346311496,
+      "bbox": {
+        "x_min": 565,
+        "y_min": 175,
+        "x_max": 987,
+        "y_max": 615
+      }
+    },
+    {
+      "text": "AS",
+      "confidence": 0.17063952737847551,
+      "bbox": {
+        "x_min": -41,
+        "y_min": 394,
+        "x_max": 143,
+        "y_max": 598
+      }
+    },
+    {
+      "text": "JAL",
+      "confidence": 0.483732323986705,
+      "bbox": {
+        "x_min": 212,
+        "y_min": 473,
+        "x_max": 367,
+        "y_max": 635
+      }
+    },
+    {
+      "text": "^",
+      "confidence": 0.040641743001694985,
+      "bbox": {
+        "x_min": 510,
+        "y_min": 395,
+        "x_max": 1000,
+        "y_max": 1038
+      }
+    },
+    {
+      "text": "5",
+      "confidence": 0.5295079863960304,
+      "bbox": {
+        "x_min": -50,
+        "y_min": 593,
+        "x_max": 247,
+        "y_max": 895
+      }
+    },
+    {
+      "text": "unoffiCIAL",
+      "confidence": 0.21322598477617372,
+      "bbox": {
+        "x_min": 487,
+        "y_min": 667,
+        "x_max": 1011,
+        "y_max": 1211
+      }
+    },
+    {
+      "text": "NNOFFICIAL",
+      "confidence": 0.5948668360275461,
+      "bbox": {
+        "x_min": -40,
+        "y_min": 760,
+        "x_max": 370,
+        "y_max": 1188
+      }
+    },
+    {
+      "text": "NNOFFICIAL",
+      "confidence": 0.8439701810851772,
+      "bbox": {
+        "x_min": -41,
+        "y_min": 1054,
+        "x_max": 370,
+        "y_max": 1483
+      }
+    },
+    {
+      "text": "UNOFFICIAL",
+      "confidence": 0.9986179524005945,
+      "bbox": {
+        "x_min": 569,
+        "y_min": 1055,
+        "x_max": 990,
+        "y_max": 1494
+      }
+    }
+  ]
+}
