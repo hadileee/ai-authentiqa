@@ -1,0 +1,206 @@
+{
+  "images": [
+    {
+      "width": 2481,
+      "height": 3510,
+      "id": 0,
+      "file_name": "..\/..\/label-studio\/data\/media\/upload\/13\/1f09969b-21-1.png"
+    },
+    {
+      "width": 2481,
+      "height": 3510,
+      "id": 1,
+      "file_name": "..\/..\/label-studio\/data\/media\/upload\/13\/5d0a6513-21-2.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "gpa"
+    },
+    {
+      "id": 1,
+      "name": "grade_table"
+    },
+    {
+      "id": 2,
+      "name": "issue_date"
+    },
+    {
+      "id": 3,
+      "name": "logo"
+    },
+    {
+      "id": 4,
+      "name": "registrar_block"
+    },
+    {
+      "id": 5,
+      "name": "signature"
+    },
+    {
+      "id": 6,
+      "name": "stamp"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        231.48411340779546,
+        202.94497613834127,
+        390.0348760158746,
+        145.86670159943273
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 56893.10087317932
+    },
+    {
+      "id": 1,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2130.9222494525834,
+        1712.3482361672538,
+        117.32756432997802,
+        44.394213530262185
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5208.664943850617
+    },
+    {
+      "id": 2,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2156.2903714698755,
+        2016.7657003747656,
+        82.44639655620098,
+        63.420305043231444
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5228.775619309493
+    },
+    {
+      "id": 3,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2153.1193562177136,
+        2197.5135697479764,
+        91.95944231268626,
+        41.22319827810048
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 3790.862323999409
+    },
+    {
+      "id": 4,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2156.2903714698755,
+        2562.1803237465583,
+        82.44639655620098,
+        41.22319827810048
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 3398.704152551174
+    },
+    {
+      "id": 5,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2168.9744324785215,
+        2679.5078880765363,
+        72.93335079971675,
+        50.73624403458586
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 3700.3642844344868
+    },
+    {
+      "id": 6,
+      "image_id": 0,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        221.97106765131073,
+        453.4551810591061,
+        681.76827921474,
+        275.87832693805757
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 188085.09222920096
+    },
+    {
+      "id": 7,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        224.12425673919327,
+        887.3490981102752,
+        1966.8047019970022,
+        1916.491093341265
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 3769363.693718976
+    },
+    {
+      "id": 8,
+      "image_id": 0,
+      "category_id": 5,
+      "segmentation": [],
+      "bbox": [
+        1628.3313346765913,
+        2886.1715510700215,
+        562.5976240596074,
+        558.0236596363594
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 313942.7850804628
+    },
+    {
+      "id": 9,
+      "image_id": 0,
+      "category_id": 6,
+      "segmentation": [],
+      "bbox": [
+        1573.4437615976017,
+        2849.5798356840282,
+        663.224841371082,
+        626.633125985092
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 415598.65557932784
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2026-04-18 20:59:25.219546"
+  }
+}
