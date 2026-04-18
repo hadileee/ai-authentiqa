@@ -1,0 +1,535 @@
+{
+  "ocr_results": [
+    {
+      "text": "Lettcr Grade",
+      "bbox": {
+        "x_min": 1070,
+        "y_min": 214,
+        "x_max": 1192,
+        "y_max": 240
+      }
+    },
+    {
+      "text": "G?P Equivalent",
+      "bbox": {
+        "x_min": 1569,
+        "y_min": 211,
+        "x_max": 1702,
+        "y_max": 240
+      }
+    },
+    {
+      "text": "Assessment",
+      "bbox": {
+        "x_min": 1718,
+        "y_min": 215,
+        "x_max": 1835,
+        "y_max": 236
+      }
+    },
+    {
+      "text": "A",
+      "bbox": {
+        "x_min": 1123,
+        "y_min": 256,
+        "x_max": 1141,
+        "y_max": 277
+      }
+    },
+    {
+      "text": "Excellent In most aspects",
+      "bbox": {
+        "x_min": 1720,
+        "y_min": 253,
+        "x_max": 1957,
+        "y_max": 278
+      }
+    },
+    {
+      "text": "A;",
+      "bbox": {
+        "x_min": 1120,
+        "y_min": 286,
+        "x_max": 1141,
+        "y_max": 313
+      }
+    },
+    {
+      "text": "3.67",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 289,
+        "x_max": 1616,
+        "y_max": 310
+      }
+    },
+    {
+      "text": "Very good work",
+      "bbox": {
+        "x_min": 1714,
+        "y_min": 285,
+        "x_max": 1863,
+        "y_max": 314
+      }
+    },
+    {
+      "text": "B+",
+      "bbox": {
+        "x_min": 1114,
+        "y_min": 318,
+        "x_max": 1145,
+        "y_max": 347
+      }
+    },
+    {
+      "text": "3,33",
+      "bbox": {
+        "x_min": 1566,
+        "y_min": 318,
+        "x_max": 1617,
+        "y_max": 347
+      }
+    },
+    {
+      "text": "Generally very good wotk",
+      "bbox": {
+        "x_min": 1720,
+        "y_min": 321,
+        "x_max": 1951,
+        "y_max": 350
+      }
+    },
+    {
+      "text": "B",
+      "bbox": {
+        "x_min": 1123,
+        "y_min": 358,
+        "x_max": 1141,
+        "y_max": 379
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 358,
+        "x_max": 1585,
+        "y_max": 379
+      }
+    },
+    {
+      "text": "Gopd wark",
+      "bbox": {
+        "x_min": 1721,
+        "y_min": 358,
+        "x_max": 1821,
+        "y_max": 379
+      }
+    },
+    {
+      "text": "B-",
+      "bbox": {
+        "x_min": 1116,
+        "y_min": 390,
+        "x_max": 1142,
+        "y_max": 416
+      }
+    },
+    {
+      "text": "2,67",
+      "bbox": {
+        "x_min": 1566,
+        "y_min": 390,
+        "x_max": 1614,
+        "y_max": 416
+      }
+    },
+    {
+      "text": "Qulte good work with some errors",
+      "bbox": {
+        "x_min": 1714,
+        "y_min": 387,
+        "x_max": 2028,
+        "y_max": 418
+      }
+    },
+    {
+      "text": "C+",
+      "bbox": {
+        "x_min": 1111,
+        "y_min": 423,
+        "x_max": 1145,
+        "y_max": 451
+      }
+    },
+    {
+      "text": "2.33",
+      "bbox": {
+        "x_min": 1566,
+        "y_min": 423,
+        "x_max": 1614,
+        "y_max": 451
+      }
+    },
+    {
+      "text": "Falr work",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 425,
+        "x_max": 1809,
+        "y_max": 451
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 1120,
+        "y_min": 459,
+        "x_max": 1141,
+        "y_max": 486
+      }
+    },
+    {
+      "text": "2",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 462,
+        "x_max": 1585,
+        "y_max": 486
+      }
+    },
+    {
+      "text": "Acceptable wark t0 valldate the module",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 461,
+        "x_max": 2083,
+        "y_max": 487
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 1114,
+        "y_min": 491,
+        "x_max": 1142,
+        "y_max": 520
+      }
+    },
+    {
+      "text": "1,67",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 498,
+        "x_max": 1613,
+        "y_max": 519
+      }
+    },
+    {
+      "text": "UnsatIsfactary with serfous errors",
+      "bbox": {
+        "x_min": 1716,
+        "y_min": 494,
+        "x_max": 2025,
+        "y_max": 523
+      }
+    },
+    {
+      "text": "D+",
+      "bbox": {
+        "x_min": 1114,
+        "y_min": 527,
+        "x_max": 1145,
+        "y_max": 555
+      }
+    },
+    {
+      "text": "1.34",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 533,
+        "x_max": 1613,
+        "y_max": 554
+      }
+    },
+    {
+      "text": "Not satfsfactary",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 529,
+        "x_max": 1869,
+        "y_max": 559
+      }
+    },
+    {
+      "text": "D",
+      "bbox": {
+        "x_min": 1120,
+        "y_min": 566,
+        "x_max": 1139,
+        "y_max": 590
+      }
+    },
+    {
+      "text": "Completely unsatfsfactory- Caurse to be retaken",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 565,
+        "x_max": 2171,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "Comptetely unsatisfactory- Course to be retaken",
+      "bbox": {
+        "x_min": 1714,
+        "y_min": 598,
+        "x_max": 2168,
+        "y_max": 627
+      }
+    },
+    {
+      "text": "F",
+      "bbox": {
+        "x_min": 1116,
+        "y_min": 601,
+        "x_max": 1142,
+        "y_max": 695
+      }
+    },
+    {
+      "text": "NA \"",
+      "bbox": {
+        "x_min": 1569,
+        "y_min": 634,
+        "x_max": 1611,
+        "y_max": 660
+      }
+    },
+    {
+      "text": "Withdrawal",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 636,
+        "x_max": 1828,
+        "y_max": 660
+      }
+    },
+    {
+      "text": "NA\"",
+      "bbox": {
+        "x_min": 1569,
+        "y_min": 669,
+        "x_max": 1611,
+        "y_max": 695
+      }
+    },
+    {
+      "text": "Pass",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 669,
+        "x_max": 1767,
+        "y_max": 693
+      }
+    },
+    {
+      "text": "T",
+      "bbox": {
+        "x_min": 1120,
+        "y_min": 706,
+        "x_max": 1139,
+        "y_max": 727
+      }
+    },
+    {
+      "text": "NR\"",
+      "bbox": {
+        "x_min": 1570,
+        "y_min": 706,
+        "x_max": 1610,
+        "y_max": 727
+      }
+    },
+    {
+      "text": "Transferred Course",
+      "bbox": {
+        "x_min": 1717,
+        "y_min": 702,
+        "x_max": 1896,
+        "y_max": 731
+      }
+    },
+    {
+      "text": "NA: Not",
+      "bbox": {
+        "x_min": 248,
+        "y_min": 744,
+        "x_max": 324,
+        "y_max": 763
+      }
+    },
+    {
+      "text": "applicoble",
+      "bbox": {
+        "x_min": 321,
+        "y_min": 738,
+        "x_max": 427,
+        "y_max": 769
+      }
+    },
+    {
+      "text": "Konors",
+      "bbox": {
+        "x_min": 233,
+        "y_min": 946,
+        "x_max": 317,
+        "y_max": 975
+      }
+    },
+    {
+      "text": "Dean 5 list: GPA of 3,5and higher",
+      "bbox": {
+        "x_min": 686,
+        "y_min": 982,
+        "x_max": 997,
+        "y_max": 1013
+      }
+    },
+    {
+      "text": "Honor\"s Ist: GPA ol 3.3",
+      "bbox": {
+        "x_min": 689,
+        "y_min": 1018,
+        "x_max": 904,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "higher",
+      "bbox": {
+        "x_min": 938,
+        "y_min": 1018,
+        "x_max": 1005,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "Course numbering system",
+      "bbox": {
+        "x_min": 235,
+        "y_min": 1048,
+        "x_max": 510,
+        "y_max": 1084
+      }
+    },
+    {
+      "text": "The course code is a subJect cade at three t0 Iour characters {pllowed by a numeric code:",
+      "bbox": {
+        "x_min": 689,
+        "y_min": 1086,
+        "x_max": 1499,
+        "y_max": 1115
+      }
+    },
+    {
+      "text": "100-200 course codes usually correspond to {reshman and saphomare-level courses",
+      "bbox": {
+        "x_min": 686,
+        "y_min": 1122,
+        "x_max": 1460,
+        "y_max": 1150
+      }
+    },
+    {
+      "text": "300-400 are Junlor and senior level courses-",
+      "bbox": {
+        "x_min": 686,
+        "y_min": 1157,
+        "x_max": 1087,
+        "y_max": 1186
+      }
+    },
+    {
+      "text": "400-500 are senlor and advancedlgraduate level courses_",
+      "bbox": {
+        "x_min": 686,
+        "y_min": 1190,
+        "x_max": 1208,
+        "y_max": 1222
+      }
+    },
+    {
+      "text": "Graduatlon requirements",
+      "bbox": {
+        "x_min": 236,
+        "y_min": 1262,
+        "x_max": 501,
+        "y_max": 1290
+      }
+    },
+    {
+      "text": "Aminmum cumulative grade point average 0f 2.0 on",
+      "bbox": {
+        "x_min": 689,
+        "y_min": 1298,
+        "x_max": 1164,
+        "y_max": 1330
+      }
+    },
+    {
+      "text": "scale 0f 4.0",
+      "bbox": {
+        "x_min": 1180,
+        "y_min": 1301,
+        "x_max": 1289,
+        "y_max": 1322
+      }
+    },
+    {
+      "text": "AC orbetter In all speciallzatlon (major) courses",
+      "bbox": {
+        "x_min": 686,
+        "y_min": 1330,
+        "x_max": 1134,
+        "y_max": 1362
+      }
+    },
+    {
+      "text": "No grade less than D+ (NofIn any caurse);",
+      "bbox": {
+        "x_min": 685,
+        "y_min": 1363,
+        "x_max": 1088,
+        "y_max": 1399
+      }
+    },
+    {
+      "text": "The Mediterranean Institute of Technalogyis a private Universlty accredited by the Tunislan Ministry of Higher Education & Scientific Research Address: Campus MSB-MedTech, les jardlns du Lac 2, 1053,Tunls, Tunisla. Web:",
+      "bbox": {
+        "x_min": 232,
+        "y_min": 1472,
+        "x_max": 2254,
+        "y_max": 1509
+      }
+    },
+    {
+      "text": "wrwmedtech tn Tel: 00 216 70 016 100.",
+      "bbox": {
+        "x_min": 233,
+        "y_min": 1506,
+        "x_max": 613,
+        "y_max": 1537
+      }
+    },
+    {
+      "text": "and",
+      "bbox": {
+        "x_min": 901,
+        "y_min": 1019,
+        "x_max": 943,
+        "y_max": 1046
+      }
+    }
+  ]
+}

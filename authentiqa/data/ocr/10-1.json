@@ -104,7 +104,7 @@
       }
     },
     {
-      "text": "First Name: Hadile",
+      "text": "First Name: ////",
       "confidence": 0.7337246916257555,
       "bbox": {
         "x_min": 56,
@@ -114,7 +114,7 @@
       }
     },
     {
-      "text": "Last Name: Djebbi",
+      "text": "Last Name: ////",
       "confidence": 0.9982075839765807,
       "bbox": {
         "x_min": 56,

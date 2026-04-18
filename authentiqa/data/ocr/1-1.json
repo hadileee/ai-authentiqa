@@ -114,7 +114,7 @@
       }
     },
     {
-      "text": "First Name:",
+      "text": "First Name: ////",
       "confidence": 0.9954464243805987,
       "bbox": {
         "x_min": 54,
@@ -124,7 +124,7 @@
       }
     },
     {
-      "text": "Last Name:",
+      "text": "Last Name: ////",
       "confidence": 0.9998129773013088,
       "bbox": {
         "x_min": 56,

@@ -1,0 +1,13 @@
+<View>
+  <Image name="image" value="$image" zoom="true"/>
+  
+  <RectangleLabels name="label" toName="image">
+    <Label value="logo" background="#FF6B6B"/>
+    <Label value="signature" background="#4ECDC4"/>
+    <Label value="stamp" background="#FFE66D"/>
+    <Label value="registrar_block" background="#95E1D3"/>
+    <Label value="gpa" background="#A8E6CF"/>
+    <Label value="issue_date" background="#DDA0DD"/>
+    <Label value="grade_table" background="#87CEEB"/>
+  </RectangleLabels>
+</View>

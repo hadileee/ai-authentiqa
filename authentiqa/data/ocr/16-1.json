@@ -104,7 +104,7 @@
       }
     },
     {
-      "text": "First Name: Mohamed Bechir",
+      "text": "First Name: ////",
       "confidence": 0.8092958863917428,
       "bbox": {
         "x_min": 56,
@@ -114,7 +114,7 @@
       }
     },
     {
-      "text": "Last Name: Ben Abda",
+      "text": "Last Name: ////",
       "confidence": 0.9896477620884451,
       "bbox": {
         "x_min": 56,
