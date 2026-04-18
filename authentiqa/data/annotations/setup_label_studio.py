@@ -6,17 +6,15 @@ import base64
 import os
 import requests
 
-from label_studio_sdk import Client
-
 AUTHENTIC_DIR = os.path.join(os.path.dirname(__file__), "..", "authentic")
 ANNOTATIONS_DIR = os.path.dirname(__file__)
 
 LABEL_STUDIO_URL = "http://localhost:8080"
 
 LABEL_CONFIG = '''<View>
-  <Image name="image" value="$image" zoom="true"/>
+  <Image name="data" value="$data"/>
   
-  <RectangleLabels name="label" toName="image">
+  <RectangleLabels name="label" toName="data">
     <Label value="logo" background="#FF6B6B"/>
     <Label value="signature" background="#4ECDC4"/>
     <Label value="stamp" background="#FFE66D"/>
@@ -57,6 +55,7 @@ def set_labeling_config(project_id, api_token):
 
 
 def import_images(project_id, api_token):
+    from label_studio_sdk import Client
     ls_client = Client(url=LABEL_STUDIO_URL, token=api_token)
     
     image_files = sorted([f for f in os.listdir(AUTHENTIC_DIR) if f.endswith('.png')])
@@ -67,7 +66,7 @@ def import_images(project_id, api_token):
         img_path = os.path.join(AUTHENTIC_DIR, img_file)
         with open(img_path, 'rb') as f:
             b64_data = base64.b64encode(f.read()).decode('utf-8')
-            tasks.append({"image": f"data:image/png;base64,{b64_data}"})
+            tasks.append({"data": f"data:image/png;base64,{b64_data}"})
     
     ls_client.tasks.create(project=project_id, tasks=tasks)
     

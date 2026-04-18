@@ -1,7 +1,7 @@
 <View>
-  <Image name="data" value="$data"/>
+  <Image name="image" value="$image" zoom="true"/>
   
-  <RectangleLabels name="label" toName="data">
+  <RectangleLabels name="label" toName="image">
     <Label value="logo" background="#FF6B6B"/>
     <Label value="signature" background="#4ECDC4"/>
     <Label value="stamp" background="#FFE66D"/>
