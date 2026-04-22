@@ -1,0 +1,7 @@
+transformers>=4.40.0
+datasets>=2.10.0
+evaluate>=0.4.0
+torch>=1.13.0
+torchvision
+accelerate
+Pillow
