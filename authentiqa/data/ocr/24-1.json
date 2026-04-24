@@ -1,0 +1,1408 @@
+{
+  "ocr_results": [
+    {
+      "text": "MedTech",
+      "bbox": {
+        "x_min": 436,
+        "y_min": 307,
+        "x_max": 530,
+        "y_max": 333
+      }
+    },
+    {
+      "text": "Mediterranear",
+      "bbox": {
+        "x_min": 440,
+        "y_min": 333,
+        "x_max": 532,
+        "y_max": 346
+      }
+    },
+    {
+      "text": "SMU",
+      "bbox": {
+        "x_min": 360,
+        "y_min": 344,
+        "x_max": 412,
+        "y_max": 365
+      }
+    },
+    {
+      "text": "Institute",
+      "bbox": {
+        "x_min": 440,
+        "y_min": 349,
+        "x_max": 494,
+        "y_max": 362
+      }
+    },
+    {
+      "text": "Tecnnologv",
+      "bbox": {
+        "x_min": 508,
+        "y_min": 349,
+        "x_max": 584,
+        "y_max": 362
+      }
+    },
+    {
+      "text": "Unofficial Transcript",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 411,
+        "x_max": 544,
+        "y_max": 440
+      }
+    },
+    {
+      "text": "Pre-engineering Program",
+      "bbox": {
+        "x_min": 954,
+        "y_min": 413,
+        "x_max": 1211,
+        "y_max": 442
+      }
+    },
+    {
+      "text": "name:",
+      "bbox": {
+        "x_min": 385,
+        "y_min": 489,
+        "x_max": 453,
+        "y_max": 510
+      }
+    },
+    {
+      "text": "Abdelkarim",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 485,
+        "x_max": 678,
+        "y_max": 511
+      }
+    },
+    {
+      "text": "Last name:",
+      "bbox": {
+        "x_min": 333,
+        "y_min": 523,
+        "x_max": 451,
+        "y_max": 551
+      }
+    },
+    {
+      "text": "Elhamdi",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 525,
+        "x_max": 645,
+        "y_max": 546
+      }
+    },
+    {
+      "text": "Date of Birth:",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 559,
+        "x_max": 478,
+        "y_max": 585
+      }
+    },
+    {
+      "text": "15/11/2002",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 559,
+        "x_max": 681,
+        "y_max": 588
+      }
+    },
+    {
+      "text": "Country of Birth:",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 598,
+        "x_max": 509,
+        "y_max": 627
+      }
+    },
+    {
+      "text": "Tunisia",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 600,
+        "x_max": 635,
+        "y_max": 624
+      }
+    },
+    {
+      "text": "CIN:",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 636,
+        "x_max": 385,
+        "y_max": 662
+      }
+    },
+    {
+      "text": "13235997",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 633,
+        "x_max": 662,
+        "y_max": 662
+      }
+    },
+    {
+      "text": "Student ID:",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 674,
+        "x_max": 456,
+        "y_max": 700
+      }
+    },
+    {
+      "text": "221-5259",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 672,
+        "x_max": 659,
+        "y_max": 700
+      }
+    },
+    {
+      "text": "Course Code",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 751,
+        "x_max": 467,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "Course Name",
+      "bbox": {
+        "x_min": 561,
+        "y_min": 751,
+        "x_max": 700,
+        "y_max": 779
+      }
+    },
+    {
+      "text": "US Credits",
+      "bbox": {
+        "x_min": 951,
+        "y_min": 748,
+        "x_max": 1062,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "ECTS",
+      "bbox": {
+        "x_min": 1072,
+        "y_min": 748,
+        "x_max": 1128,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "Earned ECTS Cr",
+      "bbox": {
+        "x_min": 1195,
+        "y_min": 748,
+        "x_max": 1353,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "Letter Grade",
+      "bbox": {
+        "x_min": 1371,
+        "y_min": 751,
+        "x_max": 1501,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "CS101",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 787,
+        "x_max": 402,
+        "y_max": 813
+      }
+    },
+    {
+      "text": "Introduction",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 790,
+        "x_max": 689,
+        "y_max": 815
+      }
+    },
+    {
+      "text": "to",
+      "bbox": {
+        "x_min": 695,
+        "y_min": 793,
+        "x_max": 719,
+        "y_max": 812
+      }
+    },
+    {
+      "text": "Programming",
+      "bbox": {
+        "x_min": 726,
+        "y_min": 789,
+        "x_max": 863,
+        "y_max": 820
+      }
+    },
+    {
+      "text": "5,5",
+      "bbox": {
+        "x_min": 1116,
+        "y_min": 787,
+        "x_max": 1153,
+        "y_max": 815
+      }
+    },
+    {
+      "text": "PSY1O1",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 825,
+        "x_max": 413,
+        "y_max": 851
+      }
+    },
+    {
+      "text": "Introduction",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 829,
+        "x_max": 686,
+        "y_max": 850
+      }
+    },
+    {
+      "text": "to",
+      "bbox": {
+        "x_min": 695,
+        "y_min": 832,
+        "x_max": 719,
+        "y_max": 850
+      }
+    },
+    {
+      "text": "Psychology",
+      "bbox": {
+        "x_min": 724,
+        "y_min": 825,
+        "x_max": 840,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1007,
+        "y_min": 829,
+        "x_max": 1023,
+        "y_max": 850
+      }
+    },
+    {
+      "text": "4,5",
+      "bbox": {
+        "x_min": 1116,
+        "y_min": 825,
+        "x_max": 1153,
+        "y_max": 854
+      }
+    },
+    {
+      "text": "4,5",
+      "bbox": {
+        "x_min": 1264,
+        "y_min": 825,
+        "x_max": 1301,
+        "y_max": 854
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 1424,
+        "y_min": 829,
+        "x_max": 1439,
+        "y_max": 850
+      }
+    },
+    {
+      "text": "MGMT1O1",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 861,
+        "x_max": 445,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "Introduction to Management",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 866,
+        "x_max": 851,
+        "y_max": 892
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1007,
+        "y_min": 867,
+        "x_max": 1023,
+        "y_max": 888
+      }
+    },
+    {
+      "text": "5,5",
+      "bbox": {
+        "x_min": 1113,
+        "y_min": 864,
+        "x_max": 1153,
+        "y_max": 892
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 1414,
+        "y_min": 861,
+        "x_max": 1443,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "ECO171",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 899,
+        "x_max": 418,
+        "y_max": 928
+      }
+    },
+    {
+      "text": "Introduction",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 906,
+        "x_max": 686,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "to",
+      "bbox": {
+        "x_min": 695,
+        "y_min": 906,
+        "x_max": 719,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "Microeconomics",
+      "bbox": {
+        "x_min": 728,
+        "y_min": 906,
+        "x_max": 891,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1007,
+        "y_min": 906,
+        "x_max": 1023,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "4,5",
+      "bbox": {
+        "x_min": 1115,
+        "y_min": 898,
+        "x_max": 1154,
+        "y_max": 934
+      }
+    },
+    {
+      "text": "s5",
+      "bbox": {
+        "x_min": 1260,
+        "y_min": 863,
+        "x_max": 1302,
+        "y_max": 934
+      }
+    },
+    {
+      "text": "B-",
+      "bbox": {
+        "x_min": 1418,
+        "y_min": 906,
+        "x_max": 1439,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "MATH141",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 938,
+        "x_max": 437,
+        "y_max": 966
+      }
+    },
+    {
+      "text": "Calculus",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 944,
+        "x_max": 647,
+        "y_max": 965
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1007,
+        "y_min": 941,
+        "x_max": 1023,
+        "y_max": 965
+      }
+    },
+    {
+      "text": "5,5",
+      "bbox": {
+        "x_min": 1261,
+        "y_min": 938,
+        "x_max": 1301,
+        "y_max": 969
+      }
+    },
+    {
+      "text": "C+",
+      "bbox": {
+        "x_min": 1414,
+        "y_min": 938,
+        "x_max": 1443,
+        "y_max": 966
+      }
+    },
+    {
+      "text": "PHYS151",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 976,
+        "x_max": 426,
+        "y_max": 1005
+      }
+    },
+    {
+      "text": "Classical Mechanics",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 979,
+        "x_max": 758,
+        "y_max": 1005
+      }
+    },
+    {
+      "text": "4",
+      "bbox": {
+        "x_min": 1004,
+        "y_min": 982,
+        "x_max": 1023,
+        "y_max": 1004
+      }
+    },
+    {
+      "text": "5,5",
+      "bbox": {
+        "x_min": 1263,
+        "y_min": 975,
+        "x_max": 1304,
+        "y_max": 1011
+      }
+    },
+    {
+      "text": "ENG111",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1014,
+        "x_max": 418,
+        "y_max": 1043
+      }
+    },
+    {
+      "text": "Academic English",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 1014,
+        "x_max": 736,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1004,
+        "y_min": 1018,
+        "x_max": 1023,
+        "y_max": 1042
+      }
+    },
+    {
+      "text": ":",
+      "bbox": {
+        "x_min": 1115,
+        "y_min": 937,
+        "x_max": 1154,
+        "y_max": 1121
+      }
+    },
+    {
+      "text": "4,5",
+      "bbox": {
+        "x_min": 1264,
+        "y_min": 1014,
+        "x_max": 1301,
+        "y_max": 1046
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 1424,
+        "y_min": 1018,
+        "x_max": 1439,
+        "y_max": 1039
+      }
+    },
+    {
+      "text": "ECE143",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1053,
+        "x_max": 413,
+        "y_max": 1079
+      }
+    },
+    {
+      "text": "Digital Systems",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 1055,
+        "x_max": 714,
+        "y_max": 1084
+      }
+    },
+    {
+      "text": "4",
+      "bbox": {
+        "x_min": 1004,
+        "y_min": 1056,
+        "x_max": 1023,
+        "y_max": 1086
+      }
+    },
+    {
+      "text": "0",
+      "bbox": {
+        "x_min": 1273,
+        "y_min": 1056,
+        "x_max": 1291,
+        "y_max": 1078
+      }
+    },
+    {
+      "text": "Fall 2022",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1091,
+        "x_max": 429,
+        "y_max": 1117
+      }
+    },
+    {
+      "text": "Term Credits",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 1095,
+        "x_max": 694,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "27",
+      "bbox": {
+        "x_min": 995,
+        "y_min": 1088,
+        "x_max": 1026,
+        "y_max": 1120
+      }
+    },
+    {
+      "text": "30",
+      "bbox": {
+        "x_min": 1266,
+        "y_min": 1091,
+        "x_max": 1298,
+        "y_max": 1117
+      }
+    },
+    {
+      "text": "Term GPA",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 1129,
+        "x_max": 667,
+        "y_max": 1155
+      }
+    },
+    {
+      "text": "1,63",
+      "bbox": {
+        "x_min": 1436,
+        "y_min": 1129,
+        "x_max": 1487,
+        "y_max": 1155
+      }
+    },
+    {
+      "text": "Cumulative Attempted",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1165,
+        "x_max": 569,
+        "y_max": 1194
+      }
+    },
+    {
+      "text": "Credits",
+      "bbox": {
+        "x_min": 577,
+        "y_min": 1169,
+        "x_max": 650,
+        "y_max": 1190
+      }
+    },
+    {
+      "text": "27",
+      "bbox": {
+        "x_min": 995,
+        "y_min": 1162,
+        "x_max": 1029,
+        "y_max": 1191
+      }
+    },
+    {
+      "text": "41",
+      "bbox": {
+        "x_min": 1118,
+        "y_min": 1162,
+        "x_max": 1147,
+        "y_max": 1194
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1198,
+        "x_max": 607,
+        "y_max": 1227
+      }
+    },
+    {
+      "text": "19",
+      "bbox": {
+        "x_min": 998,
+        "y_min": 1195,
+        "x_max": 1029,
+        "y_max": 1227
+      }
+    },
+    {
+      "text": "30",
+      "bbox": {
+        "x_min": 1118,
+        "y_min": 1198,
+        "x_max": 1150,
+        "y_max": 1227
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1234,
+        "x_max": 505,
+        "y_max": 1263
+      }
+    },
+    {
+      "text": "Programs Manager",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1447,
+        "x_max": 528,
+        "y_max": 1478
+      }
+    },
+    {
+      "text": "Marwa Amri",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 1448,
+        "x_max": 688,
+        "y_max": 1469
+      }
+    },
+    {
+      "text": "Grading System",
+      "bbox": {
+        "x_min": 333,
+        "y_min": 1619,
+        "x_max": 515,
+        "y_max": 1656
+      }
+    },
+    {
+      "text": "Letter Grade",
+      "bbox": {
+        "x_min": 694,
+        "y_min": 1697,
+        "x_max": 822,
+        "y_max": 1726
+      }
+    },
+    {
+      "text": "GP Equivale Assessment",
+      "bbox": {
+        "x_min": 954,
+        "y_min": 1699,
+        "x_max": 1197,
+        "y_max": 1728
+      }
+    },
+    {
+      "text": "A",
+      "bbox": {
+        "x_min": 749,
+        "y_min": 1739,
+        "x_max": 765,
+        "y_max": 1760
+      }
+    },
+    {
+      "text": "Excellent in most aspects",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 1735,
+        "x_max": 1325,
+        "y_max": 1761
+      }
+    },
+    {
+      "text": "A-",
+      "bbox": {
+        "x_min": 743,
+        "y_min": 1768,
+        "x_max": 769,
+        "y_max": 1794
+      }
+    },
+    {
+      "text": "3,67",
+      "bbox": {
+        "x_min": 955,
+        "y_min": 1772,
+        "x_max": 998,
+        "y_max": 1793
+      }
+    },
+    {
+      "text": "Very good work",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 1770,
+        "x_max": 1235,
+        "y_max": 1800
+      }
+    },
+    {
+      "text": "B+",
+      "bbox": {
+        "x_min": 744,
+        "y_min": 1807,
+        "x_max": 771,
+        "y_max": 1828
+      }
+    },
+    {
+      "text": "3,33",
+      "bbox": {
+        "x_min": 951,
+        "y_min": 1804,
+        "x_max": 1002,
+        "y_max": 1832
+      }
+    },
+    {
+      "text": "Generally very good work",
+      "bbox": {
+        "x_min": 1077,
+        "y_min": 1805,
+        "x_max": 1331,
+        "y_max": 1833
+      }
+    },
+    {
+      "text": "B",
+      "bbox": {
+        "x_min": 749,
+        "y_min": 1840,
+        "x_max": 765,
+        "y_max": 1864
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 955,
+        "y_min": 1843,
+        "x_max": 971,
+        "y_max": 1864
+      }
+    },
+    {
+      "text": "Good work",
+      "bbox": {
+        "x_min": 1076,
+        "y_min": 1843,
+        "x_max": 1187,
+        "y_max": 1864
+      }
+    },
+    {
+      "text": "B-",
+      "bbox": {
+        "x_min": 747,
+        "y_min": 1876,
+        "x_max": 768,
+        "y_max": 1897
+      }
+    },
+    {
+      "text": "2,67",
+      "bbox": {
+        "x_min": 955,
+        "y_min": 1879,
+        "x_max": 998,
+        "y_max": 1900
+      }
+    },
+    {
+      "text": "Quite good work with some errors",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 1874,
+        "x_max": 1416,
+        "y_max": 1904
+      }
+    },
+    {
+      "text": "C+",
+      "bbox": {
+        "x_min": 740,
+        "y_min": 1908,
+        "x_max": 772,
+        "y_max": 1934
+      }
+    },
+    {
+      "text": "2,33",
+      "bbox": {
+        "x_min": 951,
+        "y_min": 1908,
+        "x_max": 1002,
+        "y_max": 1936
+      }
+    },
+    {
+      "text": "Fair work",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 1910,
+        "x_max": 1172,
+        "y_max": 1936
+      }
+    },
+    {
+      "text": "C",
+      "bbox": {
+        "x_min": 747,
+        "y_min": 1944,
+        "x_max": 768,
+        "y_max": 1968
+      }
+    },
+    {
+      "text": "2",
+      "bbox": {
+        "x_min": 955,
+        "y_min": 1947,
+        "x_max": 971,
+        "y_max": 1968
+      }
+    },
+    {
+      "text": "Acceptable work to validate the module",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 1943,
+        "x_max": 1470,
+        "y_max": 1972
+      }
+    },
+    {
+      "text": "C-",
+      "bbox": {
+        "x_min": 747,
+        "y_min": 1980,
+        "x_max": 768,
+        "y_max": 2004
+      }
+    },
+    {
+      "text": "1,67",
+      "bbox": {
+        "x_min": 954,
+        "y_min": 1982,
+        "x_max": 999,
+        "y_max": 2008
+      }
+    },
+    {
+      "text": "Unsatisfactory with serious errors",
+      "bbox": {
+        "x_min": 1074,
+        "y_min": 1979,
+        "x_max": 1410,
+        "y_max": 2008
+      }
+    },
+    {
+      "text": "D+",
+      "bbox": {
+        "x_min": 740,
+        "y_min": 2012,
+        "x_max": 772,
+        "y_max": 2041
+      }
+    },
+    {
+      "text": "1,34",
+      "bbox": {
+        "x_min": 951,
+        "y_min": 2015,
+        "x_max": 1002,
+        "y_max": 2041
+      }
+    },
+    {
+      "text": "Not",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 2017,
+        "x_max": 1117,
+        "y_max": 2041
+      }
+    },
+    {
+      "text": " satisfactory",
+      "bbox": {
+        "x_min": 1111,
+        "y_min": 2009,
+        "x_max": 1236,
+        "y_max": 2045
+      }
+    },
+    {
+      "text": "D",
+      "bbox": {
+        "x_min": 747,
+        "y_min": 2051,
+        "x_max": 768,
+        "y_max": 2072
+      }
+    },
+    {
+      "text": "Completely unsatisfactory _ Course to be retaken",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 2047,
+        "x_max": 1564,
+        "y_max": 2076
+      }
+    },
+    {
+      "text": "F",
+      "bbox": {
+        "x_min": 749,
+        "y_min": 2084,
+        "x_max": 768,
+        "y_max": 2108
+      }
+    },
+    {
+      "text": "Completely unsatisfactory",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 2083,
+        "x_max": 1337,
+        "y_max": 2112
+      }
+    },
+    {
+      "text": "Course to be retaken",
+      "bbox": {
+        "x_min": 1351,
+        "y_min": 2083,
+        "x_max": 1564,
+        "y_max": 2113
+      }
+    },
+    {
+      "text": "NA*",
+      "bbox": {
+        "x_min": 957,
+        "y_min": 2121,
+        "x_max": 999,
+        "y_max": 2145
+      }
+    },
+    {
+      "text": "Withdrawal",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 2121,
+        "x_max": 1196,
+        "y_max": 2145
+      }
+    },
+    {
+      "text": "W",
+      "bbox": {
+        "x_min": 746,
+        "y_min": 2111,
+        "x_max": 772,
+        "y_max": 2180
+      }
+    },
+    {
+      "text": "NA *",
+      "bbox": {
+        "x_min": 957,
+        "y_min": 2154,
+        "x_max": 999,
+        "y_max": 2180
+      }
+    },
+    {
+      "text": "Pass",
+      "bbox": {
+        "x_min": 1076,
+        "y_min": 2158,
+        "x_max": 1124,
+        "y_max": 2179
+      }
+    },
+    {
+      "text": "T",
+      "bbox": {
+        "x_min": 749,
+        "y_min": 2191,
+        "x_max": 765,
+        "y_max": 2212
+      }
+    },
+    {
+      "text": "NA *",
+      "bbox": {
+        "x_min": 954,
+        "y_min": 2190,
+        "x_max": 999,
+        "y_max": 2216
+      }
+    },
+    {
+      "text": "Transferred Course",
+      "bbox": {
+        "x_min": 1075,
+        "y_min": 2190,
+        "x_max": 1268,
+        "y_max": 2216
+      }
+    },
+    {
+      "text": "#NA: Not applicable",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 2223,
+        "x_max": 536,
+        "y_max": 2252
+      }
+    },
+    {
+      "text": "Honors",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 2431,
+        "x_max": 421,
+        "y_max": 2460
+      }
+    },
+    {
+      "text": "**",
+      "bbox": {
+        "x_min": 338,
+        "y_min": 2471,
+        "x_max": 362,
+        "y_max": 2484
+      }
+    },
+    {
+      "text": "Dean's list: GPA of 3.5 and higher",
+      "bbox": {
+        "x_min": 558,
+        "y_min": 2465,
+        "x_max": 894,
+        "y_max": 2503
+      }
+    },
+    {
+      "text": "Honor's list: GPA of 3.3 and higher",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 2502,
+        "x_max": 900,
+        "y_max": 2534
+      }
+    },
+    {
+      "text": "Course numbering system",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 2532,
+        "x_max": 629,
+        "y_max": 2572
+      }
+    },
+    {
+      "text": "The course code is",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 2576,
+        "x_max": 747,
+        "y_max": 2600
+      }
+    },
+    {
+      "text": "subject code of three to four characters followed by",
+      "bbox": {
+        "x_min": 762,
+        "y_min": 2574,
+        "x_max": 1276,
+        "y_max": 2602
+      }
+    },
+    {
+      "text": "numeric code",
+      "bbox": {
+        "x_min": 1291,
+        "y_min": 2576,
+        "x_max": 1429,
+        "y_max": 2600
+      }
+    },
+    {
+      "text": "100-200 course codes usually correspond to freshman and sophomore-level courses_",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 2607,
+        "x_max": 1386,
+        "y_max": 2638
+      }
+    },
+    {
+      "text": "300-400 are junior and senior level courses",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 2642,
+        "x_max": 985,
+        "y_max": 2674
+      }
+    },
+    {
+      "text": "400-500 are senior and advanced/graduate level courses",
+      "bbox": {
+        "x_min": 559,
+        "y_min": 2678,
+        "x_max": 1120,
+        "y_max": 2709
+      }
+    },
+    {
+      "text": "Graduation requirements",
+      "bbox": {
+        "x_min": 335,
+        "y_min": 2746,
+        "x_max": 621,
+        "y_max": 2778
+      }
+    },
+    {
+      "text": "A minmum cumulative grade point average of 2.0 on",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 2782,
+        "x_max": 1081,
+        "y_max": 2814
+      }
+    },
+    {
+      "text": "scale of 4.0",
+      "bbox": {
+        "x_min": 1096,
+        "y_min": 2785,
+        "x_max": 1213,
+        "y_max": 2811
+      }
+    },
+    {
+      "text": "A Cor better in all specialization (major) courses",
+      "bbox": {
+        "x_min": 562,
+        "y_min": 2818,
+        "x_max": 1037,
+        "y_max": 2846
+      }
+    },
+    {
+      "text": "No",
+      "bbox": {
+        "x_min": 563,
+        "y_min": 2857,
+        "x_max": 595,
+        "y_max": 2878
+      }
+    },
+    {
+      "text": "less than D+ (No",
+      "bbox": {
+        "x_min": 655,
+        "y_min": 2853,
+        "x_max": 826,
+        "y_max": 2882
+      }
+    },
+    {
+      "text": "in any course):",
+      "bbox": {
+        "x_min": 843,
+        "y_min": 2860,
+        "x_max": 990,
+        "y_max": 2881
+      }
+    },
+    {
+      "text": "The Mediterranean Institute of",
+      "bbox": {
+        "x_min": 332,
+        "y_min": 2963,
+        "x_max": 646,
+        "y_max": 2989
+      }
+    },
+    {
+      "text": "Technology is",
+      "bbox": {
+        "x_min": 640,
+        "y_min": 2959,
+        "x_max": 781,
+        "y_max": 2996
+      }
+    },
+    {
+      "text": "private university accredited by the Tunisian Ministry of Higher Education & Scientific",
+      "bbox": {
+        "x_min": 797,
+        "y_min": 2960,
+        "x_max": 1635,
+        "y_max": 2992
+      }
+    },
+    {
+      "text": "Research: Address: Campus MSB-MedTech, les jardins du Lac 2, 1053, Tunis",
+      "bbox": {
+        "x_min": 337,
+        "y_min": 2992,
+        "x_max": 1077,
+        "y_max": 3024
+      }
+    },
+    {
+      "text": "Tunisia. Web: WWWmedtech.tn Tel: 00 216 70 016 100.",
+      "bbox": {
+        "x_min": 1086,
+        "y_min": 2993,
+        "x_max": 1627,
+        "y_max": 3022
+      }
+    },
+    {
+      "text": "First",
+      "bbox": {
+        "x_min": 332,
+        "y_min": 482,
+        "x_max": 387,
+        "y_max": 513
+      }
+    },
+    {
+      "text": "1,63",
+      "bbox": {
+        "x_min": 1437,
+        "y_min": 1234,
+        "x_max": 1487,
+        "y_max": 1263
+      }
+    },
+    {
+      "text": "grade",
+      "bbox": {
+        "x_min": 593,
+        "y_min": 2854,
+        "x_max": 657,
+        "y_max": 2885
+      }
+    }
+  ]
+}

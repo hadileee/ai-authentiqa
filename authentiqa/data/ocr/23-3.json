@@ -1,0 +1,580 @@
+{
+  "ocr_results": [
+    {
+      "text": "Grading System",
+      "bbox": {
+        "x_min": 227,
+        "y_min": 226,
+        "x_max": 494,
+        "y_max": 282
+      }
+    },
+    {
+      "text": "Letter Grade",
+      "bbox": {
+        "x_min": 964,
+        "y_min": 345,
+        "x_max": 1157,
+        "y_max": 384
+      }
+    },
+    {
+      "text": "GP Equivalent",
+      "bbox": {
+        "x_min": 1411,
+        "y_min": 342,
+        "x_max": 1621,
+        "y_max": 387
+      }
+    },
+    {
+      "text": "Assessment",
+      "bbox": {
+        "x_min": 1694,
+        "y_min": 348,
+        "x_max": 1875,
+        "y_max": 384
+      }
+    },
+    {
+      "text": "A",
+      "bbox": {
+        "x_min": 1045,
+        "y_min": 406,
+        "x_max": 1071,
+        "y_max": 440
+      }
+    },
+    {
+      "text": "4",
+      "bbox": {
+        "x_min": 1416,
+        "y_min": 410,
+        "x_max": 1435,
+        "y_max": 434
+      }
+    },
+    {
+      "text": "Excellent in most aspects",
+      "bbox": {
+        "x_min": 1694,
+        "y_min": 402,
+        "x_max": 2063,
+        "y_max": 446
+      }
+    },
+    {
+      "text": "A-",
+      "bbox": {
+        "x_min": 1039,
+        "y_min": 452,
+        "x_max": 1077,
+        "y_max": 493
+      }
+    },
+    {
+      "text": "3.67",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 454,
+        "x_max": 1481,
+        "y_max": 491
+      }
+    },
+    {
+      "text": "Very",
+      "bbox": {
+        "x_min": 1692,
+        "y_min": 453,
+        "x_max": 1770,
+        "y_max": 495
+      }
+    },
+    {
+      "text": "work",
+      "bbox": {
+        "x_min": 1847,
+        "y_min": 454,
+        "x_max": 1930,
+        "y_max": 491
+      }
+    },
+    {
+      "text": "B+",
+      "bbox": {
+        "x_min": 1036,
+        "y_min": 507,
+        "x_max": 1083,
+        "y_max": 548
+      }
+    },
+    {
+      "text": "3.33",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 504,
+        "x_max": 1481,
+        "y_max": 540
+      }
+    },
+    {
+      "text": "Generally very good work",
+      "bbox": {
+        "x_min": 1693,
+        "y_min": 503,
+        "x_max": 2070,
+        "y_max": 547
+      }
+    },
+    {
+      "text": "8",
+      "bbox": {
+        "x_min": 1045,
+        "y_min": 557,
+        "x_max": 1074,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "3",
+      "bbox": {
+        "x_min": 1412,
+        "y_min": 560,
+        "x_max": 1436,
+        "y_max": 591
+      }
+    },
+    {
+      "text": "Good work",
+      "bbox": {
+        "x_min": 1694,
+        "y_min": 556,
+        "x_max": 1862,
+        "y_max": 592
+      }
+    },
+    {
+      "text": "B-",
+      "bbox": {
+        "x_min": 1039,
+        "y_min": 608,
+        "x_max": 1080,
+        "y_max": 650
+      }
+    },
+    {
+      "text": "2.67",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 608,
+        "x_max": 1478,
+        "y_max": 644
+      }
+    },
+    {
+      "text": "Quite",
+      "bbox": {
+        "x_min": 1694,
+        "y_min": 608,
+        "x_max": 1782,
+        "y_max": 644
+      }
+    },
+    {
+      "text": "work with some \u20ac",
+      "bbox": {
+        "x_min": 1861,
+        "y_min": 608,
+        "x_max": 2119,
+        "y_max": 644
+      }
+    },
+    {
+      "text": "C+",
+      "bbox": {
+        "x_min": 1036,
+        "y_min": 660,
+        "x_max": 1083,
+        "y_max": 702
+      }
+    },
+    {
+      "text": "2,33",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 660,
+        "x_max": 1481,
+        "y_max": 696
+      }
+    },
+    {
+      "text": "Fair work",
+      "bbox": {
+        "x_min": 1691,
+        "y_min": 660,
+        "x_max": 1837,
+        "y_max": 696
+      }
+    },
+    {
+      "text": "2",
+      "bbox": {
+        "x_min": 1412,
+        "y_min": 713,
+        "x_max": 1436,
+        "y_max": 745
+      }
+    },
+    {
+      "text": "Acceptable work to validate t",
+      "bbox": {
+        "x_min": 1694,
+        "y_min": 709,
+        "x_max": 2119,
+        "y_max": 751
+      }
+    },
+    {
+      "text": "c",
+      "bbox": {
+        "x_min": 1036,
+        "y_min": 707,
+        "x_max": 1075,
+        "y_max": 798
+      }
+    },
+    {
+      "text": "1.67",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 762,
+        "x_max": 1478,
+        "y_max": 798
+      }
+    },
+    {
+      "text": "Unsatisfactory with serious e",
+      "bbox": {
+        "x_min": 1692,
+        "y_min": 756,
+        "x_max": 2115,
+        "y_max": 805
+      }
+    },
+    {
+      "text": "1.34",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 814,
+        "x_max": 1481,
+        "y_max": 853
+      }
+    },
+    {
+      "text": "Not satisfactory",
+      "bbox": {
+        "x_min": 1693,
+        "y_min": 807,
+        "x_max": 1930,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "Dt",
+      "bbox": {
+        "x_min": 1035,
+        "y_min": 810,
+        "x_max": 1084,
+        "y_max": 906
+      }
+    },
+    {
+      "text": "1",
+      "bbox": {
+        "x_min": 1413,
+        "y_min": 871,
+        "x_max": 1432,
+        "y_max": 900
+      }
+    },
+    {
+      "text": "Completely unsatisfactory",
+      "bbox": {
+        "x_min": 1690,
+        "y_min": 860,
+        "x_max": 2077,
+        "y_max": 911
+      }
+    },
+    {
+      "text": "5",
+      "bbox": {
+        "x_min": 2077,
+        "y_min": 876,
+        "x_max": 2101,
+        "y_max": 894
+      }
+    },
+    {
+      "text": "(",
+      "bbox": {
+        "x_min": 2102,
+        "y_min": 871,
+        "x_max": 2120,
+        "y_max": 900
+      }
+    },
+    {
+      "text": "0",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 916,
+        "x_max": 1433,
+        "y_max": 950
+      }
+    },
+    {
+      "text": "Completely unsatisfactory",
+      "bbox": {
+        "x_min": 1690,
+        "y_min": 910,
+        "x_max": 2077,
+        "y_max": 958
+      }
+    },
+    {
+      "text": "~ (",
+      "bbox": {
+        "x_min": 2076,
+        "y_min": 922,
+        "x_max": 2118,
+        "y_max": 950
+      }
+    },
+    {
+      "text": "NA*",
+      "bbox": {
+        "x_min": 1411,
+        "y_min": 964,
+        "x_max": 1478,
+        "y_max": 1003
+      }
+    },
+    {
+      "text": "Withdrawal",
+      "bbox": {
+        "x_min": 1691,
+        "y_min": 967,
+        "x_max": 1870,
+        "y_max": 1003
+      }
+    },
+    {
+      "text": ";",
+      "bbox": {
+        "x_min": 1036,
+        "y_min": 912,
+        "x_max": 1075,
+        "y_max": 1105
+      }
+    },
+    {
+      "text": "NA*",
+      "bbox": {
+        "x_min": 1407,
+        "y_min": 1015,
+        "x_max": 1480,
+        "y_max": 1057
+      }
+    },
+    {
+      "text": "Pass",
+      "bbox": {
+        "x_min": 1691,
+        "y_min": 1019,
+        "x_max": 1763,
+        "y_max": 1056
+      }
+    },
+    {
+      "text": "NA*",
+      "bbox": {
+        "x_min": 1409,
+        "y_min": 1069,
+        "x_max": 1475,
+        "y_max": 1105
+      }
+    },
+    {
+      "text": "Transferred Course",
+      "bbox": {
+        "x_min": 1688,
+        "y_min": 1069,
+        "x_max": 1977,
+        "y_max": 1108
+      }
+    },
+    {
+      "text": "#NA: Not applicable",
+      "bbox": {
+        "x_min": 226,
+        "y_min": 1116,
+        "x_max": 523,
+        "y_max": 1168
+      }
+    },
+    {
+      "text": "Honors",
+      "bbox": {
+        "x_min": 227,
+        "y_min": 1431,
+        "x_max": 351,
+        "y_max": 1467
+      }
+    },
+    {
+      "text": "Dean's list: GPA of 3.4,5 and higher",
+      "bbox": {
+        "x_min": 704,
+        "y_min": 1479,
+        "x_max": 1220,
+        "y_max": 1524
+      }
+    },
+    {
+      "text": "Honor'$ list: GPA of 3.3 and higher",
+      "bbox": {
+        "x_min": 704,
+        "y_min": 1532,
+        "x_max": 1206,
+        "y_max": 1577
+      }
+    },
+    {
+      "text": "Course numbering system",
+      "bbox": {
+        "x_min": 223,
+        "y_min": 1578,
+        "x_max": 652,
+        "y_max": 1630
+      }
+    },
+    {
+      "text": "The course code is a subject code of three to four characters followed by 3 numeric code",
+      "bbox": {
+        "x_min": 704,
+        "y_min": 1634,
+        "x_max": 1982,
+        "y_max": 1678
+      }
+    },
+    {
+      "text": "100-200 course codes usually correspond to freshman and sophomore-level courses.",
+      "bbox": {
+        "x_min": 700,
+        "y_min": 1681,
+        "x_max": 1929,
+        "y_max": 1732
+      }
+    },
+    {
+      "text": "300-400 are junior and senior level courses.",
+      "bbox": {
+        "x_min": 701,
+        "y_min": 1735,
+        "x_max": 1338,
+        "y_max": 1780
+      }
+    },
+    {
+      "text": "400-4,500 are senior and advanced/graduate level courses:",
+      "bbox": {
+        "x_min": 701,
+        "y_min": 1790,
+        "x_max": 1560,
+        "y_max": 1832
+      }
+    },
+    {
+      "text": "Graduation requirements",
+      "bbox": {
+        "x_min": 223,
+        "y_min": 1886,
+        "x_max": 646,
+        "y_max": 1936
+      }
+    },
+    {
+      "text": "Aminmum cumulative grade point average of 2.0 on a scale of 4.0",
+      "bbox": {
+        "x_min": 700,
+        "y_min": 1939,
+        "x_max": 1660,
+        "y_max": 1991
+      }
+    },
+    {
+      "text": "A Cor better in all specialization (major) courses.",
+      "bbox": {
+        "x_min": 700,
+        "y_min": 1990,
+        "x_max": 1413,
+        "y_max": 2039
+      }
+    },
+    {
+      "text": "No grade less than Dt (No F in any course):",
+      "bbox": {
+        "x_min": 700,
+        "y_min": 2043,
+        "x_max": 1328,
+        "y_max": 2092
+      }
+    },
+    {
+      "text": "The Mediterranean Institute of",
+      "bbox": {
+        "x_min": 221,
+        "y_min": 2207,
+        "x_max": 677,
+        "y_max": 2243
+      }
+    },
+    {
+      "text": "Technology is a private university accredited by the Tunisian Ministry of Higher Education & Scientif",
+      "bbox": {
+        "x_min": 672,
+        "y_min": 2201,
+        "x_max": 2118,
+        "y_max": 2254
+      }
+    },
+    {
+      "text": "Campus MSB-MedTech, les jardins du Lac 2, 104,53, Tunis, Tunisia. Web: WWw.medtech tn Tel: 00 216 70 016 100_",
+      "bbox": {
+        "x_min": 219,
+        "y_min": 2250,
+        "x_max": 1879,
+        "y_max": 2299
+      }
+    },
+    {
+      "text": "good",
+      "bbox": {
+        "x_min": 1764,
+        "y_min": 453,
+        "x_max": 1849,
+        "y_max": 496
+      }
+    },
+    {
+      "text": "good",
+      "bbox": {
+        "x_min": 1777,
+        "y_min": 607,
+        "x_max": 1862,
+        "y_max": 650
+      }
+    }
+  ]
+}
