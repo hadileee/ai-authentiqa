@@ -1,0 +1,1707 @@
+{
+  "file_name": "27-8.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "MedTech",
+      "confidence": 0.9677295512582098,
+      "bbox": {
+        "x_min": 167,
+        "y_min": 133,
+        "x_max": 229,
+        "y_max": 149
+      }
+    },
+    {
+      "text": "SMU",
+      "confidence": 0.9797214798010789,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 157,
+        "x_max": 151,
+        "y_max": 173
+      }
+    },
+    {
+      "text": "Mttutu Onesnu t",
+      "confidence": 0.0009504601456961027,
+      "bbox": {
+        "x_min": 167,
+        "y_min": 157,
+        "x_max": 265,
+        "y_max": 169
+      }
+    },
+    {
+      "text": "Software Engineering Program",
+      "confidence": 0.9952329216372657,
+      "bbox": {
+        "x_min": 775,
+        "y_min": 180,
+        "x_max": 981,
+        "y_max": 201
+      }
+    },
+    {
+      "text": "Official Transcript",
+      "confidence": 0.9972345384018448,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 201,
+        "x_max": 227,
+        "y_max": 217
+      }
+    },
+    {
+      "text": "Kacem",
+      "confidence": 0.9985005201355238,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 237,
+        "x_max": 375,
+        "y_max": 251
+      }
+    },
+    {
+      "text": "First name:",
+      "confidence": 0.9883827858316909,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 243,
+        "x_max": 171,
+        "y_max": 257
+      }
+    },
+    {
+      "text": "Last name:",
+      "confidence": 0.9979904278640511,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 261,
+        "x_max": 169,
+        "y_max": 277
+      }
+    },
+    {
+      "text": "Abidi",
+      "confidence": 0.9999125145316795,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 255,
+        "x_max": 365,
+        "y_max": 271
+      }
+    },
+    {
+      "text": "Date of Birth:",
+      "confidence": 0.7312206322000523,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 278,
+        "x_max": 183,
+        "y_max": 295
+      }
+    },
+    {
+      "text": "06/02/2004",
+      "confidence": 0.6791262348081267,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 275,
+        "x_max": 401,
+        "y_max": 291
+      }
+    },
+    {
+      "text": "Country of Birth:",
+      "confidence": 0.89114308605542,
+      "bbox": {
+        "x_min": 105,
+        "y_min": 299,
+        "x_max": 201,
+        "y_max": 315
+      }
+    },
+    {
+      "text": "Tunisia",
+      "confidence": 0.9999445344886139,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 295,
+        "x_max": 377,
+        "y_max": 309
+      }
+    },
+    {
+      "text": "CIN:",
+      "confidence": 0.7690500617027283,
+      "bbox": {
+        "x_min": 105,
+        "y_min": 319,
+        "x_max": 133,
+        "y_max": 335
+      }
+    },
+    {
+      "text": "12727560",
+      "confidence": 0.9999918656445336,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 313,
+        "x_max": 393,
+        "y_max": 329
+      }
+    },
+    {
+      "text": "Student ID:",
+      "confidence": 0.6990818815067541,
+      "bbox": {
+        "x_min": 105,
+        "y_min": 339,
+        "x_max": 173,
+        "y_max": 353
+      }
+    },
+    {
+      "text": "241-7734",
+      "confidence": 0.7626314630913399,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 333,
+        "x_max": 391,
+        "y_max": 349
+      }
+    },
+    {
+      "text": "Non MedTech University",
+      "confidence": 0.9684933233559782,
+      "bbox": {
+        "x_min": 521,
+        "y_min": 364,
+        "x_max": 663,
+        "y_max": 382
+      }
+    },
+    {
+      "text": "The Private Higher School of Engineering and Technology",
+      "confidence": 0.6961835462693187,
+      "bbox": {
+        "x_min": 429,
+        "y_min": 383,
+        "x_max": 755,
+        "y_max": 403
+      }
+    },
+    {
+      "text": "US Credits",
+      "confidence": 0.9694254942336487,
+      "bbox": {
+        "x_min": 779,
+        "y_min": 399,
+        "x_max": 845,
+        "y_max": 415
+      }
+    },
+    {
+      "text": "ECTS",
+      "confidence": 0.9928913712501526,
+      "bbox": {
+        "x_min": 855,
+        "y_min": 397,
+        "x_max": 889,
+        "y_max": 413
+      }
+    },
+    {
+      "text": "Earned ECTS Cr Letter Grade",
+      "confidence": 0.717249375891494,
+      "bbox": {
+        "x_min": 897,
+        "y_min": 395,
+        "x_max": 1065,
+        "y_max": 411
+      }
+    },
+    {
+      "text": "Course Code",
+      "confidence": 0.999377847717869,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 415,
+        "x_max": 183,
+        "y_max": 431
+      }
+    },
+    {
+      "text": "Course Name",
+      "confidence": 0.8312237188703478,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 411,
+        "x_max": 417,
+        "y_max": 425
+      }
+    },
+    {
+      "text": "5,5",
+      "confidence": 0.9648648339779036,
+      "bbox": {
+        "x_min": 865,
+        "y_min": 417,
+        "x_max": 887,
+        "y_max": 433
+      }
+    },
+    {
+      "text": "CS210",
+      "confidence": 0.9641338454538966,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 435,
+        "x_max": 147,
+        "y_max": 451
+      }
+    },
+    {
+      "text": "System Development",
+      "confidence": 0.9999528785784615,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 428,
+        "x_max": 457,
+        "y_max": 446
+      }
+    },
+    {
+      "text": "ISS196",
+      "confidence": 0.5457916584429003,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 455,
+        "x_max": 149,
+        "y_max": 469
+      }
+    },
+    {
+      "text": "Freshman Project",
+      "confidence": 0.9850749595171043,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 449,
+        "x_max": 437,
+        "y_max": 465
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9799308252413725,
+      "bbox": {
+        "x_min": 933,
+        "y_min": 451,
+        "x_max": 955,
+        "y_max": 471
+      }
+    },
+    {
+      "text": "CS341",
+      "confidence": 0.8490113813495069,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 475,
+        "x_max": 147,
+        "y_max": 489
+      }
+    },
+    {
+      "text": "Data Structures and Algorithms",
+      "confidence": 0.998043467759729,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 467,
+        "x_max": 513,
+        "y_max": 485
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.15242060111845834,
+      "bbox": {
+        "x_min": 864,
+        "y_min": 432,
+        "x_max": 890,
+        "y_max": 532
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9925329423701698,
+      "bbox": {
+        "x_min": 933,
+        "y_min": 471,
+        "x_max": 955,
+        "y_max": 489
+      }
+    },
+    {
+      "text": "MATH241",
+      "confidence": 0.7288075461021322,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 491,
+        "x_max": 163,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "Linear",
+      "confidence": 0.9986695862310547,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 489,
+        "x_max": 375,
+        "y_max": 503
+      }
+    },
+    {
+      "text": "Algebra",
+      "confidence": 0.9993172229388421,
+      "bbox": {
+        "x_min": 372,
+        "y_min": 485,
+        "x_max": 420,
+        "y_max": 506
+      }
+    },
+    {
+      "text": "PSY10I",
+      "confidence": 0.5888405156050084,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 513,
+        "x_max": 153,
+        "y_max": 529
+      }
+    },
+    {
+      "text": "Introduction to Psychology",
+      "confidence": 0.926810294024285,
+      "bbox": {
+        "x_min": 336,
+        "y_min": 505,
+        "x_max": 487,
+        "y_max": 524
+      }
+    },
+    {
+      "text": "5,5",
+      "confidence": 0.5890266373034975,
+      "bbox": {
+        "x_min": 935,
+        "y_min": 511,
+        "x_max": 957,
+        "y_max": 527
+      }
+    },
+    {
+      "text": "CS1O1",
+      "confidence": 0.50349190543453,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 533,
+        "x_max": 149,
+        "y_max": 547
+      }
+    },
+    {
+      "text": "Introduction to Programming",
+      "confidence": 0.9910108886274369,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 525,
+        "x_max": 499,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8867428542439861,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 531,
+        "x_max": 889,
+        "y_max": 549
+      }
+    },
+    {
+      "text": "ECE143",
+      "confidence": 0.9924692141049437,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 551,
+        "x_max": 157,
+        "y_max": 567
+      }
+    },
+    {
+      "text": "Digital Systems",
+      "confidence": 0.8834106984237504,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 547,
+        "x_max": 427,
+        "y_max": 563
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9930889965557977,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 551,
+        "x_max": 889,
+        "y_max": 569
+      }
+    },
+    {
+      "text": "ENG111",
+      "confidence": 0.6573913079243803,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 571,
+        "x_max": 157,
+        "y_max": 587
+      }
+    },
+    {
+      "text": "Academic English",
+      "confidence": 0.996883803352407,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 565,
+        "x_max": 441,
+        "y_max": 581
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9999936779785765,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 569,
+        "x_max": 889,
+        "y_max": 587
+      }
+    },
+    {
+      "text": "Calculus |",
+      "confidence": 0.7808654866207622,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 585,
+        "x_max": 399,
+        "y_max": 599
+      }
+    },
+    {
+      "text": "MATH14I",
+      "confidence": 0.30767295034351444,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 591,
+        "x_max": 165,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "44.5",
+      "confidence": 0.9565232086849688,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 591,
+        "x_max": 893,
+        "y_max": 607
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits outside of MedTech",
+      "confidence": 0.5765904738418968,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 605,
+        "x_max": 403,
+        "y_max": 625
+      }
+    },
+    {
+      "text": "44.5",
+      "confidence": 0.9034076424647044,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 611,
+        "x_max": 895,
+        "y_max": 625
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits outside of MedTech",
+      "confidence": 0.8136468653739538,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 622,
+        "x_max": 384,
+        "y_max": 646
+      }
+    },
+    {
+      "text": "US Credits",
+      "confidence": 0.8565081424368604,
+      "bbox": {
+        "x_min": 791,
+        "y_min": 671,
+        "x_max": 855,
+        "y_max": 685
+      }
+    },
+    {
+      "text": "ECTS",
+      "confidence": 0.9989659190177917,
+      "bbox": {
+        "x_min": 863,
+        "y_min": 668,
+        "x_max": 898,
+        "y_max": 686
+      }
+    },
+    {
+      "text": "Earned ECTS Cr Letter Grade",
+      "confidence": 0.8094824676059408,
+      "bbox": {
+        "x_min": 903,
+        "y_min": 665,
+        "x_max": 1071,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "Course Code",
+      "confidence": 0.8088488065165048,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 687,
+        "x_max": 189,
+        "y_max": 703
+      }
+    },
+    {
+      "text": "Course Name",
+      "confidence": 0.9944209960113244,
+      "bbox": {
+        "x_min": 341,
+        "y_min": 683,
+        "x_max": 423,
+        "y_max": 697
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.973697924042423,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 689,
+        "x_max": 893,
+        "y_max": 703
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9983834638005152,
+      "bbox": {
+        "x_min": 939,
+        "y_min": 687,
+        "x_max": 961,
+        "y_max": 703
+      }
+    },
+    {
+      "text": "CHEM161",
+      "confidence": 0.6731843089536039,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 707,
+        "x_max": 171,
+        "y_max": 723
+      }
+    },
+    {
+      "text": "Chemistry |",
+      "confidence": 0.8414300139494928,
+      "bbox": {
+        "x_min": 341,
+        "y_min": 701,
+        "x_max": 409,
+        "y_max": 717
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8991898779659867,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 705,
+        "x_max": 893,
+        "y_max": 723
+      }
+    },
+    {
+      "text": "PHYS15I",
+      "confidence": 0.5844049274224472,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 725,
+        "x_max": 167,
+        "y_max": 741
+      }
+    },
+    {
+      "text": "Classical Hechanics",
+      "confidence": 0.7315339570471179,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 721,
+        "x_max": 459,
+        "y_max": 735
+      }
+    },
+    {
+      "text": "ECO171",
+      "confidence": 0.6358220189857445,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 745,
+        "x_max": 163,
+        "y_max": 761
+      }
+    },
+    {
+      "text": "Introduction to Microeconomics",
+      "confidence": 0.9208576967443358,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 738,
+        "x_max": 523,
+        "y_max": 755
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.7699344876678573,
+      "bbox": {
+        "x_min": 870,
+        "y_min": 722,
+        "x_max": 894,
+        "y_max": 784
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.38070442609773636,
+      "bbox": {
+        "x_min": 938,
+        "y_min": 722,
+        "x_max": 962,
+        "y_max": 782
+      }
+    },
+    {
+      "text": "Discrete Mathematics",
+      "confidence": 0.9921406434197156,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 759,
+        "x_max": 467,
+        "y_max": 775
+      }
+    },
+    {
+      "text": "MATH243",
+      "confidence": 0.9605079294616365,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 765,
+        "x_max": 169,
+        "y_max": 781
+      }
+    },
+    {
+      "text": "C072O5",
+      "confidence": 0.1484645928111521,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 785,
+        "x_max": 167,
+        "y_max": 799
+      }
+    },
+    {
+      "text": "Technical Writing",
+      "confidence": 0.9822767657297847,
+      "bbox": {
+        "x_min": 342,
+        "y_min": 777,
+        "x_max": 443,
+        "y_max": 795
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9966418647525647,
+      "bbox": {
+        "x_min": 939,
+        "y_min": 781,
+        "x_max": 961,
+        "y_max": 799
+      }
+    },
+    {
+      "text": "CS102",
+      "confidence": 0.9659603992554642,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 805,
+        "x_max": 155,
+        "y_max": 819
+      }
+    },
+    {
+      "text": "Object-Oriented Programmning",
+      "confidence": 0.8505831693080301,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 796,
+        "x_max": 515,
+        "y_max": 815
+      }
+    },
+    {
+      "text": "21",
+      "confidence": 0.8729680918994067,
+      "bbox": {
+        "x_min": 817,
+        "y_min": 789,
+        "x_max": 833,
+        "y_max": 823
+      }
+    },
+    {
+      "text": "56",
+      "confidence": 0.20316314511580336,
+      "bbox": {
+        "x_min": 870,
+        "y_min": 782,
+        "x_max": 896,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Fall 2024",
+      "confidence": 0.9981212345117012,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 823,
+        "x_max": 169,
+        "y_max": 839
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9576711612014798,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 819,
+        "x_max": 421,
+        "y_max": 833
+      }
+    },
+    {
+      "text": "2.94",
+      "confidence": 0.9173290989589999,
+      "bbox": {
+        "x_min": 1041,
+        "y_min": 821,
+        "x_max": 1069,
+        "y_max": 835
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9967304344639304,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 837,
+        "x_max": 403,
+        "y_max": 853
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9794007467565604,
+      "bbox": {
+        "x_min": 873,
+        "y_min": 841,
+        "x_max": 895,
+        "y_max": 859
+      }
+    },
+    {
+      "text": "ENG12I",
+      "confidence": 0.6464125363937375,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 863,
+        "x_max": 163,
+        "y_max": 877
+      }
+    },
+    {
+      "text": "English Composition",
+      "confidence": 0.9783209872304576,
+      "bbox": {
+        "x_min": 345,
+        "y_min": 854,
+        "x_max": 463,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.48387470037700714,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 859,
+        "x_max": 963,
+        "y_max": 877
+      }
+    },
+    {
+      "text": "MATH142",
+      "confidence": 0.9775938477216491,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 881,
+        "x_max": 171,
+        "y_max": 897
+      }
+    },
+    {
+      "text": "calculus",
+      "confidence": 0.7550146208979582,
+      "bbox": {
+        "x_min": 345,
+        "y_min": 877,
+        "x_max": 399,
+        "y_max": 891
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9998258734771992,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 877,
+        "x_max": 963,
+        "y_max": 897
+      }
+    },
+    {
+      "text": "EC0172",
+      "confidence": 0.7778956027877306,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 901,
+        "x_max": 165,
+        "y_max": 915
+      }
+    },
+    {
+      "text": "Introduction to Macroeconomics",
+      "confidence": 0.8186725366063501,
+      "bbox": {
+        "x_min": 344,
+        "y_min": 893,
+        "x_max": 529,
+        "y_max": 911
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.7714810371398926,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 901,
+        "x_max": 965,
+        "y_max": 917
+      }
+    },
+    {
+      "text": "CS261",
+      "confidence": 0.873984678379508,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 921,
+        "x_max": 157,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "Computer Organization",
+      "confidence": 0.9997269391321649,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 913,
+        "x_max": 477,
+        "y_max": 931
+      }
+    },
+    {
+      "text": "Design",
+      "confidence": 0.9977790256918989,
+      "bbox": {
+        "x_min": 487,
+        "y_min": 911,
+        "x_max": 529,
+        "y_max": 927
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.7272626751077418,
+      "bbox": {
+        "x_min": 870,
+        "y_min": 857,
+        "x_max": 900,
+        "y_max": 976
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9983727981652879,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 917,
+        "x_max": 965,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "15S296",
+      "confidence": 0.6301034093414011,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 939,
+        "x_max": 159,
+        "y_max": 955
+      }
+    },
+    {
+      "text": "Sophomore Project",
+      "confidence": 0.9868933720572906,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 933,
+        "x_max": 457,
+        "y_max": 949
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.959536890830214,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 937,
+        "x_max": 965,
+        "y_max": 955
+      }
+    },
+    {
+      "text": "Advanced Object Oriented Programming",
+      "confidence": 0.9636534546552564,
+      "bbox": {
+        "x_min": 346,
+        "y_min": 951,
+        "x_max": 573,
+        "y_max": 970
+      }
+    },
+    {
+      "text": "CS202",
+      "confidence": 0.7175038299326365,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 959,
+        "x_max": 157,
+        "y_max": 975
+      }
+    },
+    {
+      "text": "Spring 2025",
+      "confidence": 0.7697131481638201,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 979,
+        "x_max": 187,
+        "y_max": 995
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9767418254437903,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 973,
+        "x_max": 425,
+        "y_max": 987
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9735914371713029,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 991,
+        "x_max": 407,
+        "y_max": 1007
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9553803646637138,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 997,
+        "x_max": 899,
+        "y_max": 1015
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9972477626303242,
+      "bbox": {
+        "x_min": 945,
+        "y_min": 999,
+        "x_max": 967,
+        "y_max": 1013
+      }
+    },
+    {
+      "text": "MATH244",
+      "confidence": 0.8246191284144664,
+      "bbox": {
+        "x_min": 118,
+        "y_min": 1015,
+        "x_max": 175,
+        "y_max": 1033
+      }
+    },
+    {
+      "text": "Probabilily and Statistics",
+      "confidence": 0.8431546579332179,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 1011,
+        "x_max": 489,
+        "y_max": 1027
+      }
+    },
+    {
+      "text": "MATH341",
+      "confidence": 0.8717947813810438,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 1037,
+        "x_max": 175,
+        "y_max": 1051
+      }
+    },
+    {
+      "text": "Differential Equation",
+      "confidence": 0.8633835644155822,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1031,
+        "x_max": 465,
+        "y_max": 1047
+      }
+    },
+    {
+      "text": "46",
+      "confidence": 0.21379692925571306,
+      "bbox": {
+        "x_min": 876,
+        "y_min": 1014,
+        "x_max": 900,
+        "y_max": 1054
+      }
+    },
+    {
+      "text": "4",
+      "confidence": 0.9992510291163512,
+      "bbox": {
+        "x_min": 944,
+        "y_min": 1014,
+        "x_max": 968,
+        "y_max": 1052
+      }
+    },
+    {
+      "text": "Summer 2025",
+      "confidence": 0.9904570512968464,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 1055,
+        "x_max": 199,
+        "y_max": 1071
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9979071245254819,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1051,
+        "x_max": 425,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "3.24",
+      "confidence": 0.9994999170303345,
+      "bbox": {
+        "x_min": 1045,
+        "y_min": 1055,
+        "x_max": 1073,
+        "y_max": 1067
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9855050216735615,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1069,
+        "x_max": 407,
+        "y_max": 1085
+      }
+    },
+    {
+      "text": "COM3O7",
+      "confidence": 0.46840330176905204,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 1095,
+        "x_max": 173,
+        "y_max": 1111
+      }
+    },
+    {
+      "text": "Etfective Technical Communication",
+      "confidence": 0.7313266403798443,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1086,
+        "x_max": 549,
+        "y_max": 1105
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.6479657143261986,
+      "bbox": {
+        "x_min": 878,
+        "y_min": 1074,
+        "x_max": 902,
+        "y_max": 1114
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.27783085645366157,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 1071,
+        "x_max": 971,
+        "y_max": 1132
+      }
+    },
+    {
+      "text": "C5280",
+      "confidence": 0.5784227775391766,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 1115,
+        "x_max": 161,
+        "y_max": 1129
+      }
+    },
+    {
+      "text": "Introductlon to Artificial",
+      "confidence": 0.6494632191014176,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1107,
+        "x_max": 479,
+        "y_max": 1123
+      }
+    },
+    {
+      "text": "Intelligence",
+      "confidence": 0.9993605989607891,
+      "bbox": {
+        "x_min": 480,
+        "y_min": 1103,
+        "x_max": 551,
+        "y_max": 1124
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.7566312551498413,
+      "bbox": {
+        "x_min": 879,
+        "y_min": 1113,
+        "x_max": 901,
+        "y_max": 1131
+      }
+    },
+    {
+      "text": "CS304",
+      "confidence": 0.5994911387563014,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 1133,
+        "x_max": 161,
+        "y_max": 1149
+      }
+    },
+    {
+      "text": "Advanced Operating Systems",
+      "confidence": 0.9499210644926792,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 1127,
+        "x_max": 515,
+        "y_max": 1143
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9858434248015316,
+      "bbox": {
+        "x_min": 879,
+        "y_min": 1133,
+        "x_max": 903,
+        "y_max": 1151
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8646932509456856,
+      "bbox": {
+        "x_min": 947,
+        "y_min": 1131,
+        "x_max": 969,
+        "y_max": 1149
+      }
+    },
+    {
+      "text": "C5324",
+      "confidence": 0.7115860601947879,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 1153,
+        "x_max": 161,
+        "y_max": 1169
+      }
+    },
+    {
+      "text": "Web Software Development",
+      "confidence": 0.9864134650047238,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 1144,
+        "x_max": 509,
+        "y_max": 1163
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9674345254898071,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 1153,
+        "x_max": 903,
+        "y_max": 1171
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9922093128815475,
+      "bbox": {
+        "x_min": 947,
+        "y_min": 1149,
+        "x_max": 969,
+        "y_max": 1169
+      }
+    },
+    {
+      "text": "GOV1OI",
+      "confidence": 0.3165321010495827,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 1173,
+        "x_max": 171,
+        "y_max": 1187
+      }
+    },
+    {
+      "text": "Governance and Citizenship",
+      "confidence": 0.7353411898453391,
+      "bbox": {
+        "x_min": 350,
+        "y_min": 1165,
+        "x_max": 509,
+        "y_max": 1183
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.9742801244969623,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 1173,
+        "x_max": 903,
+        "y_max": 1189
+      }
+    },
+    {
+      "text": "MATH34B",
+      "confidence": 0.6536779442929072,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 1191,
+        "x_max": 179,
+        "y_max": 1207
+      }
+    },
+    {
+      "text": "Graph Theory",
+      "confidence": 0.6487107550969691,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 1187,
+        "x_max": 429,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "Application",
+      "confidence": 0.9998253790964765,
+      "bbox": {
+        "x_min": 437,
+        "y_min": 1185,
+        "x_max": 505,
+        "y_max": 1201
+      }
+    },
+    {
+      "text": "1.5",
+      "confidence": 0.8596504284477063,
+      "bbox": {
+        "x_min": 823,
+        "y_min": 1195,
+        "x_max": 845,
+        "y_max": 1209
+      }
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.9982786178588867,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 1193,
+        "x_max": 907,
+        "y_max": 1209
+      }
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.443350617595885,
+      "bbox": {
+        "x_min": 947,
+        "y_min": 1191,
+        "x_max": 973,
+        "y_max": 1207
+      }
+    },
+    {
+      "text": "1SS197",
+      "confidence": 0.6905207666781366,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 1211,
+        "x_max": 163,
+        "y_max": 1227
+      }
+    },
+    {
+      "text": "Startup Engineering",
+      "confidence": 0.9824552818681459,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 1205,
+        "x_max": 463,
+        "y_max": 1221
+      }
+    },
+    {
+      "text": "21.5",
+      "confidence": 0.9756332821653366,
+      "bbox": {
+        "x_min": 819,
+        "y_min": 1215,
+        "x_max": 849,
+        "y_max": 1229
+      }
+    },
+    {
+      "text": "31.25",
+      "confidence": 0.9024200689294768,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 1213,
+        "x_max": 911,
+        "y_max": 1229
+      }
+    },
+    {
+      "text": "31.25",
+      "confidence": 0.9997548144949114,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 1211,
+        "x_max": 977,
+        "y_max": 1227
+      }
+    },
+    {
+      "text": "Fall 2025",
+      "confidence": 0.9913421360049467,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 1231,
+        "x_max": 177,
+        "y_max": 1247
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.998990335060759,
+      "bbox": {
+        "x_min": 353,
+        "y_min": 1225,
+        "x_max": 429,
+        "y_max": 1241
+      }
+    },
+    {
+      "text": "3.04",
+      "confidence": 0.9997842311859131,
+      "bbox": {
+        "x_min": 1049,
+        "y_min": 1229,
+        "x_max": 1079,
+        "y_max": 1243
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9807008101007411,
+      "bbox": {
+        "x_min": 353,
+        "y_min": 1245,
+        "x_max": 411,
+        "y_max": 1259
+      }
+    },
+    {
+      "text": "101.3",
+      "confidence": 0.5856912221088145,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 1253,
+        "x_max": 911,
+        "y_max": 1267
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits at MedTech",
+      "confidence": 0.9508336088639541,
+      "bbox": {
+        "x_min": 124,
+        "y_min": 1262,
+        "x_max": 372,
+        "y_max": 1286
+      }
+    },
+    {
+      "text": "70.5",
+      "confidence": 0.9909603240177639,
+      "bbox": {
+        "x_min": 821,
+        "y_min": 1273,
+        "x_max": 849,
+        "y_max": 1287
+      }
+    },
+    {
+      "text": "101.3",
+      "confidence": 0.6745663680526106,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 1271,
+        "x_max": 911,
+        "y_max": 1285
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits at MedTech",
+      "confidence": 0.9269953025623272,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 1285,
+        "x_max": 349,
+        "y_max": 1305
+      }
+    },
+    {
+      "text": "3.01",
+      "confidence": 0.9998030631275456,
+      "bbox": {
+        "x_min": 1051,
+        "y_min": 1287,
+        "x_max": 1079,
+        "y_max": 1301
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.7517191825001924,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 1307,
+        "x_max": 221,
+        "y_max": 1323
+      }
+    },
+    {
+      "text": "101.5",
+      "confidence": 0.9758580359215767,
+      "bbox": {
+        "x_min": 819,
+        "y_min": 1311,
+        "x_max": 855,
+        "y_max": 1327
+      }
+    },
+    {
+      "text": "145.8",
+      "confidence": 0.9992628760067109,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 1311,
+        "x_max": 913,
+        "y_max": 1325
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.9862900437874564,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 1325,
+        "x_max": 303,
+        "y_max": 1344
+      }
+    },
+    {
+      "text": "101.5",
+      "confidence": 0.9922562947521635,
+      "bbox": {
+        "x_min": 819,
+        "y_min": 1331,
+        "x_max": 855,
+        "y_max": 1345
+      }
+    },
+    {
+      "text": "145.8",
+      "confidence": 0.7185023226773386,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 1329,
+        "x_max": 913,
+        "y_max": 1345
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.6656139799411944,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 1345,
+        "x_max": 283,
+        "y_max": 1363
+      }
+    },
+    {
+      "text": "Deputy Director",
+      "confidence": 0.9299075082705743,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 1473,
+        "x_max": 219,
+        "y_max": 1489
+      }
+    },
+    {
+      "text": "Marwa Amnti",
+      "confidence": 0.4111280068779053,
+      "bbox": {
+        "x_min": 357,
+        "y_min": 1469,
+        "x_max": 427,
+        "y_max": 1483
+      }
+    },
+    {
+      "text": "70.5",
+      "confidence": 0.9771713614463806,
+      "bbox": {
+        "x_min": 819,
+        "y_min": 1252,
+        "x_max": 849,
+        "y_max": 1269
+      }
+    },
+    {
+      "text": "Ving;",
+      "confidence": 0.0793954127949275,
+      "bbox": {
+        "x_min": 876,
+        "y_min": 1533,
+        "x_max": 930,
+        "y_max": 1557
+      }
+    }
+  ]
+}

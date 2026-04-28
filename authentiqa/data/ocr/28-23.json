@@ -1,0 +1,247 @@
+{
+  "file_name": "28-23.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Mahu",
+      "confidence": 0.01908482238650322,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 77,
+        "x_max": 169,
+        "y_max": 91
+      }
+    },
+    {
+      "text": "near Acebta",
+      "confidence": 0.06965505375572646,
+      "bbox": {
+        "x_min": 325,
+        "y_min": 79,
+        "x_max": 401,
+        "y_max": 93
+      }
+    },
+    {
+      "text": "C0",
+      "confidence": 0.6234910282371016,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 95,
+        "x_max": 151,
+        "y_max": 109
+      }
+    },
+    {
+      "text": "Protrmminglaguage Delgn",
+      "confidence": 0.012629613154601389,
+      "bbox": {
+        "x_min": 325,
+        "y_min": 96,
+        "x_max": 483,
+        "y_max": 113
+      }
+    },
+    {
+      "text": "Imp ementalien",
+      "confidence": 0.15514304125976283,
+      "bbox": {
+        "x_min": 493,
+        "y_min": 99,
+        "x_max": 577,
+        "y_max": 113
+      }
+    },
+    {
+      "text": "ECO1n",
+      "confidence": 0.16503873862138696,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 115,
+        "x_max": 159,
+        "y_max": 129
+      }
+    },
+    {
+      "text": "Microrconomki (Fri",
+      "confidence": 0.0960874120475167,
+      "bbox": {
+        "x_min": 324,
+        "y_min": 117,
+        "x_max": 439,
+        "y_max": 131
+      }
+    },
+    {
+      "text": "MaTH 10600",
+      "confidence": 0.14059179725319793,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 135,
+        "x_max": 185,
+        "y_max": 149
+      }
+    },
+    {
+      "text": "Caleul aamerent elates #ppicatoni en Cettion (Fa)",
+      "confidence": 0.014053420406037397,
+      "bbox": {
+        "x_min": 325,
+        "y_min": 135,
+        "x_max": 583,
+        "y_max": 151
+      }
+    },
+    {
+      "text": "ACTQI",
+      "confidence": 0.15445186130257796,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 155,
+        "x_max": 157,
+        "y_max": 169
+      }
+    },
+    {
+      "text": "Financ alaccounting",
+      "confidence": 0.15299709699277567,
+      "bbox": {
+        "x_min": 325,
+        "y_min": 155,
+        "x_max": 429,
+        "y_max": 169
+      }
+    },
+    {
+      "text": "7025",
+      "confidence": 0.5878880023956299,
+      "bbox": {
+        "x_min": 135,
+        "y_min": 173,
+        "x_max": 165,
+        "y_max": 187
+      }
+    },
+    {
+      "text": "Term Credita",
+      "confidence": 0.47560585495923663,
+      "bbox": {
+        "x_min": 325,
+        "y_min": 175,
+        "x_max": 395,
+        "y_max": 189
+      }
+    },
+    {
+      "text": "195",
+      "confidence": 0.24176804400901164,
+      "bbox": {
+        "x_min": 763,
+        "y_min": 175,
+        "x_max": 787,
+        "y_max": 189
+      }
+    },
+    {
+      "text": "18 $",
+      "confidence": 0.20512013137340546,
+      "bbox": {
+        "x_min": 845,
+        "y_min": 177,
+        "x_max": 869,
+        "y_max": 189
+      }
+    },
+    {
+      "text": "Meat",
+      "confidence": 0.016315044835209846,
+      "bbox": {
+        "x_min": 326,
+        "y_min": 196,
+        "x_max": 352,
+        "y_max": 204
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.37216846318114644,
+      "bbox": {
+        "x_min": 353,
+        "y_min": 193,
+        "x_max": 381,
+        "y_max": 207
+      }
+    },
+    {
+      "text": "Cumulatin Attempted Credita",
+      "confidence": 0.26940295328912267,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 213,
+        "x_max": 275,
+        "y_max": 227
+      }
+    },
+    {
+      "text": "128",
+      "confidence": 0.23555140070790134,
+      "bbox": {
+        "x_min": 763,
+        "y_min": 215,
+        "x_max": 785,
+        "y_max": 227
+      }
+    },
+    {
+      "text": "Cumulative Earned Crediti",
+      "confidence": 0.2003359443175057,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 231,
+        "x_max": 255,
+        "y_max": 247
+      }
+    },
+    {
+      "text": "128",
+      "confidence": 0.3520112602556692,
+      "bbox": {
+        "x_min": 763,
+        "y_min": 233,
+        "x_max": 785,
+        "y_max": 247
+      }
+    },
+    {
+      "text": "Cumulatite Ga",
+      "confidence": 0.13259572871273406,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 251,
+        "x_max": 201,
+        "y_max": 265
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.6685870663865019,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 384,
+        "x_max": 267,
+        "y_max": 404
+      }
+    },
+    {
+      "text": "Marwa Amr",
+      "confidence": 0.585148829865066,
+      "bbox": {
+        "x_min": 322,
+        "y_min": 384,
+        "x_max": 399,
+        "y_max": 402
+      }
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "file_name": "28-9.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "MathZAI",
+      "confidence": 0.2304311236682258,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 71,
+        "x_max": 179,
+        "y_max": 85
+      }
+    },
+    {
+      "text": "Linear",
+      "confidence": 0.1520507942719078,
+      "bbox": {
+        "x_min": 336,
+        "y_min": 76,
+        "x_max": 368,
+        "y_max": 84
+      }
+    },
+    {
+      "text": "Alcebra",
+      "confidence": 0.39836891755741116,
+      "bbox": {
+        "x_min": 369,
+        "y_min": 75,
+        "x_max": 411,
+        "y_max": 89
+      }
+    },
+    {
+      "text": "C5420",
+      "confidence": 0.5085031744774706,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 91,
+        "x_max": 161,
+        "y_max": 103
+      }
+    },
+    {
+      "text": "Programming Language Design",
+      "confidence": 0.7696185374711718,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 94,
+        "x_max": 493,
+        "y_max": 112
+      }
+    },
+    {
+      "text": "Implementatlon",
+      "confidence": 0.9636518052798149,
+      "bbox": {
+        "x_min": 503,
+        "y_min": 97,
+        "x_max": 587,
+        "y_max": 111
+      }
+    },
+    {
+      "text": "ECO172",
+      "confidence": 0.6300735525536401,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 109,
+        "x_max": 169,
+        "y_max": 123
+      }
+    },
+    {
+      "text": "Macroeconomics (FR)",
+      "confidence": 0.9891815177945747,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 113,
+        "x_max": 447,
+        "y_max": 129
+      }
+    },
+    {
+      "text": "s5",
+      "confidence": 0.14844860422092226,
+      "bbox": {
+        "x_min": 772,
+        "y_min": 96,
+        "x_max": 796,
+        "y_max": 136
+      }
+    },
+    {
+      "text": "MATH 10600",
+      "confidence": 0.6053678029706085,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 129,
+        "x_max": 195,
+        "y_max": 143
+      }
+    },
+    {
+      "text": "Calcull differentie",
+      "confidence": 0.47060986657872417,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 133,
+        "x_max": 423,
+        "y_max": 147
+      }
+    },
+    {
+      "text": "BFC",
+      "confidence": 0.014338074483485798,
+      "bbox": {
+        "x_min": 426,
+        "y_min": 136,
+        "x_max": 448,
+        "y_max": 144
+      }
+    },
+    {
+      "text": "applications en Eestion (FR)",
+      "confidence": 0.9280587402335065,
+      "bbox": {
+        "x_min": 451,
+        "y_min": 135,
+        "x_max": 593,
+        "y_max": 151
+      }
+    },
+    {
+      "text": "ACTOI",
+      "confidence": 0.14599803395860517,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 149,
+        "x_max": 167,
+        "y_max": 163
+      }
+    },
+    {
+      "text": "Financhl Accounting",
+      "confidence": 0.7277435008446929,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 151,
+        "x_max": 441,
+        "y_max": 167
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9493306157446924,
+      "bbox": {
+        "x_min": 857,
+        "y_min": 139,
+        "x_max": 875,
+        "y_max": 175
+      }
+    },
+    {
+      "text": "Fall 2025",
+      "confidence": 0.6869943605246333,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 167,
+        "x_max": 173,
+        "y_max": 181
+      }
+    },
+    {
+      "text": "Term Credlta",
+      "confidence": 0.8006136727726856,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 171,
+        "x_max": 403,
+        "y_max": 185
+      }
+    },
+    {
+      "text": "23.5",
+      "confidence": 0.9903696775436401,
+      "bbox": {
+        "x_min": 771,
+        "y_min": 175,
+        "x_max": 795,
+        "y_max": 193
+      }
+    },
+    {
+      "text": "23,5",
+      "confidence": 0.6953067230534059,
+      "bbox": {
+        "x_min": 853,
+        "y_min": 179,
+        "x_max": 877,
+        "y_max": 193
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.9077972597965883,
+      "bbox": {
+        "x_min": 363,
+        "y_min": 191,
+        "x_max": 389,
+        "y_max": 205
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.9833015860771199,
+      "bbox": {
+        "x_min": 122,
+        "y_min": 205,
+        "x_max": 283,
+        "y_max": 224
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.9984323482437831,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 225,
+        "x_max": 263,
+        "y_max": 241
+      }
+    },
+    {
+      "text": "159",
+      "confidence": 0.9999945627862629,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 235,
+        "x_max": 725,
+        "y_max": 249
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.857251271528496,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 245,
+        "x_max": 209,
+        "y_max": 259
+      }
+    },
+    {
+      "text": "2.40",
+      "confidence": 0.8836850105205297,
+      "bbox": {
+        "x_min": 963,
+        "y_min": 259,
+        "x_max": 989,
+        "y_max": 271
+      }
+    },
+    {
+      "text": "AINSTIT",
+      "confidence": 0.16751597995346373,
+      "bbox": {
+        "x_min": 934,
+        "y_min": 303,
+        "x_max": 1012,
+        "y_max": 330
+      }
+    },
+    {
+      "text": "Senior",
+      "confidence": 0.8489415679004648,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 379,
+        "x_max": 161,
+        "y_max": 393
+      }
+    },
+    {
+      "text": "Programs Manager",
+      "confidence": 0.9779898553829894,
+      "bbox": {
+        "x_min": 156,
+        "y_min": 377,
+        "x_max": 274,
+        "y_max": 401
+      }
+    },
+    {
+      "text": "Marwa Amri",
+      "confidence": 0.9826717863349725,
+      "bbox": {
+        "x_min": 329,
+        "y_min": 383,
+        "x_max": 405,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Tetm",
+      "confidence": 0.318269819021225,
+      "bbox": {
+        "x_min": 331,
+        "y_min": 189,
+        "x_max": 362,
+        "y_max": 204
+      }
+    },
+    {
+      "text": "INnL",
+      "confidence": 0.3856697976589203,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 439,
+        "x_max": 982,
+        "y_max": 464
+      }
+    }
+  ]
+}

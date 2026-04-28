@@ -1,0 +1,217 @@
+{
+  "file_name": "28-18.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "MathTA]",
+      "confidence": 0.03627004907671391,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 73,
+        "x_max": 177,
+        "y_max": 87
+      }
+    },
+    {
+      "text": "Wnear Alebfa",
+      "confidence": 0.03766030895784741,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 75,
+        "x_max": 409,
+        "y_max": 91
+      }
+    },
+    {
+      "text": "C420",
+      "confidence": 0.2529827654361725,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 91,
+        "x_max": 159,
+        "y_max": 105
+      }
+    },
+    {
+      "text": "Programming Logumge Deain",
+      "confidence": 0.03821716690852295,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 94,
+        "x_max": 491,
+        "y_max": 112
+      }
+    },
+    {
+      "text": "Umplementation",
+      "confidence": 0.510406357716524,
+      "bbox": {
+        "x_min": 501,
+        "y_min": 97,
+        "x_max": 585,
+        "y_max": 111
+      }
+    },
+    {
+      "text": "EC017z",
+      "confidence": 0.262444812097759,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 111,
+        "x_max": 167,
+        "y_max": 125
+      }
+    },
+    {
+      "text": "Mactotconomki (Fri",
+      "confidence": 0.08670422770438721,
+      "bbox": {
+        "x_min": 332,
+        "y_min": 112,
+        "x_max": 445,
+        "y_max": 129
+      }
+    },
+    {
+      "text": "Athos00",
+      "confidence": 0.105181212538827,
+      "bbox": {
+        "x_min": 133,
+        "y_min": 131,
+        "x_max": 193,
+        "y_max": 145
+      }
+    },
+    {
+      "text": "Okuldmterenlt",
+      "confidence": 0.02628262392372745,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 133,
+        "x_max": 421,
+        "y_max": 147
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 0.014575277209916637,
+      "bbox": {
+        "x_min": 424,
+        "y_min": 138,
+        "x_max": 448,
+        "y_max": 144
+      }
+    },
+    {
+      "text": "#pplfationien Eeition (Fai",
+      "confidence": 0.02075172301317053,
+      "bbox": {
+        "x_min": 449,
+        "y_min": 135,
+        "x_max": 591,
+        "y_max": 151
+      }
+    },
+    {
+      "text": "AcuQ]",
+      "confidence": 0.21229443107894713,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 149,
+        "x_max": 165,
+        "y_max": 163
+      }
+    },
+    {
+      "text": "Financ _laccounting",
+      "confidence": 0.030853843653983432,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 152,
+        "x_max": 437,
+        "y_max": 167
+      }
+    },
+    {
+      "text": "7025",
+      "confidence": 0.8282482028007507,
+      "bbox": {
+        "x_min": 141,
+        "y_min": 169,
+        "x_max": 171,
+        "y_max": 183
+      }
+    },
+    {
+      "text": "Term Credita",
+      "confidence": 0.3522309106101504,
+      "bbox": {
+        "x_min": 331,
+        "y_min": 171,
+        "x_max": 401,
+        "y_max": 185
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.4991454254607989,
+      "bbox": {
+        "x_min": 361,
+        "y_min": 191,
+        "x_max": 387,
+        "y_max": 205
+      }
+    },
+    {
+      "text": "Cumulatine Attempted Crediti",
+      "confidence": 0.15010140175849987,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 207,
+        "x_max": 281,
+        "y_max": 223
+      }
+    },
+    {
+      "text": "Cumulatit€ Earned Credita",
+      "confidence": 0.23051690691251,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 227,
+        "x_max": 261,
+        "y_max": 243
+      }
+    },
+    {
+      "text": "Cumulatla GPa",
+      "confidence": 0.12193219375558326,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 247,
+        "x_max": 207,
+        "y_max": 261
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.7956172454072283,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 380,
+        "x_max": 271,
+        "y_max": 399
+      }
+    },
+    {
+      "text": "Marwa Amf",
+      "confidence": 0.4529732234699466,
+      "bbox": {
+        "x_min": 328,
+        "y_min": 382,
+        "x_max": 403,
+        "y_max": 399
+      }
+    }
+  ]
+}

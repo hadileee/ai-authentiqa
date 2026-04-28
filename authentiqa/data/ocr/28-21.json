@@ -1,0 +1,237 @@
+{
+  "file_name": "28-21.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Mathta]",
+      "confidence": 0.14331661854656325,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 79,
+        "x_max": 167,
+        "y_max": 93
+      }
+    },
+    {
+      "text": "Unear Aleebr",
+      "confidence": 0.17825871048173286,
+      "bbox": {
+        "x_min": 322,
+        "y_min": 78,
+        "x_max": 399,
+        "y_max": 94
+      }
+    },
+    {
+      "text": "C420",
+      "confidence": 0.5312778353691101,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 97,
+        "x_max": 149,
+        "y_max": 111
+      }
+    },
+    {
+      "text": "Protosmming Lineu\"ee Desitn",
+      "confidence": 0.020911593471476992,
+      "bbox": {
+        "x_min": 322,
+        "y_min": 96,
+        "x_max": 481,
+        "y_max": 114
+      }
+    },
+    {
+      "text": "Implementation",
+      "confidence": 0.44853209696494106,
+      "bbox": {
+        "x_min": 491,
+        "y_min": 99,
+        "x_max": 575,
+        "y_max": 113
+      }
+    },
+    {
+      "text": "EC017z",
+      "confidence": 0.2996291287421368,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 117,
+        "x_max": 157,
+        "y_max": 131
+      }
+    },
+    {
+      "text": "Mucroeconomk: (Fri",
+      "confidence": 0.1447704592162733,
+      "bbox": {
+        "x_min": 323,
+        "y_min": 117,
+        "x_max": 437,
+        "y_max": 131
+      }
+    },
+    {
+      "text": "MatH",
+      "confidence": 0.21911779046058655,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 137,
+        "x_max": 149,
+        "y_max": 149
+      }
+    },
+    {
+      "text": "10600",
+      "confidence": 0.9624535671288095,
+      "bbox": {
+        "x_min": 146,
+        "y_min": 134,
+        "x_max": 183,
+        "y_max": 152
+      }
+    },
+    {
+      "text": "Cskul difterentiel Jvec #Pplicatiort en E*ttion (Fr)",
+      "confidence": 0.023141177322583955,
+      "bbox": {
+        "x_min": 323,
+        "y_min": 135,
+        "x_max": 581,
+        "y_max": 151
+      }
+    },
+    {
+      "text": "ACTiQ]",
+      "confidence": 0.06065912710304433,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 155,
+        "x_max": 155,
+        "y_max": 169
+      }
+    },
+    {
+      "text": "fnancue",
+      "confidence": 0.08564193194581543,
+      "bbox": {
+        "x_min": 323,
+        "y_min": 157,
+        "x_max": 367,
+        "y_max": 169
+      }
+    },
+    {
+      "text": "ccountn",
+      "confidence": 0.5211466570314222,
+      "bbox": {
+        "x_min": 372,
+        "y_min": 158,
+        "x_max": 422,
+        "y_max": 166
+      }
+    },
+    {
+      "text": "2025",
+      "confidence": 0.6496428847312927,
+      "bbox": {
+        "x_min": 133,
+        "y_min": 175,
+        "x_max": 161,
+        "y_max": 189
+      }
+    },
+    {
+      "text": "Term Credit",
+      "confidence": 0.6337088584267911,
+      "bbox": {
+        "x_min": 323,
+        "y_min": 175,
+        "x_max": 393,
+        "y_max": 189
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.7926528152847909,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 195,
+        "x_max": 377,
+        "y_max": 209
+      }
+    },
+    {
+      "text": "Cumulatie Attempted Creditt",
+      "confidence": 0.18149150651424037,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 215,
+        "x_max": 273,
+        "y_max": 229
+      }
+    },
+    {
+      "text": "Cumulative Earned Credita",
+      "confidence": 0.3684141688679631,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 233,
+        "x_max": 253,
+        "y_max": 247
+      }
+    },
+    {
+      "text": "228",
+      "confidence": 0.9598261482144363,
+      "bbox": {
+        "x_min": 761,
+        "y_min": 233,
+        "x_max": 783,
+        "y_max": 247
+      }
+    },
+    {
+      "text": "Cumulatite GPa",
+      "confidence": 0.10214431859398171,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 253,
+        "x_max": 199,
+        "y_max": 265
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.9909182160612043,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 385,
+        "x_max": 265,
+        "y_max": 404
+      }
+    },
+    {
+      "text": "Marwa Amri",
+      "confidence": 0.1549262162648022,
+      "bbox": {
+        "x_min": 321,
+        "y_min": 387,
+        "x_max": 397,
+        "y_max": 401
+      }
+    },
+    {
+      "text": "Ietm",
+      "confidence": 0.3527167737483978,
+      "bbox": {
+        "x_min": 322,
+        "y_min": 193,
+        "x_max": 352,
+        "y_max": 208
+      }
+    }
+  ]
+}

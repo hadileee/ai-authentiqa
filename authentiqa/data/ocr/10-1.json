@@ -105,22 +105,22 @@
     },
     {
       "text": "First Name: ////",
-      "confidence": 0.7337246916257555,
+      "confidence": 0.8056271310496605,
       "bbox": {
         "x_min": 56,
         "y_min": 300,
-        "x_max": 234,
+        "x_max": 214,
         "y_max": 324
       }
     },
     {
-      "text": "Last Name: ////",
-      "confidence": 0.9982075839765807,
+      "text": "Last Name: / ///",
+      "confidence": 0.7727317651665747,
       "bbox": {
         "x_min": 56,
-        "y_min": 328,
-        "x_max": 234,
-        "y_max": 356
+        "y_min": 330,
+        "x_max": 208,
+        "y_max": 354
       }
     },
     {
@@ -135,10 +135,10 @@
     },
     {
       "text": "Country of Birth: Tunisia",
-      "confidence": 0.9977342705890389,
+      "confidence": 0.9785827023584559,
       "bbox": {
         "x_min": 55,
-        "y_min": 387,
+        "y_min": 386,
         "x_max": 286,
         "y_max": 414
       }
@@ -165,10 +165,10 @@
     },
     {
       "text": "Major: Software Engineering Program",
-      "confidence": 0.8953735038868907,
+      "confidence": 0.8015940615702877,
       "bbox": {
         "x_min": 58,
-        "y_min": 475,
+        "y_min": 474,
         "x_max": 410,
         "y_max": 506
       }

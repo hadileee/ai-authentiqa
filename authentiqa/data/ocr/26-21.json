@@ -1,0 +1,1807 @@
+{
+  "file_name": "26-21.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Heatech",
+      "confidence": 0.7558933031391993,
+      "bbox": {
+        "x_min": 161,
+        "y_min": 205,
+        "x_max": 211,
+        "y_max": 219
+      }
+    },
+    {
+      "text": "ShV",
+      "confidence": 0.13757174746192977,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 223,
+        "x_max": 149,
+        "y_max": 235
+      }
+    },
+    {
+      "text": "Official",
+      "confidence": 0.29638151884340525,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 253,
+        "x_max": 149,
+        "y_max": 267
+      }
+    },
+    {
+      "text": "Transcript",
+      "confidence": 0.9978944398951132,
+      "bbox": {
+        "x_min": 153,
+        "y_min": 255,
+        "x_max": 211,
+        "y_max": 269
+      }
+    },
+    {
+      "text": "Computer Systems Engineering Program",
+      "confidence": 0.7584215941580713,
+      "bbox": {
+        "x_min": 601,
+        "y_min": 252,
+        "x_max": 821,
+        "y_max": 270
+      }
+    },
+    {
+      "text": "Fimgt name:",
+      "confidence": 0.2553066987199206,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 286,
+        "x_max": 164,
+        "y_max": 294
+      }
+    },
+    {
+      "text": "Imcm",
+      "confidence": 0.6828704476356506,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 286,
+        "x_max": 290,
+        "y_max": 294
+      }
+    },
+    {
+      "text": "Last namc:",
+      "confidence": 0.6303101488997374,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 299,
+        "x_max": 165,
+        "y_max": 311
+      }
+    },
+    {
+      "text": "Krifa",
+      "confidence": 0.7435968147999953,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 299,
+        "x_max": 291,
+        "y_max": 311
+      }
+    },
+    {
+      "text": "Date of Birth:",
+      "confidence": 0.3349860105484024,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 313,
+        "x_max": 177,
+        "y_max": 325
+      }
+    },
+    {
+      "text": "11/15/2003",
+      "confidence": 0.8952964316595919,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 313,
+        "x_max": 323,
+        "y_max": 325
+      }
+    },
+    {
+      "text": "countn",
+      "confidence": 0.4818898269764826,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 330,
+        "x_max": 148,
+        "y_max": 338
+      }
+    },
+    {
+      "text": "of Birth;",
+      "confidence": 0.50155733218889,
+      "bbox": {
+        "x_min": 149,
+        "y_min": 327,
+        "x_max": 191,
+        "y_max": 341
+      }
+    },
+    {
+      "text": "Tunisian",
+      "confidence": 0.9428553759518854,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 325,
+        "x_max": 307,
+        "y_max": 339
+      }
+    },
+    {
+      "text": "CIN:",
+      "confidence": 0.8331225637693952,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 343,
+        "x_max": 135,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "9650714",
+      "confidence": 0.9682809054832662,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 341,
+        "x_max": 311,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "Student ID:",
+      "confidence": 0.6044511549905216,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 357,
+        "x_max": 167,
+        "y_max": 369
+      }
+    },
+    {
+      "text": "221-5914",
+      "confidence": 0.7781235949986163,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 357,
+        "x_max": 313,
+        "y_max": 369
+      }
+    },
+    {
+      "text": "Course Code",
+      "confidence": 0.9919459884458753,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 385,
+        "x_max": 171,
+        "y_max": 399
+      }
+    },
+    {
+      "text": "Counc",
+      "confidence": 0.11547560502590075,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 388,
+        "x_max": 298,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "Name",
+      "confidence": 0.4289938807487488,
+      "bbox": {
+        "x_min": 302,
+        "y_min": 388,
+        "x_max": 330,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "Us Qredits",
+      "confidence": 0.31751496043402994,
+      "bbox": {
+        "x_min": 599,
+        "y_min": 385,
+        "x_max": 651,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "ECTS",
+      "confidence": 0.8812651634216309,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 385,
+        "x_max": 731,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Earned ECTS Cr",
+      "confidence": 0.6823700988378291,
+      "bbox": {
+        "x_min": 739,
+        "y_min": 385,
+        "x_max": 813,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Letter Grade",
+      "confidence": 0.9551366534656467,
+      "bbox": {
+        "x_min": 825,
+        "y_min": 385,
+        "x_max": 889,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "HEC Letter Grede",
+      "confidence": 0.27729365354594193,
+      "bbox": {
+        "x_min": 907,
+        "y_min": 385,
+        "x_max": 991,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "CS101",
+      "confidence": 0.7325139298873984,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 401,
+        "x_max": 143,
+        "y_max": 413
+      }
+    },
+    {
+      "text": "ntro",
+      "confidence": 0.8825451135635376,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 404,
+        "x_max": 290,
+        "y_max": 412
+      }
+    },
+    {
+      "text": "Programming",
+      "confidence": 0.6117386671561148,
+      "bbox": {
+        "x_min": 302,
+        "y_min": 400,
+        "x_max": 367,
+        "y_max": 414
+      }
+    },
+    {
+      "text": "PSYI01",
+      "confidence": 0.15280880440985387,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 417,
+        "x_max": 147,
+        "y_max": 429
+      }
+    },
+    {
+      "text": "Introduction to Psychology",
+      "confidence": 0.7629867582155043,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 415,
+        "x_max": 393,
+        "y_max": 431
+      }
+    },
+    {
+      "text": "MGMT1O]",
+      "confidence": 0.5083735829168065,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 433,
+        "x_max": 161,
+        "y_max": 445
+      }
+    },
+    {
+      "text": "Kntroduclon",
+      "confidence": 0.23993072425269815,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 434,
+        "x_max": 324,
+        "y_max": 442
+      }
+    },
+    {
+      "text": "Management",
+      "confidence": 0.9929104294137865,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 433,
+        "x_max": 401,
+        "y_max": 445
+      }
+    },
+    {
+      "text": "ECO17i",
+      "confidence": 0.5106256637727785,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 449,
+        "x_max": 149,
+        "y_max": 463
+      }
+    },
+    {
+      "text": "Analyse Microeconomique (FRI",
+      "confidence": 0.8607704600237356,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 449,
+        "x_max": 411,
+        "y_max": 463
+      }
+    },
+    {
+      "text": "Math 10600",
+      "confidence": 0.6587164579640471,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 465,
+        "x_max": 173,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "Calcul ditterentie[",
+      "confidence": 0.5689908942183751,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 465,
+        "x_max": 349,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "Jvoc",
+      "confidence": 0.07257967442274094,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 466,
+        "x_max": 374,
+        "y_max": 474
+      }
+    },
+    {
+      "text": "applications",
+      "confidence": 0.6379156633044073,
+      "bbox": {
+        "x_min": 375,
+        "y_min": 465,
+        "x_max": 435,
+        "y_max": 479
+      }
+    },
+    {
+      "text": "gestion (FR)",
+      "confidence": 0.9156586700575802,
+      "bbox": {
+        "x_min": 447,
+        "y_min": 465,
+        "x_max": 507,
+        "y_max": 479
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.18314525381527247,
+      "bbox": {
+        "x_min": 705,
+        "y_min": 413,
+        "x_max": 725,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "",
+      "confidence": 0.0,
+      "bbox": {
+        "x_min": 775,
+        "y_min": 415,
+        "x_max": 793,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "PHYS1S1",
+      "confidence": 0.7701901033661598,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 481,
+        "x_max": 153,
+        "y_max": 493
+      }
+    },
+    {
+      "text": "Classical Mechanics",
+      "confidence": 0.9397956569110801,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 481,
+        "x_max": 359,
+        "y_max": 493
+      }
+    },
+    {
+      "text": "ENGIII",
+      "confidence": 0.3992684191017051,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 497,
+        "x_max": 149,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "icademIC",
+      "confidence": 0.16170429475093256,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 498,
+        "x_max": 312,
+        "y_max": 506
+      }
+    },
+    {
+      "text": "Enclish",
+      "confidence": 0.8745907037993749,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 495,
+        "x_max": 349,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "LCEL4}",
+      "confidence": 0.11033664824834043,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 513,
+        "x_max": 147,
+        "y_max": 525
+      }
+    },
+    {
+      "text": "Intro",
+      "confidence": 0.5536447088445162,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 514,
+        "x_max": 290,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "Dicital Systems",
+      "confidence": 0.7073638302409375,
+      "bbox": {
+        "x_min": 303,
+        "y_min": 513,
+        "x_max": 375,
+        "y_max": 525
+      }
+    },
+    {
+      "text": "Fall 2022",
+      "confidence": 0.9236691466906439,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 529,
+        "x_max": 153,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9973109835291604,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 527,
+        "x_max": 329,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.7262862836592693,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 543,
+        "x_max": 317,
+        "y_max": 557
+      }
+    },
+    {
+      "text": "MATHZ43",
+      "confidence": 0.6207725341969808,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 559,
+        "x_max": 157,
+        "y_max": 573
+      }
+    },
+    {
+      "text": "Discrete Mathematics",
+      "confidence": 0.865294720138929,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 558,
+        "x_max": 367,
+        "y_max": 572
+      }
+    },
+    {
+      "text": "ENG1ZI",
+      "confidence": 0.46069812845521235,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 575,
+        "x_max": 149,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "Enelish ComposItian",
+      "confidence": 0.7911623426427546,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 575,
+        "x_max": 359,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "C510z",
+      "confidence": 0.7443692549217863,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 591,
+        "x_max": 141,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "Object-orented",
+      "confidence": 0.981524024142492,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 591,
+        "x_max": 341,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "155196",
+      "confidence": 0.25062250728328467,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 608,
+        "x_max": 140,
+        "y_max": 616
+      }
+    },
+    {
+      "text": "Freshman",
+      "confidence": 0.9624300478765255,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 608,
+        "x_max": 312,
+        "y_max": 616
+      }
+    },
+    {
+      "text": "Project",
+      "confidence": 0.9997385239086997,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 607,
+        "x_max": 349,
+        "y_max": 621
+      }
+    },
+    {
+      "text": "chthiGZ",
+      "confidence": 0.3995676875585589,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 622,
+        "x_max": 160,
+        "y_max": 652
+      }
+    },
+    {
+      "text": "Chlcmlutriv te",
+      "confidence": 0.06195178959708061,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 622,
+        "x_max": 324,
+        "y_max": 652
+      }
+    },
+    {
+      "text": "for Engincen;",
+      "confidence": 0.47775745281162174,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 637,
+        "x_max": 377,
+        "y_max": 651
+      }
+    },
+    {
+      "text": ";",
+      "confidence": 0.6550760037246164,
+      "bbox": {
+        "x_min": 707,
+        "y_min": 619,
+        "x_max": 725,
+        "y_max": 665
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.09546715971941921,
+      "bbox": {
+        "x_min": 775,
+        "y_min": 587,
+        "x_max": 791,
+        "y_max": 665
+      }
+    },
+    {
+      "text": "MGMT1OZ",
+      "confidence": 0.6434664924210837,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 655,
+        "x_max": 161,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "ManaEement And Leadership (FRI",
+      "confidence": 0.20797370620841815,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 655,
+        "x_max": 423,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "PHY5152",
+      "confidence": 0.31763149298971094,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 671,
+        "x_max": 153,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "Flectomjenersm",
+      "confidence": 0.12839527011251906,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 672,
+        "x_max": 348,
+        "y_max": 680
+      }
+    },
+    {
+      "text": "Spring 2023",
+      "confidence": 0.6512650069259821,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 687,
+        "x_max": 167,
+        "y_max": 701
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9212313891338269,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 687,
+        "x_max": 329,
+        "y_max": 699
+      }
+    },
+    {
+      "text": "Term GP",
+      "confidence": 0.5912119877628523,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 701,
+        "x_max": 309,
+        "y_max": 715
+      }
+    },
+    {
+      "text": "MATH244",
+      "confidence": 0.8162264803889268,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 717,
+        "x_max": 159,
+        "y_max": 731
+      }
+    },
+    {
+      "text": "Probability",
+      "confidence": 0.9816865940522159,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 717,
+        "x_max": 319,
+        "y_max": 731
+      }
+    },
+    {
+      "text": "Statlstlcs",
+      "confidence": 0.45897601410689326,
+      "bbox": {
+        "x_min": 327,
+        "y_min": 717,
+        "x_max": 369,
+        "y_max": 729
+      }
+    },
+    {
+      "text": "COMZO5",
+      "confidence": 0.18056876604245783,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 733,
+        "x_max": 153,
+        "y_max": 745
+      }
+    },
+    {
+      "text": "Technlcal Writing",
+      "confidence": 0.7660811615391913,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 733,
+        "x_max": 349,
+        "y_max": 747
+      }
+    },
+    {
+      "text": "MATH24]",
+      "confidence": 0.12396755772203148,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 749,
+        "x_max": 157,
+        "y_max": 761
+      }
+    },
+    {
+      "text": "Mnez",
+      "confidence": 0.25330942718323035,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 750,
+        "x_max": 290,
+        "y_max": 758
+      }
+    },
+    {
+      "text": "gebra",
+      "confidence": 0.9927508829003265,
+      "bbox": {
+        "x_min": 305,
+        "y_min": 749,
+        "x_max": 335,
+        "y_max": 763
+      }
+    },
+    {
+      "text": "EC0172",
+      "confidence": 0.5124821527810061,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 765,
+        "x_max": 149,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "Macroeconomics (FRI",
+      "confidence": 0.728565146213832,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 765,
+        "x_max": 367,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "DDSR 0.0405",
+      "confidence": 0.8092299845707974,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 780,
+        "x_max": 170,
+        "y_max": 810
+      }
+    },
+    {
+      "text": "Soxiketi D(veloppement",
+      "confidence": 0.29493282263201187,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 780,
+        "x_max": 382,
+        "y_max": 810
+      }
+    },
+    {
+      "text": "Durable",
+      "confidence": 0.999352600185392,
+      "bbox": {
+        "x_min": 381,
+        "y_min": 797,
+        "x_max": 423,
+        "y_max": 809
+      }
+    },
+    {
+      "text": "Organisations (FR)",
+      "confidence": 0.9973650364490272,
+      "bbox": {
+        "x_min": 433,
+        "y_min": 797,
+        "x_max": 523,
+        "y_max": 811
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.1840028937006375,
+      "bbox": {
+        "x_min": 707,
+        "y_min": 747,
+        "x_max": 725,
+        "y_max": 809
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.5641548866551602,
+      "bbox": {
+        "x_min": 770,
+        "y_min": 746,
+        "x_max": 794,
+        "y_max": 842
+      }
+    },
+    {
+      "text": "C5a4]",
+      "confidence": 0.1502451533732234,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 814,
+        "x_max": 138,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Data Structunes#no",
+      "confidence": 0.1542520140567597,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 814,
+        "x_max": 356,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Aeorithme",
+      "confidence": 0.14866050050315166,
+      "bbox": {
+        "x_min": 360,
+        "y_min": 814,
+        "x_max": 408,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Fall 7073",
+      "confidence": 0.5610277317161048,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 829,
+        "x_max": 153,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9646341449483418,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 829,
+        "x_max": 329,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "33.5",
+      "confidence": 0.7384315133094788,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 823,
+        "x_max": 725,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Tetm GPA",
+      "confidence": 0.40882424375481025,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 845,
+        "x_max": 315,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "PHYS253",
+      "confidence": 0.4595230762989954,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 859,
+        "x_max": 153,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "Wavcs_",
+      "confidence": 0.9291241009919653,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 858,
+        "x_max": 299,
+        "y_max": 872
+      }
+    },
+    {
+      "text": "Uptic; ang",
+      "confidence": 0.2675043592398059,
+      "bbox": {
+        "x_min": 302,
+        "y_min": 862,
+        "x_max": 350,
+        "y_max": 870
+      }
+    },
+    {
+      "text": "Quantum Physics",
+      "confidence": 0.8469556382980052,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 858,
+        "x_max": 433,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "ECE2S]",
+      "confidence": 0.3320366470213851,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 875,
+        "x_max": 147,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "Electric Circults",
+      "confidence": 0.5675549612115299,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 874,
+        "x_max": 339,
+        "y_max": 888
+      }
+    },
+    {
+      "text": "155296",
+      "confidence": 0.917772625038224,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 891,
+        "x_max": 143,
+        "y_max": 905
+      }
+    },
+    {
+      "text": "Sophomor",
+      "confidence": 0.6094784808991603,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 891,
+        "x_max": 315,
+        "y_max": 903
+      }
+    },
+    {
+      "text": "Project",
+      "confidence": 0.9818688099290794,
+      "bbox": {
+        "x_min": 320,
+        "y_min": 890,
+        "x_max": 357,
+        "y_max": 906
+      }
+    },
+    {
+      "text": "C5261",
+      "confidence": 0.8815652895558438,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 907,
+        "x_max": 141,
+        "y_max": 921
+      }
+    },
+    {
+      "text": "Compute",
+      "confidence": 0.9905254758583315,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 907,
+        "x_max": 309,
+        "y_max": 919
+      }
+    },
+    {
+      "text": "Organisation and",
+      "confidence": 0.7380447669534954,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 907,
+        "x_max": 393,
+        "y_max": 921
+      }
+    },
+    {
+      "text": "MATH341",
+      "confidence": 0.7003881106421367,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 923,
+        "x_max": 157,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "Differentia",
+      "confidence": 0.7813450203296157,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 923,
+        "x_max": 317,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "Fomations",
+      "confidence": 0.25358329591854073,
+      "bbox": {
+        "x_min": 320,
+        "y_min": 924,
+        "x_max": 364,
+        "y_max": 932
+      }
+    },
+    {
+      "text": "15",
+      "confidence": 0.39187339391062365,
+      "bbox": {
+        "x_min": 707,
+        "y_min": 905,
+        "x_max": 723,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "ScOz0l",
+      "confidence": 0.15941593661955242,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 939,
+        "x_max": 149,
+        "y_max": 951
+      }
+    },
+    {
+      "text": "Operations Management",
+      "confidence": 0.9739334923873357,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 939,
+        "x_max": 381,
+        "y_max": 953
+      }
+    },
+    {
+      "text": "ACTIOI",
+      "confidence": 0.3559662914595045,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 955,
+        "x_max": 147,
+        "y_max": 967
+      }
+    },
+    {
+      "text": "Financial Accounting",
+      "confidence": 0.9164585866897608,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 953,
+        "x_max": 361,
+        "y_max": 967
+      }
+    },
+    {
+      "text": "FINA 40z00",
+      "confidence": 0.37989669224298295,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 971,
+        "x_max": 165,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "Enancc! (FRJ",
+      "confidence": 0.10494642434030248,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 971,
+        "x_max": 331,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "Spring 2024",
+      "confidence": 0.7819761666990765,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 987,
+        "x_max": 167,
+        "y_max": 1001
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9723267065267844,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 987,
+        "x_max": 329,
+        "y_max": 999
+      }
+    },
+    {
+      "text": "erm",
+      "confidence": 0.7134030627431358,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1004,
+        "x_max": 290,
+        "y_max": 1012
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.9711593985557556,
+      "bbox": {
+        "x_min": 291,
+        "y_min": 1001,
+        "x_max": 315,
+        "y_max": 1015
+      }
+    },
+    {
+      "text": "ECE37]",
+      "confidence": 0.558475143280464,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1019,
+        "x_max": 145,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Signals =",
+      "confidence": 0.7949951865770372,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1019,
+        "x_max": 301,
+        "y_max": 1033
+      }
+    },
+    {
+      "text": "Systems",
+      "confidence": 0.9904023553361037,
+      "bbox": {
+        "x_min": 309,
+        "y_min": 1019,
+        "x_max": 351,
+        "y_max": 1033
+      }
+    },
+    {
+      "text": "ECE357",
+      "confidence": 0.9381857381222157,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1035,
+        "x_max": 145,
+        "y_max": 1049
+      }
+    },
+    {
+      "text": "Flectuni",
+      "confidence": 0.17157199759804953,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1036,
+        "x_max": 306,
+        "y_max": 1044
+      }
+    },
+    {
+      "text": "Detlce",
+      "confidence": 0.11614406624556795,
+      "bbox": {
+        "x_min": 314,
+        "y_min": 1036,
+        "x_max": 344,
+        "y_max": 1044
+      }
+    },
+    {
+      "text": "and Circults",
+      "confidence": 0.6395317293710837,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 1035,
+        "x_max": 407,
+        "y_max": 1047
+      }
+    },
+    {
+      "text": "[CLJ55",
+      "confidence": 0.15353555901674182,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1053,
+        "x_max": 145,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "me",
+      "confidence": 0.519887133439699,
+      "bbox": {
+        "x_min": 288,
+        "y_min": 1054,
+        "x_max": 310,
+        "y_max": 1062
+      }
+    },
+    {
+      "text": "Embedded Systems",
+      "confidence": 0.9828589655926837,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 1051,
+        "x_max": 405,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "C5420",
+      "confidence": 0.797577113583686,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1069,
+        "x_max": 141,
+        "y_max": 1081
+      }
+    },
+    {
+      "text": "Programming Language Design",
+      "confidence": 0.6367626489575248,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1068,
+        "x_max": 409,
+        "y_max": 1083
+      }
+    },
+    {
+      "text": "Implcmcntation",
+      "confidence": 0.21510286277867605,
+      "bbox": {
+        "x_min": 420,
+        "y_min": 1070,
+        "x_max": 492,
+        "y_max": 1078
+      }
+    },
+    {
+      "text": "CSAMI",
+      "confidence": 0.34548924061300246,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1085,
+        "x_max": 141,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "Computcr Networks",
+      "confidence": 0.8177046424790189,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1085,
+        "x_max": 361,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "55",
+      "confidence": 0.8731567594267184,
+      "bbox": {
+        "x_min": 771,
+        "y_min": 1063,
+        "x_max": 791,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "ECE443",
+      "confidence": 0.9404193766131052,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1105,
+        "x_max": 147,
+        "y_max": 1119
+      }
+    },
+    {
+      "text": "Advanced Digital Systems",
+      "confidence": 0.9824962053786606,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1105,
+        "x_max": 385,
+        "y_max": 1119
+      }
+    },
+    {
+      "text": "C5303",
+      "confidence": 0.7233671572179317,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1123,
+        "x_max": 141,
+        "y_max": 1137
+      }
+    },
+    {
+      "text": "Operating Systems",
+      "confidence": 0.40918398465667893,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1123,
+        "x_max": 353,
+        "y_max": 1137
+      }
+    },
+    {
+      "text": "35",
+      "confidence": 0.30272781033591784,
+      "bbox": {
+        "x_min": 700,
+        "y_min": 1118,
+        "x_max": 726,
+        "y_max": 1154
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.16663266230679952,
+      "bbox": {
+        "x_min": 768,
+        "y_min": 1100,
+        "x_max": 794,
+        "y_max": 1154
+      }
+    },
+    {
+      "text": "Fall 2024",
+      "confidence": 0.7485420913144543,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1141,
+        "x_max": 153,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9981541629600242,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1141,
+        "x_max": 329,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "Ierm GPA",
+      "confidence": 0.512196481656568,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1157,
+        "x_max": 315,
+        "y_max": 1169
+      }
+    },
+    {
+      "text": "MATH342",
+      "confidence": 0.7628914542519352,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1173,
+        "x_max": 157,
+        "y_max": 1187
+      }
+    },
+    {
+      "text": "Multivariablc Calculus",
+      "confidence": 0.7594684637973604,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1172,
+        "x_max": 367,
+        "y_max": 1186
+      }
+    },
+    {
+      "text": "Numerical Methods",
+      "confidence": 0.8864133681809998,
+      "bbox": {
+        "x_min": 376,
+        "y_min": 1172,
+        "x_max": 471,
+        "y_max": 1186
+      }
+    },
+    {
+      "text": "ECE37Z",
+      "confidence": 0.556060547019177,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1191,
+        "x_max": 147,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "Feedback Control Systems",
+      "confidence": 0.16734098350789411,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1191,
+        "x_max": 387,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "EcE455",
+      "confidence": 0.606503508003805,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1207,
+        "x_max": 147,
+        "y_max": 1219
+      }
+    },
+    {
+      "text": "Hardware/ Software Co-Design",
+      "confidence": 0.7745593072688937,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1207,
+        "x_max": 407,
+        "y_max": 1221
+      }
+    },
+    {
+      "text": "MATH348",
+      "confidence": 0.8046459192310806,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1223,
+        "x_max": 157,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "Graph Theory",
+      "confidence": 0.9131166088075715,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1223,
+        "x_max": 331,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "Applications",
+      "confidence": 0.7809993689245751,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 1223,
+        "x_max": 399,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "ECE431",
+      "confidence": 0.9711930576862267,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1241,
+        "x_max": 147,
+        "y_max": 1253
+      }
+    },
+    {
+      "text": "Robatics",
+      "confidence": 0.6371823528563239,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1241,
+        "x_max": 307,
+        "y_max": 1253
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.2518507991965322,
+      "bbox": {
+        "x_min": 705,
+        "y_min": 1203,
+        "x_max": 723,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.3584396046111493,
+      "bbox": {
+        "x_min": 773,
+        "y_min": 1203,
+        "x_max": 791,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "ECE457",
+      "confidence": 0.9974576884039889,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1257,
+        "x_max": 145,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "Dieital SrEnal Processing",
+      "confidence": 0.5402512453352211,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1256,
+        "x_max": 377,
+        "y_max": 1272
+      }
+    },
+    {
+      "text": "CoM3O7",
+      "confidence": 0.17863921268713073,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1277,
+        "x_max": 153,
+        "y_max": 1291
+      }
+    },
+    {
+      "text": "Effective Technical Communication",
+      "confidence": 0.7212019926129205,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1277,
+        "x_max": 425,
+        "y_max": 1291
+      }
+    },
+    {
+      "text": "44202",
+      "confidence": 0.32673873038331147,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1299,
+        "x_max": 147,
+        "y_max": 1311
+      }
+    },
+    {
+      "text": "Manacement Injormation Systems (Rl",
+      "confidence": 0.3104617035982398,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1299,
+        "x_max": 443,
+        "y_max": 1311
+      }
+    },
+    {
+      "text": "Spring 2025",
+      "confidence": 0.9190951383966668,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1315,
+        "x_max": 165,
+        "y_max": 1329
+      }
+    },
+    {
+      "text": "WEm",
+      "confidence": 0.005252347650567003,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1318,
+        "x_max": 290,
+        "y_max": 1324
+      }
+    },
+    {
+      "text": "Credits",
+      "confidence": 0.6493548098440916,
+      "bbox": {
+        "x_min": 291,
+        "y_min": 1315,
+        "x_max": 327,
+        "y_max": 1329
+      }
+    },
+    {
+      "text": "Jcim GPA",
+      "confidence": 0.31502659726093474,
+      "bbox": {
+        "x_min": 263,
+        "y_min": 1333,
+        "x_max": 315,
+        "y_max": 1345
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.8211134645279298,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1347,
+        "x_max": 255,
+        "y_max": 1359
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.8743509183474766,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1361,
+        "x_max": 237,
+        "y_max": 1375
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.6559116857688055,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1377,
+        "x_max": 187,
+        "y_max": 1389
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.8749612083792933,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1457,
+        "x_max": 251,
+        "y_max": 1476
+      }
+    },
+    {
+      "text": "Manwa Amri",
+      "confidence": 0.7455770943730399,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1459,
+        "x_max": 335,
+        "y_max": 1473
+      }
+    },
+    {
+      "text": "Prolt",
+      "confidence": 0.22180596491472898,
+      "bbox": {
+        "x_min": 340,
+        "y_min": 590,
+        "x_max": 366,
+        "y_max": 603
+      }
+    },
+    {
+      "text": "Design",
+      "confidence": 0.4936146996561552,
+      "bbox": {
+        "x_min": 391,
+        "y_min": 905,
+        "x_max": 426,
+        "y_max": 921
+      }
+    }
+  ]
+}

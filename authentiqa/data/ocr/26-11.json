@@ -1,0 +1,1537 @@
+{
+  "file_name": "26-11.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Hcatech",
+      "confidence": 0.27110699867149424,
+      "bbox": {
+        "x_min": 161,
+        "y_min": 205,
+        "x_max": 211,
+        "y_max": 219
+      }
+    },
+    {
+      "text": "omfical Trcansccipt",
+      "confidence": 0.24913404774336273,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 253,
+        "x_max": 211,
+        "y_max": 269
+      }
+    },
+    {
+      "text": "Computer Systems Engineering Progtam",
+      "confidence": 0.3649065400280374,
+      "bbox": {
+        "x_min": 598,
+        "y_min": 252,
+        "x_max": 821,
+        "y_max": 270
+      }
+    },
+    {
+      "text": "Funtmimt",
+      "confidence": 0.07860835686776103,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 285,
+        "x_max": 163,
+        "y_max": 297
+      }
+    },
+    {
+      "text": "(mmg",
+      "confidence": 0.2007742077112198,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 299,
+        "x_max": 163,
+        "y_max": 311
+      }
+    },
+    {
+      "text": "Date 0f Birth:",
+      "confidence": 0.08024511823400197,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 313,
+        "x_max": 175,
+        "y_max": 327
+      }
+    },
+    {
+      "text": "141s/T0O}",
+      "confidence": 0.21636142686566623,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 313,
+        "x_max": 323,
+        "y_max": 325
+      }
+    },
+    {
+      "text": "Counin otomtn;",
+      "confidence": 0.09551239476757548,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 327,
+        "x_max": 189,
+        "y_max": 341
+      }
+    },
+    {
+      "text": "Wema",
+      "confidence": 0.011609960347414017,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 328,
+        "x_max": 294,
+        "y_max": 336
+      }
+    },
+    {
+      "text": "am",
+      "confidence": 0.43159068414348806,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 343,
+        "x_max": 133,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "9650714",
+      "confidence": 0.8453375300986539,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 341,
+        "x_max": 309,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "Studentio",
+      "confidence": 0.3483805503708968,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 357,
+        "x_max": 161,
+        "y_max": 369
+      }
+    },
+    {
+      "text": "211-5914",
+      "confidence": 0.25140109237152525,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 357,
+        "x_max": 313,
+        "y_max": 369
+      }
+    },
+    {
+      "text": "Coune Code",
+      "confidence": 0.6061723912867953,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 385,
+        "x_max": 171,
+        "y_max": 399
+      }
+    },
+    {
+      "text": "Coute Nimt",
+      "confidence": 0.08147979792059387,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 387,
+        "x_max": 329,
+        "y_max": 399
+      }
+    },
+    {
+      "text": "US @edita",
+      "confidence": 0.14034151099073028,
+      "bbox": {
+        "x_min": 599,
+        "y_min": 385,
+        "x_max": 649,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "ECS",
+      "confidence": 0.3938423684864395,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 385,
+        "x_max": 731,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Earned ECS @",
+      "confidence": 0.11235654975332035,
+      "bbox": {
+        "x_min": 739,
+        "y_min": 385,
+        "x_max": 813,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Retter Grde",
+      "confidence": 0.16142193832325585,
+      "bbox": {
+        "x_min": 825,
+        "y_min": 385,
+        "x_max": 889,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "HLC Lattet Grudt",
+      "confidence": 0.03444759024254771,
+      "bbox": {
+        "x_min": 907,
+        "y_min": 385,
+        "x_max": 989,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "csiol",
+      "confidence": 0.5402073097076239,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 401,
+        "x_max": 141,
+        "y_max": 415
+      }
+    },
+    {
+      "text": "Into",
+      "confidence": 0.6662423014640808,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 404,
+        "x_max": 290,
+        "y_max": 412
+      }
+    },
+    {
+      "text": "Proruammint",
+      "confidence": 0.3028359376480797,
+      "bbox": {
+        "x_min": 303,
+        "y_min": 401,
+        "x_max": 367,
+        "y_max": 413
+      }
+    },
+    {
+      "text": "PS101",
+      "confidence": 0.15375238316710205,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 417,
+        "x_max": 147,
+        "y_max": 431
+      }
+    },
+    {
+      "text": "Introduction t0 Peecholty",
+      "confidence": 0.10042192165452857,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 417,
+        "x_max": 391,
+        "y_max": 431
+      }
+    },
+    {
+      "text": "VGMIJOI",
+      "confidence": 0.15778272646467492,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 433,
+        "x_max": 161,
+        "y_max": 447
+      }
+    },
+    {
+      "text": "Intedycnn",
+      "confidence": 0.008041082022573353,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 434,
+        "x_max": 322,
+        "y_max": 442
+      }
+    },
+    {
+      "text": "Kanarement",
+      "confidence": 0.044810091211898224,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 433,
+        "x_max": 401,
+        "y_max": 445
+      }
+    },
+    {
+      "text": "ecoiti",
+      "confidence": 0.15210781029474058,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 449,
+        "x_max": 149,
+        "y_max": 463
+      }
+    },
+    {
+      "text": "Cnne",
+      "confidence": 0.0010419023456051946,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 450,
+        "x_max": 302,
+        "y_max": 458
+      }
+    },
+    {
+      "text": "Mtroetoncmique (Fri",
+      "confidence": 0.044429858597506276,
+      "bbox": {
+        "x_min": 303,
+        "y_min": 449,
+        "x_max": 411,
+        "y_max": 463
+      }
+    },
+    {
+      "text": "Math 10800",
+      "confidence": 0.15308391622975193,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 465,
+        "x_max": 173,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "Clcul dutierentici JVec Jpphcationi Er tition (Fr)",
+      "confidence": 0.005048712482816919,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 463,
+        "x_max": 507,
+        "y_max": 479
+      }
+    },
+    {
+      "text": "PaIS15 ]",
+      "confidence": 0.048030119141985565,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 481,
+        "x_max": 153,
+        "y_max": 493
+      }
+    },
+    {
+      "text": "0jch uechunkt",
+      "confidence": 0.013737929331129783,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 481,
+        "x_max": 359,
+        "y_max": 493
+      }
+    },
+    {
+      "text": "ERGI",
+      "confidence": 0.24007272720336914,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 497,
+        "x_max": 149,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "Acidem € Anchin",
+      "confidence": 0.06028848075740318,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 497,
+        "x_max": 349,
+        "y_max": 511
+      }
+    },
+    {
+      "text": "LCk",
+      "confidence": 0.06442014325043566,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 513,
+        "x_max": 147,
+        "y_max": 525
+      }
+    },
+    {
+      "text": "huto o DAusucnt",
+      "confidence": 0.006482118365515283,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 513,
+        "x_max": 375,
+        "y_max": 525
+      }
+    },
+    {
+      "text": "70l1",
+      "confidence": 0.14895009994506836,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 529,
+        "x_max": 153,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "Iatm Crediti",
+      "confidence": 0.1844603669467318,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 529,
+        "x_max": 329,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "Iaim GPA",
+      "confidence": 0.1833696344172027,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 543,
+        "x_max": 317,
+        "y_max": 557
+      }
+    },
+    {
+      "text": "Matki}",
+      "confidence": 0.011280200933902786,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 561,
+        "x_max": 157,
+        "y_max": 573
+      }
+    },
+    {
+      "text": "Daicrete Mathemalc]",
+      "confidence": 0.05948291055608352,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 558,
+        "x_max": 367,
+        "y_max": 572
+      }
+    },
+    {
+      "text": "ERGIll",
+      "confidence": 0.17095434987803265,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 575,
+        "x_max": 149,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "Intlh Compotiion",
+      "confidence": 0.18981874001525725,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 575,
+        "x_max": 361,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "Icsioz",
+      "confidence": 0.2505381501561993,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 591,
+        "x_max": 141,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "Object-erented Preg\" in /ava",
+      "confidence": 0.08007374569005357,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 589,
+        "x_max": 401,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "Ktint",
+      "confidence": 0.00719523082560792,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 608,
+        "x_max": 140,
+        "y_max": 616
+      }
+    },
+    {
+      "text": "Frethenan Projec",
+      "confidence": 0.14000021508886848,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 607,
+        "x_max": 349,
+        "y_max": 621
+      }
+    },
+    {
+      "text": "CM4i6l",
+      "confidence": 0.014283335069579534,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 623,
+        "x_max": 157,
+        "y_max": 635
+      }
+    },
+    {
+      "text": "Chemhtn 5",
+      "confidence": 0.04550509183996312,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 623,
+        "x_max": 317,
+        "y_max": 637
+      }
+    },
+    {
+      "text": "Mnn",
+      "confidence": 0.03638019503409666,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 639,
+        "x_max": 159,
+        "y_max": 651
+      }
+    },
+    {
+      "text": "Cilcutu",
+      "confidence": 0.10374669148799476,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 639,
+        "x_max": 307,
+        "y_max": 651
+      }
+    },
+    {
+      "text": "tor [ntincct}",
+      "confidence": 0.0887255665732101,
+      "bbox": {
+        "x_min": 311,
+        "y_min": 637,
+        "x_max": 377,
+        "y_max": 653
+      }
+    },
+    {
+      "text": "KGttiox",
+      "confidence": 0.007408601401126665,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 655,
+        "x_max": 161,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "ManaGement and (eadenhd(FAA",
+      "confidence": 0.006211377426692609,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 653,
+        "x_max": 423,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "PHSE",
+      "confidence": 0.28478020429611206,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 671,
+        "x_max": 153,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "Wectom",
+      "confidence": 0.2660391464161203,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 671,
+        "x_max": 309,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "aneuim",
+      "confidence": 0.17988663449988543,
+      "bbox": {
+        "x_min": 314,
+        "y_min": 672,
+        "x_max": 348,
+        "y_max": 680
+      }
+    },
+    {
+      "text": "Sprn[ 702}",
+      "confidence": 0.25718593681165736,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 687,
+        "x_max": 167,
+        "y_max": 701
+      }
+    },
+    {
+      "text": "Term Crcdita",
+      "confidence": 0.3590212708716112,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 687,
+        "x_max": 329,
+        "y_max": 699
+      }
+    },
+    {
+      "text": "Iaim GPA",
+      "confidence": 0.1390521505566324,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 701,
+        "x_max": 315,
+        "y_max": 715
+      }
+    },
+    {
+      "text": "Aate",
+      "confidence": 0.0017365454696118832,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 720,
+        "x_max": 154,
+        "y_max": 728
+      }
+    },
+    {
+      "text": "Probabihty",
+      "confidence": 0.060166824458881885,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 717,
+        "x_max": 319,
+        "y_max": 731
+      }
+    },
+    {
+      "text": "Statutics",
+      "confidence": 0.1036484508496531,
+      "bbox": {
+        "x_min": 326,
+        "y_min": 715,
+        "x_max": 369,
+        "y_max": 729
+      }
+    },
+    {
+      "text": "comzos",
+      "confidence": 0.13349360454416703,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 733,
+        "x_max": 153,
+        "y_max": 747
+      }
+    },
+    {
+      "text": "Techndh mutt",
+      "confidence": 0.03254609754992165,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 731,
+        "x_max": 349,
+        "y_max": 747
+      }
+    },
+    {
+      "text": "Klataaan",
+      "confidence": 0.003756092219013027,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 749,
+        "x_max": 159,
+        "y_max": 761
+      }
+    },
+    {
+      "text": "Mnet",
+      "confidence": 0.11522682011127472,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 750,
+        "x_max": 294,
+        "y_max": 758
+      }
+    },
+    {
+      "text": "Aeebra",
+      "confidence": 0.07050215379093842,
+      "bbox": {
+        "x_min": 297,
+        "y_min": 749,
+        "x_max": 335,
+        "y_max": 763
+      }
+    },
+    {
+      "text": "Icomn",
+      "confidence": 0.1343037655443674,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 765,
+        "x_max": 149,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "#htoeconomc(ri",
+      "confidence": 0.04047967569731943,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 765,
+        "x_max": 369,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "740i",
+      "confidence": 0.06288215517997742,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 781,
+        "x_max": 151,
+        "y_max": 793
+      }
+    },
+    {
+      "text": "Mrant (Fri",
+      "confidence": 0.027456153404432315,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 781,
+        "x_max": 337,
+        "y_max": 795
+      }
+    },
+    {
+      "text": "DDSA 10405",
+      "confidence": 0.2246202968988026,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 797,
+        "x_max": 169,
+        "y_max": 809
+      }
+    },
+    {
+      "text": "Socicte, Der eioppement Durtbic tt Ort*nttxtion} (Fr)",
+      "confidence": 0.02087862563214479,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 795,
+        "x_max": 523,
+        "y_max": 811
+      }
+    },
+    {
+      "text": "C4",
+      "confidence": 0.2784327958871514,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 814,
+        "x_max": 138,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Dala",
+      "confidence": 0.692111611366272,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 813,
+        "x_max": 291,
+        "y_max": 825
+      }
+    },
+    {
+      "text": "Tothn",
+      "confidence": 0.027176146822379774,
+      "bbox": {
+        "x_min": 368,
+        "y_min": 814,
+        "x_max": 404,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "7014",
+      "confidence": 0.07544821500778198,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 829,
+        "x_max": 153,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Tetm Credata",
+      "confidence": 0.0939036828054259,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 829,
+        "x_max": 329,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Lm Gea",
+      "confidence": 0.11820808562433072,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 845,
+        "x_max": 315,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "(P0525]",
+      "confidence": 0.026706852282727376,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 861,
+        "x_max": 153,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "Mjnt; Ootici nd Qumnium Bhiun",
+      "confidence": 0.0036227347929511417,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 861,
+        "x_max": 433,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "ECEZS ]",
+      "confidence": 0.6901285590463991,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 875,
+        "x_max": 147,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "(ectrk Cecui",
+      "confidence": 0.12720512836609274,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 875,
+        "x_max": 337,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "[55296",
+      "confidence": 0.22138748239550124,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 891,
+        "x_max": 143,
+        "y_max": 905
+      }
+    },
+    {
+      "text": "conhomor",
+      "confidence": 0.46493042778364996,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 894,
+        "x_max": 312,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "Prord",
+      "confidence": 0.14916405624601806,
+      "bbox": {
+        "x_min": 318,
+        "y_min": 890,
+        "x_max": 355,
+        "y_max": 904
+      }
+    },
+    {
+      "text": "Cs261",
+      "confidence": 0.11352395110262195,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 907,
+        "x_max": 141,
+        "y_max": 921
+      }
+    },
+    {
+      "text": "Computer Oraantation and Deiifn",
+      "confidence": 0.06012771974047908,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 906,
+        "x_max": 427,
+        "y_max": 922
+      }
+    },
+    {
+      "text": "44ai",
+      "confidence": 0.02063655538586398,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 923,
+        "x_max": 157,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "Datierentel Eqvationi",
+      "confidence": 0.08697489355010989,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 923,
+        "x_max": 369,
+        "y_max": 937
+      }
+    },
+    {
+      "text": "Kcozol",
+      "confidence": 0.14570435380054814,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 939,
+        "x_max": 149,
+        "y_max": 953
+      }
+    },
+    {
+      "text": "Operationi Managemeni",
+      "confidence": 0.1429859995056594,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 939,
+        "x_max": 383,
+        "y_max": 953
+      }
+    },
+    {
+      "text": "Actio]",
+      "confidence": 0.11161004053699643,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 955,
+        "x_max": 147,
+        "y_max": 967
+      }
+    },
+    {
+      "text": "Nnantid",
+      "confidence": 0.16402820711743019,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 956,
+        "x_max": 304,
+        "y_max": 964
+      }
+    },
+    {
+      "text": "Accounting",
+      "confidence": 0.5243479380663466,
+      "bbox": {
+        "x_min": 306,
+        "y_min": 953,
+        "x_max": 363,
+        "y_max": 969
+      }
+    },
+    {
+      "text": "otoo",
+      "confidence": 0.19547568261623383,
+      "bbox": {
+        "x_min": 133,
+        "y_min": 971,
+        "x_max": 165,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "Anana iai",
+      "confidence": 0.015777818339393762,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 971,
+        "x_max": 331,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "7014",
+      "confidence": 0.4001116156578064,
+      "bbox": {
+        "x_min": 139,
+        "y_min": 987,
+        "x_max": 167,
+        "y_max": 999
+      }
+    },
+    {
+      "text": "Tetm Credma",
+      "confidence": 0.11817139219656592,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 987,
+        "x_max": 329,
+        "y_max": 999
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.3569413223810293,
+      "bbox": {
+        "x_min": 291,
+        "y_min": 1001,
+        "x_max": 315,
+        "y_max": 1015
+      }
+    },
+    {
+      "text": "lc",
+      "confidence": 0.05580369322863122,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1019,
+        "x_max": 147,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Sutemi",
+      "confidence": 0.10702520505000136,
+      "bbox": {
+        "x_min": 309,
+        "y_min": 1019,
+        "x_max": 349,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "ECE3S7",
+      "confidence": 0.20590006619684675,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1035,
+        "x_max": 147,
+        "y_max": 1049
+      }
+    },
+    {
+      "text": "Wectron € Deaicerand Ctcutta",
+      "confidence": 0.018435815367755466,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 1034,
+        "x_max": 407,
+        "y_max": 1048
+      }
+    },
+    {
+      "text": "[EC{S$",
+      "confidence": 0.07354290812702402,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1053,
+        "x_max": 147,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "Aeal Time Erbedded Satemi",
+      "confidence": 0.1271382994677521,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1051,
+        "x_max": 405,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "Co",
+      "confidence": 0.37154654918209773,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1069,
+        "x_max": 141,
+        "y_max": 1081
+      }
+    },
+    {
+      "text": "progtammig Linguage",
+      "confidence": 0.09007414564437571,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 1068,
+        "x_max": 375,
+        "y_max": 1082
+      }
+    },
+    {
+      "text": "Imelementation",
+      "confidence": 0.2772125648071014,
+      "bbox": {
+        "x_min": 419,
+        "y_min": 1069,
+        "x_max": 495,
+        "y_max": 1083
+      }
+    },
+    {
+      "text": "c",
+      "confidence": 0.6631545790131135,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1085,
+        "x_max": 141,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "Computer Reteora]",
+      "confidence": 0.030919107059736224,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1085,
+        "x_max": 361,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "EcE4}",
+      "confidence": 0.3662068754846752,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1105,
+        "x_max": 147,
+        "y_max": 1119
+      }
+    },
+    {
+      "text": "Adaanced Dieital Spatemi",
+      "confidence": 0.02382740874599247,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1105,
+        "x_max": 385,
+        "y_max": 1121
+      }
+    },
+    {
+      "text": "c5Jo}",
+      "confidence": 0.059312481805146026,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1123,
+        "x_max": 141,
+        "y_max": 1137
+      }
+    },
+    {
+      "text": "Oealun",
+      "confidence": 0.13248526660017054,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1123,
+        "x_max": 309,
+        "y_max": 1137
+      }
+    },
+    {
+      "text": "ntemt",
+      "confidence": 0.048896681803136395,
+      "bbox": {
+        "x_min": 312,
+        "y_min": 1126,
+        "x_max": 352,
+        "y_max": 1134
+      }
+    },
+    {
+      "text": "7014",
+      "confidence": 0.21717968583106995,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 1141,
+        "x_max": 153,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "Tetm Credita",
+      "confidence": 0.147753202939777,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1141,
+        "x_max": 329,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "Ietm GPA",
+      "confidence": 0.2302798025768914,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1157,
+        "x_max": 315,
+        "y_max": 1169
+      }
+    },
+    {
+      "text": "Utda",
+      "confidence": 0.0011553267249837518,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 1176,
+        "x_max": 154,
+        "y_max": 1184
+      }
+    },
+    {
+      "text": "#utarble Clculut",
+      "confidence": 0.039136367154439085,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1173,
+        "x_max": 369,
+        "y_max": 1187
+      }
+    },
+    {
+      "text": "Numarc4 Hethodi",
+      "confidence": 0.09081355961951325,
+      "bbox": {
+        "x_min": 377,
+        "y_min": 1173,
+        "x_max": 471,
+        "y_max": 1185
+      }
+    },
+    {
+      "text": "ECETTI",
+      "confidence": 0.11460429230849747,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1191,
+        "x_max": 147,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "[0rdb4c Control Sutemt",
+      "confidence": 0.008986887644466484,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1191,
+        "x_max": 387,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "@C4s $",
+      "confidence": 0.16419642441716661,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1207,
+        "x_max": 147,
+        "y_max": 1219
+      }
+    },
+    {
+      "text": "Hardeare  Sottrate Co Detien",
+      "confidence": 0.07138010671332454,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1207,
+        "x_max": 407,
+        "y_max": 1221
+      }
+    },
+    {
+      "text": "4400j4",
+      "confidence": 0.02600149576948228,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1223,
+        "x_max": 157,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "Graph Theoty",
+      "confidence": 0.22953787866935346,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1223,
+        "x_max": 331,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "Appheation",
+      "confidence": 0.08192748619980043,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 1223,
+        "x_max": 399,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "ECEAT]",
+      "confidence": 0.08366442568689414,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1241,
+        "x_max": 147,
+        "y_max": 1253
+      }
+    },
+    {
+      "text": "Robotk",
+      "confidence": 0.351601295520322,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1241,
+        "x_max": 307,
+        "y_max": 1253
+      }
+    },
+    {
+      "text": "ECE457",
+      "confidence": 0.5138239534991952,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1257,
+        "x_max": 147,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "D 544SEnA Proretunt",
+      "confidence": 0.02964122369141864,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1257,
+        "x_max": 379,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "comjo7",
+      "confidence": 0.0469893344078103,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1277,
+        "x_max": 153,
+        "y_max": 1291
+      }
+    },
+    {
+      "text": "(Itectre Technk) Communkuton",
+      "confidence": 0.08099892598835252,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1277,
+        "x_max": 425,
+        "y_max": 1291
+      }
+    },
+    {
+      "text": "Mallo)",
+      "confidence": 0.023817623717714936,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1299,
+        "x_max": 147,
+        "y_max": 1311
+      }
+    },
+    {
+      "text": "#nramant Iloumutonsutan-@",
+      "confidence": 0.009706467873428335,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1299,
+        "x_max": 443,
+        "y_max": 1311
+      }
+    },
+    {
+      "text": "7015",
+      "confidence": 0.3639773428440094,
+      "bbox": {
+        "x_min": 139,
+        "y_min": 1317,
+        "x_max": 165,
+        "y_max": 1329
+      }
+    },
+    {
+      "text": "Wenm",
+      "confidence": 0.017217500135302544,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1318,
+        "x_max": 290,
+        "y_max": 1326
+      }
+    },
+    {
+      "text": "Credita",
+      "confidence": 0.17599399817092445,
+      "bbox": {
+        "x_min": 291,
+        "y_min": 1315,
+        "x_max": 329,
+        "y_max": 1329
+      }
+    },
+    {
+      "text": "Icim GPA",
+      "confidence": 0.17847130428882052,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1331,
+        "x_max": 315,
+        "y_max": 1345
+      }
+    },
+    {
+      "text": "Canm Mn",
+      "confidence": 0.0019353904923616334,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1350,
+        "x_max": 162,
+        "y_max": 1356
+      }
+    },
+    {
+      "text": "Attempted Credata",
+      "confidence": 0.32615117266051535,
+      "bbox": {
+        "x_min": 164,
+        "y_min": 1346,
+        "x_max": 255,
+        "y_max": 1361
+      }
+    },
+    {
+      "text": "Cumulathe Earned Credita",
+      "confidence": 0.2204372400433786,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1361,
+        "x_max": 237,
+        "y_max": 1375
+      }
+    },
+    {
+      "text": "Cumyiatid GRA",
+      "confidence": 0.043995904326707656,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1377,
+        "x_max": 187,
+        "y_max": 1389
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.2712054287474909,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1458,
+        "x_max": 253,
+        "y_max": 1476
+      }
+    },
+    {
+      "text": "MintiAmf",
+      "confidence": 0.022802838627097106,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1459,
+        "x_max": 335,
+        "y_max": 1473
+      }
+    },
+    {
+      "text": "ALinjh",
+      "confidence": 0.0041239445920280785,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 1017,
+        "x_max": 298,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Datn",
+      "confidence": 0.07659092545509338,
+      "bbox": {
+        "x_min": 374,
+        "y_min": 1067,
+        "x_max": 408,
+        "y_max": 1083
+      }
+    }
+  ]
+}

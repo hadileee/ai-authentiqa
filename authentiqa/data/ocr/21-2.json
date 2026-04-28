@@ -1,7 +1,11 @@
 {
+  "file_name": "21-2.png",
+  "width": 2481,
+  "height": 3510,
   "ocr_results": [
     {
       "text": "Lettcr Grade",
+      "confidence": 0.9033711073656366,
       "bbox": {
         "x_min": 1070,
         "y_min": 214,
@@ -11,6 +15,7 @@
     },
     {
       "text": "G?P Equivalent",
+      "confidence": 0.8114554274697873,
       "bbox": {
         "x_min": 1569,
         "y_min": 211,
@@ -20,6 +25,7 @@
     },
     {
       "text": "Assessment",
+      "confidence": 0.769172171403238,
       "bbox": {
         "x_min": 1718,
         "y_min": 215,
@@ -29,6 +35,7 @@
     },
     {
       "text": "A",
+      "confidence": 0.3376178309888509,
       "bbox": {
         "x_min": 1123,
         "y_min": 256,
@@ -38,6 +45,7 @@
     },
     {
       "text": "Excellent In most aspects",
+      "confidence": 0.6786907283823597,
       "bbox": {
         "x_min": 1720,
         "y_min": 253,
@@ -47,6 +55,7 @@
     },
     {
       "text": "A;",
+      "confidence": 0.06895820329711184,
       "bbox": {
         "x_min": 1120,
         "y_min": 286,
@@ -56,6 +65,7 @@
     },
     {
       "text": "3.67",
+      "confidence": 0.9997177720069885,
       "bbox": {
         "x_min": 1570,
         "y_min": 289,
@@ -65,6 +75,7 @@
     },
     {
       "text": "Very good work",
+      "confidence": 0.9541565445227624,
       "bbox": {
         "x_min": 1714,
         "y_min": 285,
@@ -74,6 +85,7 @@
     },
     {
       "text": "B+",
+      "confidence": 0.944033569562399,
       "bbox": {
         "x_min": 1114,
         "y_min": 318,
@@ -83,6 +95,7 @@
     },
     {
       "text": "3,33",
+      "confidence": 0.559110384793398,
       "bbox": {
         "x_min": 1566,
         "y_min": 318,
@@ -92,6 +105,7 @@
     },
     {
       "text": "Generally very good wotk",
+      "confidence": 0.6336380222038062,
       "bbox": {
         "x_min": 1720,
         "y_min": 321,
@@ -101,6 +115,7 @@
     },
     {
       "text": "B",
+      "confidence": 0.9075735003721661,
       "bbox": {
         "x_min": 1123,
         "y_min": 358,
@@ -110,6 +125,7 @@
     },
     {
       "text": "3",
+      "confidence": 0.9999842644356818,
       "bbox": {
         "x_min": 1570,
         "y_min": 358,
@@ -119,6 +135,7 @@
     },
     {
       "text": "Gopd wark",
+      "confidence": 0.6236886335928767,
       "bbox": {
         "x_min": 1721,
         "y_min": 358,
@@ -128,6 +145,7 @@
     },
     {
       "text": "B-",
+      "confidence": 0.3260132722395107,
       "bbox": {
         "x_min": 1116,
         "y_min": 390,
@@ -137,6 +155,7 @@
     },
     {
       "text": "2,67",
+      "confidence": 0.4652558416643288,
       "bbox": {
         "x_min": 1566,
         "y_min": 390,
@@ -146,6 +165,7 @@
     },
     {
       "text": "Qulte good work with some errors",
+      "confidence": 0.5799878030016553,
       "bbox": {
         "x_min": 1714,
         "y_min": 387,
@@ -155,6 +175,7 @@
     },
     {
       "text": "C+",
+      "confidence": 0.9201950880976907,
       "bbox": {
         "x_min": 1111,
         "y_min": 423,
@@ -164,6 +185,7 @@
     },
     {
       "text": "2.33",
+      "confidence": 0.9606353044509888,
       "bbox": {
         "x_min": 1566,
         "y_min": 423,
@@ -173,6 +195,7 @@
     },
     {
       "text": "Falr work",
+      "confidence": 0.5549096752618219,
       "bbox": {
         "x_min": 1717,
         "y_min": 425,
@@ -182,6 +205,7 @@
     },
     {
       "text": "C",
+      "confidence": 0.2725925505636475,
       "bbox": {
         "x_min": 1120,
         "y_min": 459,
@@ -191,6 +215,7 @@
     },
     {
       "text": "2",
+      "confidence": 0.9999995231628986,
       "bbox": {
         "x_min": 1570,
         "y_min": 462,
@@ -200,6 +225,7 @@
     },
     {
       "text": "Acceptable wark t0 valldate the module",
+      "confidence": 0.5714451445411987,
       "bbox": {
         "x_min": 1717,
         "y_min": 461,
@@ -209,6 +235,7 @@
     },
     {
       "text": "C",
+      "confidence": 0.3481442805542976,
       "bbox": {
         "x_min": 1114,
         "y_min": 491,
@@ -218,6 +245,7 @@
     },
     {
       "text": "1,67",
+      "confidence": 0.9919533133506775,
       "bbox": {
         "x_min": 1570,
         "y_min": 498,
@@ -227,6 +255,7 @@
     },
     {
       "text": "UnsatIsfactary with serfous errors",
+      "confidence": 0.49605445160394357,
       "bbox": {
         "x_min": 1716,
         "y_min": 494,
@@ -236,6 +265,7 @@
     },
     {
       "text": "D+",
+      "confidence": 0.9739975878853536,
       "bbox": {
         "x_min": 1114,
         "y_min": 527,
@@ -245,6 +275,7 @@
     },
     {
       "text": "1.34",
+      "confidence": 0.333896095851104,
       "bbox": {
         "x_min": 1570,
         "y_min": 533,
@@ -254,6 +285,7 @@
     },
     {
       "text": "Not satfsfactary",
+      "confidence": 0.8218403446123074,
       "bbox": {
         "x_min": 1717,
         "y_min": 529,
@@ -263,6 +295,7 @@
     },
     {
       "text": "D",
+      "confidence": 0.8682531429213078,
       "bbox": {
         "x_min": 1120,
         "y_min": 566,
@@ -272,6 +305,7 @@
     },
     {
       "text": "Completely unsatfsfactory- Caurse to be retaken",
+      "confidence": 0.6925758475279699,
       "bbox": {
         "x_min": 1717,
         "y_min": 565,
@@ -281,6 +315,7 @@
     },
     {
       "text": "Comptetely unsatisfactory- Course to be retaken",
+      "confidence": 0.39375931378851314,
       "bbox": {
         "x_min": 1714,
         "y_min": 598,
@@ -290,6 +325,7 @@
     },
     {
       "text": "F",
+      "confidence": 0.38243629889024433,
       "bbox": {
         "x_min": 1116,
         "y_min": 601,
@@ -299,6 +335,7 @@
     },
     {
       "text": "NA \"",
+      "confidence": 0.6720886878439778,
       "bbox": {
         "x_min": 1569,
         "y_min": 634,
@@ -308,6 +345,7 @@
     },
     {
       "text": "Withdrawal",
+      "confidence": 0.607971132842496,
       "bbox": {
         "x_min": 1717,
         "y_min": 636,
@@ -317,6 +355,7 @@
     },
     {
       "text": "NA\"",
+      "confidence": 0.6444620605023442,
       "bbox": {
         "x_min": 1569,
         "y_min": 669,
@@ -326,6 +365,7 @@
     },
     {
       "text": "Pass",
+      "confidence": 0.9919590950012207,
       "bbox": {
         "x_min": 1717,
         "y_min": 669,
@@ -335,6 +375,7 @@
     },
     {
       "text": "T",
+      "confidence": 0.9277638332975044,
       "bbox": {
         "x_min": 1120,
         "y_min": 706,
@@ -344,6 +385,7 @@
     },
     {
       "text": "NR\"",
+      "confidence": 0.6120789789380681,
       "bbox": {
         "x_min": 1570,
         "y_min": 706,
@@ -353,6 +395,7 @@
     },
     {
       "text": "Transferred Course",
+      "confidence": 0.9303763134110112,
       "bbox": {
         "x_min": 1717,
         "y_min": 702,
@@ -362,6 +405,7 @@
     },
     {
       "text": "NA: Not",
+      "confidence": 0.9850637692642171,
       "bbox": {
         "x_min": 248,
         "y_min": 744,
@@ -371,6 +415,7 @@
     },
     {
       "text": "applicoble",
+      "confidence": 0.9482189711024204,
       "bbox": {
         "x_min": 321,
         "y_min": 738,
@@ -380,6 +425,7 @@
     },
     {
       "text": "Konors",
+      "confidence": 0.5790932471143774,
       "bbox": {
         "x_min": 233,
         "y_min": 946,
@@ -389,6 +435,7 @@
     },
     {
       "text": "Dean 5 list: GPA of 3,5and higher",
+      "confidence": 0.48824630999985386,
       "bbox": {
         "x_min": 686,
         "y_min": 982,
@@ -398,6 +445,7 @@
     },
     {
       "text": "Honor\"s Ist: GPA ol 3.3",
+      "confidence": 0.38378524695809607,
       "bbox": {
         "x_min": 689,
         "y_min": 1018,
@@ -407,6 +455,7 @@
     },
     {
       "text": "higher",
+      "confidence": 0.7983038471805787,
       "bbox": {
         "x_min": 938,
         "y_min": 1018,
@@ -416,6 +465,7 @@
     },
     {
       "text": "Course numbering system",
+      "confidence": 0.8132133576600147,
       "bbox": {
         "x_min": 235,
         "y_min": 1048,
@@ -425,6 +475,7 @@
     },
     {
       "text": "The course code is a subJect cade at three t0 Iour characters {pllowed by a numeric code:",
+      "confidence": 0.3716041037912811,
       "bbox": {
         "x_min": 689,
         "y_min": 1086,
@@ -434,6 +485,7 @@
     },
     {
       "text": "100-200 course codes usually correspond to {reshman and saphomare-level courses",
+      "confidence": 0.592912012986806,
       "bbox": {
         "x_min": 686,
         "y_min": 1122,
@@ -443,6 +495,7 @@
     },
     {
       "text": "300-400 are Junlor and senior level courses-",
+      "confidence": 0.5944189578691975,
       "bbox": {
         "x_min": 686,
         "y_min": 1157,
@@ -452,6 +505,7 @@
     },
     {
       "text": "400-500 are senlor and advancedlgraduate level courses_",
+      "confidence": 0.5492581701191882,
       "bbox": {
         "x_min": 686,
         "y_min": 1190,
@@ -461,6 +515,7 @@
     },
     {
       "text": "Graduatlon requirements",
+      "confidence": 0.9219358454152096,
       "bbox": {
         "x_min": 236,
         "y_min": 1262,
@@ -470,6 +525,7 @@
     },
     {
       "text": "Aminmum cumulative grade point average 0f 2.0 on",
+      "confidence": 0.5867790098139501,
       "bbox": {
         "x_min": 689,
         "y_min": 1298,
@@ -479,6 +535,7 @@
     },
     {
       "text": "scale 0f 4.0",
+      "confidence": 0.5301548712844539,
       "bbox": {
         "x_min": 1180,
         "y_min": 1301,
@@ -488,6 +545,7 @@
     },
     {
       "text": "AC orbetter In all speciallzatlon (major) courses",
+      "confidence": 0.5754012695144656,
       "bbox": {
         "x_min": 686,
         "y_min": 1330,
@@ -497,6 +555,7 @@
     },
     {
       "text": "No grade less than D+ (NofIn any caurse);",
+      "confidence": 0.625598457403844,
       "bbox": {
         "x_min": 685,
         "y_min": 1363,
@@ -506,6 +565,7 @@
     },
     {
       "text": "The Mediterranean Institute of Technalogyis a private Universlty accredited by the Tunislan Ministry of Higher Education & Scientific Research Address: Campus MSB-MedTech, les jardlns du Lac 2, 1053,Tunls, Tunisla. Web:",
+      "confidence": 0.5530463487988242,
       "bbox": {
         "x_min": 232,
         "y_min": 1472,
@@ -515,6 +575,7 @@
     },
     {
       "text": "wrwmedtech tn Tel: 00 216 70 016 100.",
+      "confidence": 0.4682740704637251,
       "bbox": {
         "x_min": 233,
         "y_min": 1506,
@@ -524,6 +585,7 @@
     },
     {
       "text": "and",
+      "confidence": 0.9841194718540627,
       "bbox": {
         "x_min": 901,
         "y_min": 1019,

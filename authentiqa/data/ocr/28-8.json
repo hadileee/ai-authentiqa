@@ -1,0 +1,377 @@
+{
+  "file_name": "28-8.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Mat4241",
+      "confidence": 0.5423533710262722,
+      "bbox": {
+        "x_min": 139,
+        "y_min": 63,
+        "x_max": 193,
+        "y_max": 77
+      }
+    },
+    {
+      "text": "Linea",
+      "confidence": 0.745435069169226,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 71,
+        "x_max": 379,
+        "y_max": 83
+      }
+    },
+    {
+      "text": "AlEebra",
+      "confidence": 0.2517957122889417,
+      "bbox": {
+        "x_min": 383,
+        "y_min": 73,
+        "x_max": 425,
+        "y_max": 87
+      }
+    },
+    {
+      "text": "C5420",
+      "confidence": 0.9808214026568475,
+      "bbox": {
+        "x_min": 139,
+        "y_min": 83,
+        "x_max": 173,
+        "y_max": 95
+      }
+    },
+    {
+      "text": "Programming Language Design",
+      "confidence": 0.9784838470041757,
+      "bbox": {
+        "x_min": 348,
+        "y_min": 88,
+        "x_max": 505,
+        "y_max": 109
+      }
+    },
+    {
+      "text": "Umplementation",
+      "confidence": 0.5522056787935431,
+      "bbox": {
+        "x_min": 515,
+        "y_min": 97,
+        "x_max": 601,
+        "y_max": 111
+      }
+    },
+    {
+      "text": "ECO17?",
+      "confidence": 0.7518736335100514,
+      "bbox": {
+        "x_min": 136,
+        "y_min": 100,
+        "x_max": 181,
+        "y_max": 117
+      }
+    },
+    {
+      "text": "Macroeconomics (Fr)",
+      "confidence": 0.6419014225680738,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 109,
+        "x_max": 461,
+        "y_max": 125
+      }
+    },
+    {
+      "text": "MATH 10600",
+      "confidence": 0.9514942075697358,
+      "bbox": {
+        "x_min": 137,
+        "y_min": 121,
+        "x_max": 207,
+        "y_max": 135
+      }
+    },
+    {
+      "text": "Calcul differentie]",
+      "confidence": 0.4097507405963296,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 129,
+        "x_max": 435,
+        "y_max": 143
+      }
+    },
+    {
+      "text": "OeC",
+      "confidence": 0.23747885197799376,
+      "bbox": {
+        "x_min": 438,
+        "y_min": 134,
+        "x_max": 462,
+        "y_max": 142
+      }
+    },
+    {
+      "text": "55",
+      "confidence": 0.24373174547966667,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 107,
+        "x_max": 889,
+        "y_max": 141
+      }
+    },
+    {
+      "text": "ACT1Q]",
+      "confidence": 0.6780843242963889,
+      "bbox": {
+        "x_min": 137,
+        "y_min": 141,
+        "x_max": 179,
+        "y_max": 155
+      }
+    },
+    {
+      "text": "applicatons",
+      "confidence": 0.78034276481364,
+      "bbox": {
+        "x_min": 463,
+        "y_min": 133,
+        "x_max": 525,
+        "y_max": 145
+      }
+    },
+    {
+      "text": "Eestion IFr)",
+      "confidence": 0.4506008189389741,
+      "bbox": {
+        "x_min": 541,
+        "y_min": 135,
+        "x_max": 605,
+        "y_max": 149
+      }
+    },
+    {
+      "text": "6",
+      "confidence": 0.26373052456677115,
+      "bbox": {
+        "x_min": 784,
+        "y_min": 101,
+        "x_max": 809,
+        "y_max": 178
+      }
+    },
+    {
+      "text": "Financla",
+      "confidence": 0.4319079455085634,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 147,
+        "x_max": 389,
+        "y_max": 159
+      }
+    },
+    {
+      "text": "ccountirg",
+      "confidence": 0.5174005432998781,
+      "bbox": {
+        "x_min": 398,
+        "y_min": 149,
+        "x_max": 451,
+        "y_max": 163
+      }
+    },
+    {
+      "text": "Fa 2025",
+      "confidence": 0.16400512684789575,
+      "bbox": {
+        "x_min": 135,
+        "y_min": 161,
+        "x_max": 185,
+        "y_max": 173
+      }
+    },
+    {
+      "text": "4",
+      "confidence": 0.9429549341849999,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 141,
+        "x_max": 887,
+        "y_max": 181
+      }
+    },
+    {
+      "text": "Credits",
+      "confidence": 0.7310312929572192,
+      "bbox": {
+        "x_min": 375,
+        "y_min": 169,
+        "x_max": 415,
+        "y_max": 181
+      }
+    },
+    {
+      "text": "crm",
+      "confidence": 0.5278683111078408,
+      "bbox": {
+        "x_min": 346,
+        "y_min": 188,
+        "x_max": 372,
+        "y_max": 196
+      }
+    },
+    {
+      "text": "GPA",
+      "confidence": 0.9014684166700174,
+      "bbox": {
+        "x_min": 375,
+        "y_min": 187,
+        "x_max": 399,
+        "y_max": 201
+      }
+    },
+    {
+      "text": "23,5",
+      "confidence": 0.9985804557800293,
+      "bbox": {
+        "x_min": 783,
+        "y_min": 181,
+        "x_max": 807,
+        "y_max": 195
+      }
+    },
+    {
+      "text": "23.5",
+      "confidence": 0.8000935912132263,
+      "bbox": {
+        "x_min": 865,
+        "y_min": 183,
+        "x_max": 889,
+        "y_max": 199
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.9535842268185026,
+      "bbox": {
+        "x_min": 134,
+        "y_min": 198,
+        "x_max": 293,
+        "y_max": 217
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.9964578559990097,
+      "bbox": {
+        "x_min": 132,
+        "y_min": 217,
+        "x_max": 273,
+        "y_max": 235
+      }
+    },
+    {
+      "text": "228",
+      "confidence": 0.999993943357101,
+      "bbox": {
+        "x_min": 783,
+        "y_min": 219,
+        "x_max": 805,
+        "y_max": 233
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.979366310356599,
+      "bbox": {
+        "x_min": 133,
+        "y_min": 237,
+        "x_max": 219,
+        "y_max": 253
+      }
+    },
+    {
+      "text": "228",
+      "confidence": 0.9996214004428929,
+      "bbox": {
+        "x_min": 781,
+        "y_min": 239,
+        "x_max": 803,
+        "y_max": 253
+      }
+    },
+    {
+      "text": "NSTI",
+      "confidence": 0.4977667033672333,
+      "bbox": {
+        "x_min": 975,
+        "y_min": 313,
+        "x_max": 1009,
+        "y_max": 329
+      }
+    },
+    {
+      "text": "Senior",
+      "confidence": 0.9975057012555107,
+      "bbox": {
+        "x_min": 126,
+        "y_min": 370,
+        "x_max": 167,
+        "y_max": 388
+      }
+    },
+    {
+      "text": "rams Manager",
+      "confidence": 0.9677735772649846,
+      "bbox": {
+        "x_min": 193,
+        "y_min": 374,
+        "x_max": 281,
+        "y_max": 392
+      }
+    },
+    {
+      "text": "Marwa Amri",
+      "confidence": 0.9375965431616202,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 379,
+        "x_max": 413,
+        "y_max": 395
+      }
+    },
+    {
+      "text": "Term",
+      "confidence": 0.30770668387413025,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 166,
+        "x_max": 374,
+        "y_max": 180
+      }
+    },
+    {
+      "text": "Prozr",
+      "confidence": 0.24793721488302986,
+      "bbox": {
+        "x_min": 165,
+        "y_min": 372,
+        "x_max": 197,
+        "y_max": 388
+      }
+    },
+    {
+      "text": "JNnL -",
+      "confidence": 0.1722501403437329,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 444,
+        "x_max": 991,
+        "y_max": 470
+      }
+    }
+  ]
+}

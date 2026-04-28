@@ -104,23 +104,43 @@
       }
     },
     {
-      "text": "First Name: ////",
-      "confidence": 0.8092958863917428,
+      "text": "First Name:",
+      "confidence": 0.788606495166664,
       "bbox": {
         "x_min": 56,
         "y_min": 300,
-        "x_max": 334,
+        "x_max": 170,
         "y_max": 324
       }
     },
     {
-      "text": "Last Name: ////",
-      "confidence": 0.9896477620884451,
+      "text": "IIii",
+      "confidence": 0.04830257594585419,
       "bbox": {
-        "x_min": 56,
-        "y_min": 328,
-        "x_max": 266,
-        "y_max": 352
+        "x_min": 181,
+        "y_min": 303,
+        "x_max": 221,
+        "y_max": 323
+      }
+    },
+    {
+      "text": "Last Name:",
+      "confidence": 0.7511776308385147,
+      "bbox": {
+        "x_min": 57,
+        "y_min": 331,
+        "x_max": 169,
+        "y_max": 351
+      }
+    },
+    {
+      "text": "1111",
+      "confidence": 0.128842294216156,
+      "bbox": {
+        "x_min": 177,
+        "y_min": 333,
+        "x_max": 213,
+        "y_max": 349
       }
     },
     {
@@ -135,10 +155,10 @@
     },
     {
       "text": "Country of Birth: Tunisia",
-      "confidence": 0.9977342705890389,
+      "confidence": 0.9785827023584559,
       "bbox": {
         "x_min": 55,
-        "y_min": 387,
+        "y_min": 386,
         "x_max": 286,
         "y_max": 414
       }

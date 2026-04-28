@@ -104,23 +104,33 @@
       }
     },
     {
-      "text": "First Name: ///",
-      "confidence": 0.8031109997585881,
+      "text": "First Name:",
+      "confidence": 0.788606495166664,
       "bbox": {
         "x_min": 56,
         "y_min": 300,
-        "x_max": 256,
+        "x_max": 170,
         "y_max": 324
       }
     },
     {
-      "text": "Last Name: ///",
-      "confidence": 0.9808108249790942,
+      "text": "IIii",
+      "confidence": 0.04830257594585419,
       "bbox": {
-        "x_min": 56,
-        "y_min": 328,
-        "x_max": 230,
-        "y_max": 352
+        "x_min": 179,
+        "y_min": 303,
+        "x_max": 219,
+        "y_max": 323
+      }
+    },
+    {
+      "text": "Last Name: / / / /",
+      "confidence": 0.35825117670533363,
+      "bbox": {
+        "x_min": 57,
+        "y_min": 331,
+        "x_max": 205,
+        "y_max": 351
       }
     },
     {

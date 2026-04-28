@@ -1,0 +1,1737 @@
+{
+  "file_name": "27-4.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "Mcatech",
+      "confidence": 0.3727074446365379,
+      "bbox": {
+        "x_min": 201,
+        "y_min": 115,
+        "x_max": 263,
+        "y_max": 131
+      }
+    },
+    {
+      "text": "S",
+      "confidence": 0.8820884369233681,
+      "bbox": {
+        "x_min": 149,
+        "y_min": 137,
+        "x_max": 183,
+        "y_max": 151
+      }
+    },
+    {
+      "text": "Official Transcript",
+      "confidence": 0.9239894718117416,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 174,
+        "x_max": 258,
+        "y_max": 201
+      }
+    },
+    {
+      "text": "Soltware",
+      "confidence": 0.9702806270711817,
+      "bbox": {
+        "x_min": 805,
+        "y_min": 195,
+        "x_max": 869,
+        "y_max": 211
+      }
+    },
+    {
+      "text": "Engineering Program",
+      "confidence": 0.9985532615204765,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 193,
+        "x_max": 1012,
+        "y_max": 220
+      }
+    },
+    {
+      "text": "Flrst name:",
+      "confidence": 0.4268658876907203,
+      "bbox": {
+        "x_min": 131,
+        "y_min": 221,
+        "x_max": 199,
+        "y_max": 237
+      }
+    },
+    {
+      "text": "Kacem",
+      "confidence": 0.749962763415589,
+      "bbox": {
+        "x_min": 360,
+        "y_min": 224,
+        "x_max": 403,
+        "y_max": 242
+      }
+    },
+    {
+      "text": "Lastname:",
+      "confidence": 0.6538398237988403,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 241,
+        "x_max": 197,
+        "y_max": 255
+      }
+    },
+    {
+      "text": "Abidi",
+      "confidence": 0.9041962632011548,
+      "bbox": {
+        "x_min": 359,
+        "y_min": 245,
+        "x_max": 393,
+        "y_max": 259
+      }
+    },
+    {
+      "text": "Date 0f Birth;",
+      "confidence": 0.3090511987623718,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 259,
+        "x_max": 209,
+        "y_max": 275
+      }
+    },
+    {
+      "text": "06/02/2004",
+      "confidence": 0.7045850140838856,
+      "bbox": {
+        "x_min": 359,
+        "y_min": 265,
+        "x_max": 427,
+        "y_max": 281
+      }
+    },
+    {
+      "text": "Countn of Birth:",
+      "confidence": 0.17808074526906226,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 279,
+        "x_max": 227,
+        "y_max": 295
+      }
+    },
+    {
+      "text": "Tunasia",
+      "confidence": 0.3620576306942121,
+      "bbox": {
+        "x_min": 359,
+        "y_min": 285,
+        "x_max": 403,
+        "y_max": 299
+      }
+    },
+    {
+      "text": "CIN:",
+      "confidence": 0.3703652024269104,
+      "bbox": {
+        "x_min": 129,
+        "y_min": 297,
+        "x_max": 157,
+        "y_max": 313
+      }
+    },
+    {
+      "text": "12727560",
+      "confidence": 0.9171220979204202,
+      "bbox": {
+        "x_min": 357,
+        "y_min": 303,
+        "x_max": 419,
+        "y_max": 319
+      }
+    },
+    {
+      "text": "Student ID:",
+      "confidence": 0.38277311457982865,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 317,
+        "x_max": 197,
+        "y_max": 333
+      }
+    },
+    {
+      "text": "24]7734",
+      "confidence": 0.17420537481225234,
+      "bbox": {
+        "x_min": 357,
+        "y_min": 323,
+        "x_max": 415,
+        "y_max": 337
+      }
+    },
+    {
+      "text": "Non HedTech Untversily",
+      "confidence": 0.36212907248671716,
+      "bbox": {
+        "x_min": 543,
+        "y_min": 364,
+        "x_max": 685,
+        "y_max": 384
+      }
+    },
+    {
+      "text": "The Private Hlpher School of Enginecringand Technology",
+      "confidence": 0.3333799261355346,
+      "bbox": {
+        "x_min": 451,
+        "y_min": 382,
+        "x_max": 775,
+        "y_max": 403
+      }
+    },
+    {
+      "text": "Course Code",
+      "confidence": 0.9035503136021428,
+      "bbox": {
+        "x_min": 126,
+        "y_min": 394,
+        "x_max": 203,
+        "y_max": 411
+      }
+    },
+    {
+      "text": "Coutse Mame",
+      "confidence": 0.2662969635882347,
+      "bbox": {
+        "x_min": 355,
+        "y_min": 399,
+        "x_max": 437,
+        "y_max": 417
+      }
+    },
+    {
+      "text": "C5210",
+      "confidence": 0.8676612460501332,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 413,
+        "x_max": 167,
+        "y_max": 429
+      }
+    },
+    {
+      "text": "US Credits",
+      "confidence": 0.6409115688609263,
+      "bbox": {
+        "x_min": 799,
+        "y_min": 409,
+        "x_max": 865,
+        "y_max": 425
+      }
+    },
+    {
+      "text": "ECTS",
+      "confidence": 0.9705618619918823,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 411,
+        "x_max": 909,
+        "y_max": 427
+      }
+    },
+    {
+      "text": "Earned ECTS Cr Letter Grade",
+      "confidence": 0.8111412492430123,
+      "bbox": {
+        "x_min": 917,
+        "y_min": 413,
+        "x_max": 1085,
+        "y_max": 431
+      }
+    },
+    {
+      "text": "System Development",
+      "confidence": 0.9175825148211664,
+      "bbox": {
+        "x_min": 355,
+        "y_min": 419,
+        "x_max": 477,
+        "y_max": 438
+      }
+    },
+    {
+      "text": "055196",
+      "confidence": 0.6590222091396866,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 433,
+        "x_max": 167,
+        "y_max": 449
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.5320525550177357,
+      "bbox": {
+        "x_min": 885,
+        "y_min": 431,
+        "x_max": 907,
+        "y_max": 445
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8734348682387653,
+      "bbox": {
+        "x_min": 951,
+        "y_min": 431,
+        "x_max": 973,
+        "y_max": 447
+      }
+    },
+    {
+      "text": "Freshman Projeci",
+      "confidence": 0.7091137921880383,
+      "bbox": {
+        "x_min": 355,
+        "y_min": 439,
+        "x_max": 457,
+        "y_max": 455
+      }
+    },
+    {
+      "text": "CS34I",
+      "confidence": 0.2700919368271059,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 453,
+        "x_max": 165,
+        "y_max": 467
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9801113386333026,
+      "bbox": {
+        "x_min": 883,
+        "y_min": 449,
+        "x_max": 905,
+        "y_max": 465
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.7417454764103077,
+      "bbox": {
+        "x_min": 949,
+        "y_min": 449,
+        "x_max": 973,
+        "y_max": 467
+      }
+    },
+    {
+      "text": "Data Structures and Algorthms",
+      "confidence": 0.8198301390908701,
+      "bbox": {
+        "x_min": 355,
+        "y_min": 458,
+        "x_max": 531,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "HaTh2AA",
+      "confidence": 0.07851525518277196,
+      "bbox": {
+        "x_min": 125,
+        "y_min": 473,
+        "x_max": 181,
+        "y_max": 487
+      }
+    },
+    {
+      "text": "Linear",
+      "confidence": 0.3562664906702384,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 476,
+        "x_max": 391,
+        "y_max": 494
+      }
+    },
+    {
+      "text": "Maebra",
+      "confidence": 0.18525062882164545,
+      "bbox": {
+        "x_min": 397,
+        "y_min": 479,
+        "x_max": 435,
+        "y_max": 495
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.5465118970829773,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 467,
+        "x_max": 905,
+        "y_max": 485
+      }
+    },
+    {
+      "text": "6.5",
+      "confidence": 0.8590383935450167,
+      "bbox": {
+        "x_min": 951,
+        "y_min": 471,
+        "x_max": 973,
+        "y_max": 487
+      }
+    },
+    {
+      "text": "PSY10]",
+      "confidence": 0.3769928539163989,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 491,
+        "x_max": 169,
+        "y_max": 507
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9896726837558327,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 485,
+        "x_max": 905,
+        "y_max": 505
+      }
+    },
+    {
+      "text": "Introduction t0 Psychology",
+      "confidence": 0.4779460598514409,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 496,
+        "x_max": 503,
+        "y_max": 517
+      }
+    },
+    {
+      "text": "Cs10]",
+      "confidence": 0.19992414475026787,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 511,
+        "x_max": 163,
+        "y_max": 527
+      }
+    },
+    {
+      "text": "Introduction",
+      "confidence": 0.7748325177165248,
+      "bbox": {
+        "x_min": 353,
+        "y_min": 517,
+        "x_max": 423,
+        "y_max": 531
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9940560753320569,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 505,
+        "x_max": 905,
+        "y_max": 523
+      }
+    },
+    {
+      "text": "4,5",
+      "confidence": 0.42501206147040876,
+      "bbox": {
+        "x_min": 949,
+        "y_min": 507,
+        "x_max": 971,
+        "y_max": 525
+      }
+    },
+    {
+      "text": "ECE14J",
+      "confidence": 0.7744369840393025,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 529,
+        "x_max": 171,
+        "y_max": 545
+      }
+    },
+    {
+      "text": "Programming",
+      "confidence": 0.8011408611963375,
+      "bbox": {
+        "x_min": 433,
+        "y_min": 515,
+        "x_max": 516,
+        "y_max": 539
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.6355599808567323,
+      "bbox": {
+        "x_min": 881,
+        "y_min": 523,
+        "x_max": 903,
+        "y_max": 543
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.592135343468338,
+      "bbox": {
+        "x_min": 949,
+        "y_min": 527,
+        "x_max": 971,
+        "y_max": 545
+      }
+    },
+    {
+      "text": "Digotal Systems",
+      "confidence": 0.3099697345853272,
+      "bbox": {
+        "x_min": 353,
+        "y_min": 535,
+        "x_max": 441,
+        "y_max": 553
+      }
+    },
+    {
+      "text": "ENGIII",
+      "confidence": 0.3388421153884718,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 549,
+        "x_max": 171,
+        "y_max": 565
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8504042595765887,
+      "bbox": {
+        "x_min": 879,
+        "y_min": 545,
+        "x_max": 903,
+        "y_max": 563
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.7000826248423767,
+      "bbox": {
+        "x_min": 949,
+        "y_min": 549,
+        "x_max": 971,
+        "y_max": 563
+      }
+    },
+    {
+      "text": "Acodemic Enaush",
+      "confidence": 0.6172152508495938,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 557,
+        "x_max": 453,
+        "y_max": 573
+      }
+    },
+    {
+      "text": "HATHI4I",
+      "confidence": 0.2225395209407145,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 569,
+        "x_max": 177,
+        "y_max": 585
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9927134448669672,
+      "bbox": {
+        "x_min": 879,
+        "y_min": 563,
+        "x_max": 903,
+        "y_max": 581
+      }
+    },
+    {
+      "text": "Calculus |",
+      "confidence": 0.33275045987758034,
+      "bbox": {
+        "x_min": 351,
+        "y_min": 575,
+        "x_max": 411,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits outside 0f HedTech",
+      "confidence": 0.4706098211916641,
+      "bbox": {
+        "x_min": 120,
+        "y_min": 588,
+        "x_max": 413,
+        "y_max": 609
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9929178464302729,
+      "bbox": {
+        "x_min": 879,
+        "y_min": 583,
+        "x_max": 903,
+        "y_max": 601
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits outside 0l MedTech",
+      "confidence": 0.38127807810775943,
+      "bbox": {
+        "x_min": 120,
+        "y_min": 606,
+        "x_max": 394,
+        "y_max": 630
+      }
+    },
+    {
+      "text": "445",
+      "confidence": 0.5713229049073623,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 605,
+        "x_max": 905,
+        "y_max": 619
+      }
+    },
+    {
+      "text": "4445",
+      "confidence": 0.3288589417934418,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 625,
+        "x_max": 905,
+        "y_max": 639
+      }
+    },
+    {
+      "text": "Course Code",
+      "confidence": 0.9318058329639407,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 665,
+        "x_max": 197,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "Course Name",
+      "confidence": 0.6718256785887372,
+      "bbox": {
+        "x_min": 349,
+        "y_min": 671,
+        "x_max": 429,
+        "y_max": 687
+      }
+    },
+    {
+      "text": "CHE416]",
+      "confidence": 0.4735550578513332,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 685,
+        "x_max": 177,
+        "y_max": 701
+      }
+    },
+    {
+      "text": "US Credits",
+      "confidence": 0.47622918917959406,
+      "bbox": {
+        "x_min": 797,
+        "y_min": 681,
+        "x_max": 863,
+        "y_max": 697
+      }
+    },
+    {
+      "text": "ECTS  Earned ECTS Cr Letter Grade",
+      "confidence": 0.44791755554898366,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 683,
+        "x_max": 1079,
+        "y_max": 701
+      }
+    },
+    {
+      "text": "Chemistoy |",
+      "confidence": 0.1760910560202595,
+      "bbox": {
+        "x_min": 346,
+        "y_min": 690,
+        "x_max": 415,
+        "y_max": 708
+      }
+    },
+    {
+      "text": "PAYS1S]",
+      "confidence": 0.2511633013634344,
+      "bbox": {
+        "x_min": 119,
+        "y_min": 705,
+        "x_max": 173,
+        "y_max": 721
+      }
+    },
+    {
+      "text": "Classical Mechanics",
+      "confidence": 0.8027861139342888,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 709,
+        "x_max": 465,
+        "y_max": 727
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.5759301079136536,
+      "bbox": {
+        "x_min": 877,
+        "y_min": 703,
+        "x_max": 899,
+        "y_max": 717
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8522154229739265,
+      "bbox": {
+        "x_min": 945,
+        "y_min": 703,
+        "x_max": 967,
+        "y_max": 719
+      }
+    },
+    {
+      "text": "eC017i",
+      "confidence": 0.1034076272449307,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 725,
+        "x_max": 167,
+        "y_max": 739
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9284548520119178,
+      "bbox": {
+        "x_min": 875,
+        "y_min": 719,
+        "x_max": 899,
+        "y_max": 737
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9449064568099537,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 721,
+        "x_max": 967,
+        "y_max": 739
+      }
+    },
+    {
+      "text": "Introducton i0",
+      "confidence": 0.6523165561064872,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 731,
+        "x_max": 431,
+        "y_max": 745
+      }
+    },
+    {
+      "text": "Microeconomics",
+      "confidence": 0.2684132636341886,
+      "bbox": {
+        "x_min": 430,
+        "y_min": 730,
+        "x_max": 527,
+        "y_max": 749
+      }
+    },
+    {
+      "text": "HATH24J",
+      "confidence": 0.32126847162481964,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 743,
+        "x_max": 175,
+        "y_max": 759
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9976939139765053,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 739,
+        "x_max": 965,
+        "y_max": 757
+      }
+    },
+    {
+      "text": "Discrete Hathematics",
+      "confidence": 0.46303008290169173,
+      "bbox": {
+        "x_min": 347,
+        "y_min": 749,
+        "x_max": 471,
+        "y_max": 765
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.988570455902952,
+      "bbox": {
+        "x_min": 874,
+        "y_min": 736,
+        "x_max": 900,
+        "y_max": 778
+      }
+    },
+    {
+      "text": "C04z05",
+      "confidence": 0.13860032783583373,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 763,
+        "x_max": 169,
+        "y_max": 779
+      }
+    },
+    {
+      "text": "Technical",
+      "confidence": 0.913695220939435,
+      "bbox": {
+        "x_min": 345,
+        "y_min": 769,
+        "x_max": 403,
+        "y_max": 783
+      }
+    },
+    {
+      "text": "cating",
+      "confidence": 0.18825401711102596,
+      "bbox": {
+        "x_min": 399,
+        "y_min": 767,
+        "x_max": 446,
+        "y_max": 787
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.3903993949602398,
+      "bbox": {
+        "x_min": 943,
+        "y_min": 759,
+        "x_max": 965,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "C5102",
+      "confidence": 0.3208637249372024,
+      "bbox": {
+        "x_min": 117,
+        "y_min": 783,
+        "x_max": 157,
+        "y_max": 797
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9968133329802009,
+      "bbox": {
+        "x_min": 873,
+        "y_min": 777,
+        "x_max": 897,
+        "y_max": 795
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9907801470622224,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 779,
+        "x_max": 965,
+        "y_max": 797
+      }
+    },
+    {
+      "text": "Object Qrented Pronramming",
+      "confidence": 0.30330573596723054,
+      "bbox": {
+        "x_min": 344,
+        "y_min": 786,
+        "x_max": 517,
+        "y_max": 807
+      }
+    },
+    {
+      "text": "02024",
+      "confidence": 0.7256854242393241,
+      "bbox": {
+        "x_min": 121,
+        "y_min": 803,
+        "x_max": 169,
+        "y_max": 817
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.5436908691468362,
+      "bbox": {
+        "x_min": 345,
+        "y_min": 807,
+        "x_max": 423,
+        "y_max": 823
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.9199493299037464,
+      "bbox": {
+        "x_min": 873,
+        "y_min": 797,
+        "x_max": 897,
+        "y_max": 815
+      }
+    },
+    {
+      "text": "5,.5",
+      "confidence": 0.1743691861629486,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 799,
+        "x_max": 963,
+        "y_max": 815
+      }
+    },
+    {
+      "text": "Tetm GPa",
+      "confidence": 0.49086805034777947,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 827,
+        "x_max": 403,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "ENG12I",
+      "confidence": 0.49263030586832357,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 841,
+        "x_max": 163,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "Eneuish Composition",
+      "confidence": 0.409981787659841,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 846,
+        "x_max": 461,
+        "y_max": 864
+      }
+    },
+    {
+      "text": "HATHI?",
+      "confidence": 0.17595604584179028,
+      "bbox": {
+        "x_min": 115,
+        "y_min": 861,
+        "x_max": 171,
+        "y_max": 875
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.960607763237271,
+      "bbox": {
+        "x_min": 873,
+        "y_min": 855,
+        "x_max": 895,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "445",
+      "confidence": 0.20193074728148383,
+      "bbox": {
+        "x_min": 941,
+        "y_min": 859,
+        "x_max": 963,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "Calculus M",
+      "confidence": 0.5544048546760375,
+      "bbox": {
+        "x_min": 343,
+        "y_min": 865,
+        "x_max": 407,
+        "y_max": 881
+      }
+    },
+    {
+      "text": "EC0172",
+      "confidence": 0.5073390826597652,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 879,
+        "x_max": 163,
+        "y_max": 895
+      }
+    },
+    {
+      "text": "Introduction t0 Macroeconomics",
+      "confidence": 0.7193451090580332,
+      "bbox": {
+        "x_min": 342,
+        "y_min": 883,
+        "x_max": 527,
+        "y_max": 904
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.6426503658294678,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 875,
+        "x_max": 895,
+        "y_max": 893
+      }
+    },
+    {
+      "text": "5,5",
+      "confidence": 0.3292139643195225,
+      "bbox": {
+        "x_min": 939,
+        "y_min": 875,
+        "x_max": 961,
+        "y_max": 893
+      }
+    },
+    {
+      "text": "C5261",
+      "confidence": 0.6593883038739937,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 899,
+        "x_max": 153,
+        "y_max": 915
+      }
+    },
+    {
+      "text": "Computer Organization & Design",
+      "confidence": 0.749229426606004,
+      "bbox": {
+        "x_min": 342,
+        "y_min": 902,
+        "x_max": 525,
+        "y_max": 923
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9869901710968082,
+      "bbox": {
+        "x_min": 871,
+        "y_min": 893,
+        "x_max": 893,
+        "y_max": 911
+      }
+    },
+    {
+      "text": "4.5",
+      "confidence": 0.3808918090010574,
+      "bbox": {
+        "x_min": 939,
+        "y_min": 895,
+        "x_max": 961,
+        "y_max": 913
+      }
+    },
+    {
+      "text": "055296",
+      "confidence": 0.23002184669365142,
+      "bbox": {
+        "x_min": 113,
+        "y_min": 919,
+        "x_max": 155,
+        "y_max": 933
+      }
+    },
+    {
+      "text": "Sophomore Project",
+      "confidence": 0.786630752211145,
+      "bbox": {
+        "x_min": 341,
+        "y_min": 923,
+        "x_max": 453,
+        "y_max": 942
+      }
+    },
+    {
+      "text": "[Sorngzozs",
+      "confidence": 0.0873020155995138,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 935,
+        "x_max": 183,
+        "y_max": 977
+      }
+    },
+    {
+      "text": "Aavanced Obiect Oriented Prortammina",
+      "confidence": 0.2553263025440352,
+      "bbox": {
+        "x_min": 340,
+        "y_min": 942,
+        "x_max": 567,
+        "y_max": 961
+      }
+    },
+    {
+      "text": "0",
+      "confidence": 0.048677789790688486,
+      "bbox": {
+        "x_min": 868,
+        "y_min": 910,
+        "x_max": 894,
+        "y_max": 990
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 0.32924011002775444,
+      "bbox": {
+        "x_min": 936,
+        "y_min": 912,
+        "x_max": 962,
+        "y_max": 992
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.7684217356837154,
+      "bbox": {
+        "x_min": 341,
+        "y_min": 963,
+        "x_max": 419,
+        "y_max": 979
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 0.44515110638556976,
+      "bbox": {
+        "x_min": 813,
+        "y_min": 953,
+        "x_max": 831,
+        "y_max": 989
+      }
+    },
+    {
+      "text": "eim GPa",
+      "confidence": 0.25529831645694523,
+      "bbox": {
+        "x_min": 341,
+        "y_min": 981,
+        "x_max": 399,
+        "y_max": 997
+      }
+    },
+    {
+      "text": "MATH2A4",
+      "confidence": 0.11254063585854994,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 995,
+        "x_max": 167,
+        "y_max": 1011
+      }
+    },
+    {
+      "text": "Probabilly and Statistics",
+      "confidence": 0.3915739453849378,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 1001,
+        "x_max": 481,
+        "y_max": 1019
+      }
+    },
+    {
+      "text": "HATHI4I",
+      "confidence": 0.051488704526797276,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 1015,
+        "x_max": 167,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Duterentall",
+      "confidence": 0.5725797285349596,
+      "bbox": {
+        "x_min": 338,
+        "y_min": 1019,
+        "x_max": 405,
+        "y_max": 1038
+      }
+    },
+    {
+      "text": "quation",
+      "confidence": 0.9434926749970982,
+      "bbox": {
+        "x_min": 411,
+        "y_min": 1023,
+        "x_max": 457,
+        "y_max": 1037
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.8755017284651699,
+      "bbox": {
+        "x_min": 867,
+        "y_min": 1009,
+        "x_max": 891,
+        "y_max": 1029
+      }
+    },
+    {
+      "text": "5.5",
+      "confidence": 0.4384544188155144,
+      "bbox": {
+        "x_min": 937,
+        "y_min": 1015,
+        "x_max": 959,
+        "y_max": 1029
+      }
+    },
+    {
+      "text": "(Summer 2025",
+      "confidence": 0.26802571544933107,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 1034,
+        "x_max": 189,
+        "y_max": 1051
+      }
+    },
+    {
+      "text": "Tetm Credits",
+      "confidence": 0.5215336172354889,
+      "bbox": {
+        "x_min": 339,
+        "y_min": 1041,
+        "x_max": 417,
+        "y_max": 1055
+      }
+    },
+    {
+      "text": "10",
+      "confidence": 0.45692612987735287,
+      "bbox": {
+        "x_min": 866,
+        "y_min": 1028,
+        "x_max": 892,
+        "y_max": 1068
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9944140540051252,
+      "bbox": {
+        "x_min": 935,
+        "y_min": 1031,
+        "x_max": 957,
+        "y_max": 1049
+      }
+    },
+    {
+      "text": "Gpa",
+      "confidence": 0.40514384775933465,
+      "bbox": {
+        "x_min": 369,
+        "y_min": 1059,
+        "x_max": 397,
+        "y_max": 1075
+      }
+    },
+    {
+      "text": "CoHJO7",
+      "confidence": 0.08859801352954964,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1073,
+        "x_max": 161,
+        "y_max": 1089
+      }
+    },
+    {
+      "text": "Emective Technical Communication",
+      "confidence": 0.43043958514753544,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1079,
+        "x_max": 537,
+        "y_max": 1098
+      }
+    },
+    {
+      "text": "C5280",
+      "confidence": 0.6444992904805937,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1093,
+        "x_max": 149,
+        "y_max": 1109
+      }
+    },
+    {
+      "text": "Introduction t0 Artaficial Intelgence",
+      "confidence": 0.3170904765408897,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1099,
+        "x_max": 539,
+        "y_max": 1117
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.9992807976566046,
+      "bbox": {
+        "x_min": 932,
+        "y_min": 1088,
+        "x_max": 958,
+        "y_max": 1128
+      }
+    },
+    {
+      "text": "C5304",
+      "confidence": 0.4888052208985291,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 1111,
+        "x_max": 149,
+        "y_max": 1127
+      }
+    },
+    {
+      "text": "Advanced Operating systeis",
+      "confidence": 0.42599433265936737,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 1119,
+        "x_max": 503,
+        "y_max": 1135
+      }
+    },
+    {
+      "text": "Govz01",
+      "confidence": 0.5296413835112962,
+      "bbox": {
+        "x_min": 105,
+        "y_min": 1129,
+        "x_max": 159,
+        "y_max": 1169
+      }
+    },
+    {
+      "text": "Web Softaare Development",
+      "confidence": 0.3415429688698512,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1137,
+        "x_max": 495,
+        "y_max": 1155
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.26564642982543774,
+      "bbox": {
+        "x_min": 861,
+        "y_min": 1085,
+        "x_max": 890,
+        "y_max": 1204
+      }
+    },
+    {
+      "text": "55",
+      "confidence": 0.5404272013707371,
+      "bbox": {
+        "x_min": 932,
+        "y_min": 1126,
+        "x_max": 956,
+        "y_max": 1168
+      }
+    },
+    {
+      "text": "Governance and Citizenship",
+      "confidence": 0.6609518544901837,
+      "bbox": {
+        "x_min": 335,
+        "y_min": 1156,
+        "x_max": 495,
+        "y_max": 1175
+      }
+    },
+    {
+      "text": "4417348",
+      "confidence": 0.08711058979363454,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 1171,
+        "x_max": 163,
+        "y_max": 1185
+      }
+    },
+    {
+      "text": "Graph Theory",
+      "confidence": 0.5892367905335616,
+      "bbox": {
+        "x_min": 334,
+        "y_min": 1174,
+        "x_max": 413,
+        "y_max": 1193
+      }
+    },
+    {
+      "text": "Application",
+      "confidence": 0.8378035096791324,
+      "bbox": {
+        "x_min": 421,
+        "y_min": 1177,
+        "x_max": 489,
+        "y_max": 1193
+      }
+    },
+    {
+      "text": "45",
+      "confidence": 0.998782257650935,
+      "bbox": {
+        "x_min": 930,
+        "y_min": 1166,
+        "x_max": 956,
+        "y_max": 1206
+      }
+    },
+    {
+      "text": "155197",
+      "confidence": 0.5486918258969079,
+      "bbox": {
+        "x_min": 107,
+        "y_min": 1189,
+        "x_max": 147,
+        "y_max": 1205
+      }
+    },
+    {
+      "text": "Startup Engineetina",
+      "confidence": 0.29994685830465084,
+      "bbox": {
+        "x_min": 334,
+        "y_min": 1194,
+        "x_max": 447,
+        "y_max": 1213
+      }
+    },
+    {
+      "text": "2025",
+      "confidence": 0.9905576109886169,
+      "bbox": {
+        "x_min": 127,
+        "y_min": 1211,
+        "x_max": 159,
+        "y_max": 1225
+      }
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.4324067234992981,
+      "bbox": {
+        "x_min": 861,
+        "y_min": 1207,
+        "x_max": 889,
+        "y_max": 1221
+      }
+    },
+    {
+      "text": "2.25",
+      "confidence": 0.6617187261581421,
+      "bbox": {
+        "x_min": 929,
+        "y_min": 1209,
+        "x_max": 957,
+        "y_max": 1223
+      }
+    },
+    {
+      "text": "Tetm Credits",
+      "confidence": 0.7133894244550024,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 1215,
+        "x_max": 411,
+        "y_max": 1231
+      }
+    },
+    {
+      "text": "21.5",
+      "confidence": 0.6299100518226624,
+      "bbox": {
+        "x_min": 801,
+        "y_min": 1225,
+        "x_max": 831,
+        "y_max": 1241
+      }
+    },
+    {
+      "text": "J1-25",
+      "confidence": 0.3299517581903568,
+      "bbox": {
+        "x_min": 857,
+        "y_min": 1227,
+        "x_max": 893,
+        "y_max": 1241
+      }
+    },
+    {
+      "text": "J1.25",
+      "confidence": 0.5827592409148327,
+      "bbox": {
+        "x_min": 925,
+        "y_min": 1227,
+        "x_max": 959,
+        "y_max": 1243
+      }
+    },
+    {
+      "text": "Tetm GPA",
+      "confidence": 0.43279976663928604,
+      "bbox": {
+        "x_min": 333,
+        "y_min": 1235,
+        "x_max": 393,
+        "y_max": 1249
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits at MedTech",
+      "confidence": 0.6534390701723357,
+      "bbox": {
+        "x_min": 104,
+        "y_min": 1246,
+        "x_max": 352,
+        "y_max": 1270
+      }
+    },
+    {
+      "text": "3.04",
+      "confidence": 0.50156750890905,
+      "bbox": {
+        "x_min": 1031,
+        "y_min": 1249,
+        "x_max": 1059,
+        "y_max": 1263
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits at HedTech",
+      "confidence": 0.8462994881350183,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 1267,
+        "x_max": 329,
+        "y_max": 1287
+      }
+    },
+    {
+      "text": "70 5",
+      "confidence": 0.42630940675735474,
+      "bbox": {
+        "x_min": 801,
+        "y_min": 1265,
+        "x_max": 829,
+        "y_max": 1279
+      }
+    },
+    {
+      "text": "101.3",
+      "confidence": 0.41845031147631795,
+      "bbox": {
+        "x_min": 855,
+        "y_min": 1265,
+        "x_max": 891,
+        "y_max": 1281
+      }
+    },
+    {
+      "text": "Cumulalive GPA",
+      "confidence": 0.5170763442529044,
+      "bbox": {
+        "x_min": 102,
+        "y_min": 1286,
+        "x_max": 199,
+        "y_max": 1305
+      }
+    },
+    {
+      "text": "70.5",
+      "confidence": 0.7253608703613281,
+      "bbox": {
+        "x_min": 799,
+        "y_min": 1283,
+        "x_max": 829,
+        "y_max": 1299
+      }
+    },
+    {
+      "text": "10] 3",
+      "confidence": 0.16608097804129685,
+      "bbox": {
+        "x_min": 855,
+        "y_min": 1285,
+        "x_max": 891,
+        "y_max": 1299
+      }
+    },
+    {
+      "text": "Cumulative Attempted Credits",
+      "confidence": 0.8883853428681828,
+      "bbox": {
+        "x_min": 102,
+        "y_min": 1306,
+        "x_max": 281,
+        "y_max": 1326
+      }
+    },
+    {
+      "text": "3.01",
+      "confidence": 0.4551546275615692,
+      "bbox": {
+        "x_min": 1029,
+        "y_min": 1307,
+        "x_max": 1057,
+        "y_max": 1323
+      }
+    },
+    {
+      "text": "Cumulative Earned Credits",
+      "confidence": 0.5626426398005575,
+      "bbox": {
+        "x_min": 103,
+        "y_min": 1327,
+        "x_max": 259,
+        "y_max": 1343
+      }
+    },
+    {
+      "text": "101.5",
+      "confidence": 0.49810152832514826,
+      "bbox": {
+        "x_min": 795,
+        "y_min": 1323,
+        "x_max": 831,
+        "y_max": 1337
+      }
+    },
+    {
+      "text": "145.8",
+      "confidence": 0.5245690454609503,
+      "bbox": {
+        "x_min": 855,
+        "y_min": 1325,
+        "x_max": 891,
+        "y_max": 1339
+      }
+    },
+    {
+      "text": "101.5",
+      "confidence": 0.7309996560121272,
+      "bbox": {
+        "x_min": 795,
+        "y_min": 1341,
+        "x_max": 831,
+        "y_max": 1357
+      }
+    },
+    {
+      "text": "145-8",
+      "confidence": 0.6537084430458543,
+      "bbox": {
+        "x_min": 855,
+        "y_min": 1343,
+        "x_max": 891,
+        "y_max": 1357
+      }
+    },
+    {
+      "text": "Deputy Director",
+      "confidence": 0.7981088099857715,
+      "bbox": {
+        "x_min": 99,
+        "y_min": 1453,
+        "x_max": 189,
+        "y_max": 1469
+      }
+    },
+    {
+      "text": "Hanta Amt",
+      "confidence": 0.04977964814115316,
+      "bbox": {
+        "x_min": 329,
+        "y_min": 1457,
+        "x_max": 397,
+        "y_max": 1473
+      }
+    }
+  ]
+}

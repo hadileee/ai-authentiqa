@@ -1,0 +1,1987 @@
+{
+  "file_name": "26-28.png",
+  "width": 1191,
+  "height": 1685,
+  "ocr_results": [
+    {
+      "text": "MedTech",
+      "confidence": 0.35129358414114537,
+      "bbox": {
+        "x_min": 161,
+        "y_min": 205,
+        "x_max": 211,
+        "y_max": 219
+      }
+    },
+    {
+      "text": "SMu",
+      "confidence": 0.20655248955026437,
+      "bbox": {
+        "x_min": 123,
+        "y_min": 223,
+        "x_max": 149,
+        "y_max": 235
+      }
+    },
+    {
+      "text": "Officia)",
+      "confidence": 0.3479375576508239,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 253,
+        "x_max": 149,
+        "y_max": 267
+      }
+    },
+    {
+      "text": "Transcript",
+      "confidence": 0.9999086193491202,
+      "bbox": {
+        "x_min": 153,
+        "y_min": 255,
+        "x_max": 211,
+        "y_max": 269
+      }
+    },
+    {
+      "text": "Computer Systems Engineering Program",
+      "confidence": 0.9157158523330593,
+      "bbox": {
+        "x_min": 601,
+        "y_min": 251,
+        "x_max": 821,
+        "y_max": 270
+      }
+    },
+    {
+      "text": "First name",
+      "confidence": 0.6687761519249223,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 285,
+        "x_max": 161,
+        "y_max": 297
+      }
+    },
+    {
+      "text": "Imcn",
+      "confidence": 0.7853453159332275,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 286,
+        "x_max": 290,
+        "y_max": 294
+      }
+    },
+    {
+      "text": "Last name:",
+      "confidence": 0.8474143712377056,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 299,
+        "x_max": 163,
+        "y_max": 311
+      }
+    },
+    {
+      "text": "Krifa",
+      "confidence": 0.8024399694644164,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 299,
+        "x_max": 291,
+        "y_max": 311
+      }
+    },
+    {
+      "text": "Birth:",
+      "confidence": 0.991564070004861,
+      "bbox": {
+        "x_min": 147,
+        "y_min": 313,
+        "x_max": 177,
+        "y_max": 325
+      }
+    },
+    {
+      "text": "11/15/2003",
+      "confidence": 0.9978531192276242,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 313,
+        "x_max": 323,
+        "y_max": 325
+      }
+    },
+    {
+      "text": "Lountn",
+      "confidence": 0.8956417162976982,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 330,
+        "x_max": 148,
+        "y_max": 338
+      }
+    },
+    {
+      "text": "of Blrth;",
+      "confidence": 0.7312904546078721,
+      "bbox": {
+        "x_min": 149,
+        "y_min": 327,
+        "x_max": 191,
+        "y_max": 341
+      }
+    },
+    {
+      "text": "unsan",
+      "confidence": 0.3094608249758785,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 330,
+        "x_max": 306,
+        "y_max": 338
+      }
+    },
+    {
+      "text": "CIN:",
+      "confidence": 0.9953705668449402,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 343,
+        "x_max": 133,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "9650714",
+      "confidence": 0.8932485119475577,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 341,
+        "x_max": 309,
+        "y_max": 355
+      }
+    },
+    {
+      "text": "StudentID-",
+      "confidence": 0.5344965694145067,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 358,
+        "x_max": 164,
+        "y_max": 366
+      }
+    },
+    {
+      "text": "221-5914",
+      "confidence": 0.9840200749677943,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 357,
+        "x_max": 313,
+        "y_max": 369
+      }
+    },
+    {
+      "text": "Lourso",
+      "confidence": 0.23020103410255496,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 388,
+        "x_max": 142,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "Lodc",
+      "confidence": 0.567505955696106,
+      "bbox": {
+        "x_min": 146,
+        "y_min": 388,
+        "x_max": 168,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "LourSe",
+      "confidence": 0.18502743279807862,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 388,
+        "x_max": 298,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "jme",
+      "confidence": 0.23230935029451286,
+      "bbox": {
+        "x_min": 302,
+        "y_min": 388,
+        "x_max": 330,
+        "y_max": 396
+      }
+    },
+    {
+      "text": "uS Credits",
+      "confidence": 0.785468654114265,
+      "bbox": {
+        "x_min": 599,
+        "y_min": 385,
+        "x_max": 651,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "ECTS",
+      "confidence": 0.9891199469566345,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 385,
+        "x_max": 731,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Earned ECTS Cr",
+      "confidence": 0.7625021946711552,
+      "bbox": {
+        "x_min": 739,
+        "y_min": 385,
+        "x_max": 813,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "Letter Grade",
+      "confidence": 0.6681866429853024,
+      "bbox": {
+        "x_min": 825,
+        "y_min": 385,
+        "x_max": 889,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "HEC Lcttcr Grade",
+      "confidence": 0.5261759411278765,
+      "bbox": {
+        "x_min": 907,
+        "y_min": 385,
+        "x_max": 989,
+        "y_max": 397
+      }
+    },
+    {
+      "text": "ntro",
+      "confidence": 0.9788843393325806,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 404,
+        "x_max": 290,
+        "y_max": 412
+      }
+    },
+    {
+      "text": "Prantammine",
+      "confidence": 0.30058281294040684,
+      "bbox": {
+        "x_min": 304,
+        "y_min": 404,
+        "x_max": 366,
+        "y_max": 412
+      }
+    },
+    {
+      "text": "PSY101",
+      "confidence": 0.4683168484296163,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 417,
+        "x_max": 145,
+        "y_max": 429
+      }
+    },
+    {
+      "text": "Jnttom",
+      "confidence": 0.05603297059764606,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 420,
+        "x_max": 294,
+        "y_max": 426
+      }
+    },
+    {
+      "text": "ctir",
+      "confidence": 0.13262273371219635,
+      "bbox": {
+        "x_min": 300,
+        "y_min": 420,
+        "x_max": 324,
+        "y_max": 428
+      }
+    },
+    {
+      "text": "Psycholcgy",
+      "confidence": 0.8713878620334902,
+      "bbox": {
+        "x_min": 337,
+        "y_min": 417,
+        "x_max": 391,
+        "y_max": 429
+      }
+    },
+    {
+      "text": "MGMT1OI",
+      "confidence": 0.19870093934602825,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 433,
+        "x_max": 161,
+        "y_max": 447
+      }
+    },
+    {
+      "text": "Unrobucon",
+      "confidence": 0.015500906631174429,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 436,
+        "x_max": 324,
+        "y_max": 442
+      }
+    },
+    {
+      "text": "Management",
+      "confidence": 0.9997020148387681,
+      "bbox": {
+        "x_min": 336,
+        "y_min": 432,
+        "x_max": 401,
+        "y_max": 446
+      }
+    },
+    {
+      "text": "ECO17I",
+      "confidence": 0.519897482195755,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 449,
+        "x_max": 149,
+        "y_max": 463
+      }
+    },
+    {
+      "text": "Tnalus",
+      "confidence": 0.13075886760930472,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 450,
+        "x_max": 296,
+        "y_max": 458
+      }
+    },
+    {
+      "text": "Kict",
+      "confidence": 0.2153916358947754,
+      "bbox": {
+        "x_min": 304,
+        "y_min": 450,
+        "x_max": 326,
+        "y_max": 458
+      }
+    },
+    {
+      "text": "Cmioie",
+      "confidence": 0.2560970652730001,
+      "bbox": {
+        "x_min": 354,
+        "y_min": 452,
+        "x_max": 388,
+        "y_max": 458
+      }
+    },
+    {
+      "text": "AFRI",
+      "confidence": 0.2475992739200592,
+      "bbox": {
+        "x_min": 389,
+        "y_min": 449,
+        "x_max": 411,
+        "y_max": 461
+      }
+    },
+    {
+      "text": "Math 10600",
+      "confidence": 0.675332218276083,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 465,
+        "x_max": 173,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "Calcul differentie",
+      "confidence": 0.9139940709803483,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 465,
+        "x_max": 347,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "JVCC",
+      "confidence": 0.024559348821640015,
+      "bbox": {
+        "x_min": 352,
+        "y_min": 468,
+        "x_max": 374,
+        "y_max": 474
+      }
+    },
+    {
+      "text": "pplicatlons",
+      "confidence": 0.6523607669286597,
+      "bbox": {
+        "x_min": 380,
+        "y_min": 463,
+        "x_max": 433,
+        "y_max": 477
+      }
+    },
+    {
+      "text": "gestion [FR)",
+      "confidence": 0.8156433652101799,
+      "bbox": {
+        "x_min": 446,
+        "y_min": 463,
+        "x_max": 507,
+        "y_max": 479
+      }
+    },
+    {
+      "text": "PHYS1SI",
+      "confidence": 0.3302034863908886,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 482,
+        "x_max": 150,
+        "y_max": 490
+      }
+    },
+    {
+      "text": "Ciassicz",
+      "confidence": 0.38859891202280333,
+      "bbox": {
+        "x_min": 268,
+        "y_min": 482,
+        "x_max": 302,
+        "y_max": 490
+      }
+    },
+    {
+      "text": "Mechanic",
+      "confidence": 0.5489521606819959,
+      "bbox": {
+        "x_min": 306,
+        "y_min": 482,
+        "x_max": 356,
+        "y_max": 490
+      }
+    },
+    {
+      "text": "ENGIII",
+      "confidence": 0.5620616263532822,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 497,
+        "x_max": 149,
+        "y_max": 509
+      }
+    },
+    {
+      "text": "Acadcmic",
+      "confidence": 0.5360685994072928,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 498,
+        "x_max": 312,
+        "y_max": 506
+      }
+    },
+    {
+      "text": "Enclish",
+      "confidence": 0.7034910609156413,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 497,
+        "x_max": 349,
+        "y_max": 511
+      }
+    },
+    {
+      "text": "ECEIZJ",
+      "confidence": 0.16608405790347278,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 514,
+        "x_max": 144,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "Intrc",
+      "confidence": 0.6872393784525532,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 514,
+        "x_max": 288,
+        "y_max": 522
+      }
+    },
+    {
+      "text": "Difital Sustems",
+      "confidence": 0.35903316260264295,
+      "bbox": {
+        "x_min": 303,
+        "y_min": 513,
+        "x_max": 373,
+        "y_max": 527
+      }
+    },
+    {
+      "text": "Fall 7077",
+      "confidence": 0.1524261493505804,
+      "bbox": {
+        "x_min": 112,
+        "y_min": 530,
+        "x_max": 150,
+        "y_max": 538
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9996319748048077,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 529,
+        "x_max": 329,
+        "y_max": 541
+      }
+    },
+    {
+      "text": "erm",
+      "confidence": 0.9905994200266066,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 546,
+        "x_max": 290,
+        "y_max": 554
+      }
+    },
+    {
+      "text": "MATH243",
+      "confidence": 0.17717592589589695,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 561,
+        "x_max": 157,
+        "y_max": 573
+      }
+    },
+    {
+      "text": "Viscretc Maincmalice",
+      "confidence": 0.20779356046423214,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 562,
+        "x_max": 366,
+        "y_max": 570
+      }
+    },
+    {
+      "text": "ENG1ZI",
+      "confidence": 0.6308181496641884,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 575,
+        "x_max": 149,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "Enelish Compasitian",
+      "confidence": 0.5064490890516645,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 575,
+        "x_max": 359,
+        "y_max": 589
+      }
+    },
+    {
+      "text": "C510z",
+      "confidence": 0.6357259809694903,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 591,
+        "x_max": 141,
+        "y_max": 605
+      }
+    },
+    {
+      "text": "Object-crentes",
+      "confidence": 0.34680201223669727,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 591,
+        "x_max": 335,
+        "y_max": 603
+      }
+    },
+    {
+      "text": "155196",
+      "confidence": 0.9045551569485152,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 607,
+        "x_max": 141,
+        "y_max": 619
+      }
+    },
+    {
+      "text": "Freshnan",
+      "confidence": 0.6235978632075733,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 608,
+        "x_max": 312,
+        "y_max": 616
+      }
+    },
+    {
+      "text": "Project",
+      "confidence": 0.9758944494382861,
+      "bbox": {
+        "x_min": 312,
+        "y_min": 606,
+        "x_max": 347,
+        "y_max": 620
+      }
+    },
+    {
+      "text": "CHEM16I",
+      "confidence": 0.3455968825109566,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 623,
+        "x_max": 157,
+        "y_max": 635
+      }
+    },
+    {
+      "text": "Chemistn",
+      "confidence": 0.6986789836329422,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 624,
+        "x_max": 314,
+        "y_max": 632
+      }
+    },
+    {
+      "text": "MATHI42",
+      "confidence": 0.515489952343854,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 639,
+        "x_max": 159,
+        "y_max": 651
+      }
+    },
+    {
+      "text": "Calculus",
+      "confidence": 0.983798907651443,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 639,
+        "x_max": 307,
+        "y_max": 651
+      }
+    },
+    {
+      "text": "Engincets",
+      "confidence": 0.8508410414295832,
+      "bbox": {
+        "x_min": 328,
+        "y_min": 638,
+        "x_max": 375,
+        "y_max": 652
+      }
+    },
+    {
+      "text": "55",
+      "confidence": 0.9934670158539984,
+      "bbox": {
+        "x_min": 773,
+        "y_min": 619,
+        "x_max": 791,
+        "y_max": 651
+      }
+    },
+    {
+      "text": "MGMT1OZ",
+      "confidence": 0.7635227338598428,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 655,
+        "x_max": 161,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "Manapement anc |eadershio IFR]",
+      "confidence": 0.1540196487022161,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 655,
+        "x_max": 423,
+        "y_max": 667
+      }
+    },
+    {
+      "text": "PHYS452",
+      "confidence": 0.1988648474205427,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 671,
+        "x_max": 153,
+        "y_max": 683
+      }
+    },
+    {
+      "text": "tlectiamjcnersue",
+      "confidence": 0.06291259625899599,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 672,
+        "x_max": 348,
+        "y_max": 680
+      }
+    },
+    {
+      "text": "1073",
+      "confidence": 0.5230731389922578,
+      "bbox": {
+        "x_min": 142,
+        "y_min": 688,
+        "x_max": 164,
+        "y_max": 696
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9981659506985033,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 687,
+        "x_max": 329,
+        "y_max": 699
+      }
+    },
+    {
+      "text": "Term GPE",
+      "confidence": 0.7021820709485783,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 703,
+        "x_max": 309,
+        "y_max": 715
+      }
+    },
+    {
+      "text": "MATAZ44",
+      "confidence": 0.12927378272524254,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 720,
+        "x_max": 156,
+        "y_max": 728
+      }
+    },
+    {
+      "text": "Probability",
+      "confidence": 0.8421029829679334,
+      "bbox": {
+        "x_min": 267,
+        "y_min": 717,
+        "x_max": 317,
+        "y_max": 729
+      }
+    },
+    {
+      "text": "SWSMI",
+      "confidence": 0.0074915138881912835,
+      "bbox": {
+        "x_min": 328,
+        "y_min": 720,
+        "x_max": 368,
+        "y_max": 728
+      }
+    },
+    {
+      "text": "COMZO5",
+      "confidence": 0.3751014917753521,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 733,
+        "x_max": 153,
+        "y_max": 747
+      }
+    },
+    {
+      "text": "Techalcn",
+      "confidence": 0.2952653602661831,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 734,
+        "x_max": 306,
+        "y_max": 742
+      }
+    },
+    {
+      "text": "Writing",
+      "confidence": 0.9917972366281599,
+      "bbox": {
+        "x_min": 310,
+        "y_min": 731,
+        "x_max": 349,
+        "y_max": 747
+      }
+    },
+    {
+      "text": "MATHZ4]",
+      "confidence": 0.1310230314867167,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 749,
+        "x_max": 157,
+        "y_max": 761
+      }
+    },
+    {
+      "text": "Mnes",
+      "confidence": 0.24233378469944,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 750,
+        "x_max": 290,
+        "y_max": 758
+      }
+    },
+    {
+      "text": "EC0172",
+      "confidence": 0.3005047384870757,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 765,
+        "x_max": 149,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "Oeccnomict",
+      "confidence": 0.13802648671167664,
+      "bbox": {
+        "x_min": 290,
+        "y_min": 768,
+        "x_max": 344,
+        "y_max": 774
+      }
+    },
+    {
+      "text": "AFRI",
+      "confidence": 0.3181536297350578,
+      "bbox": {
+        "x_min": 345,
+        "y_min": 765,
+        "x_max": 369,
+        "y_max": 777
+      }
+    },
+    {
+      "text": "DDSR 00405",
+      "confidence": 0.5822702887128052,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 780,
+        "x_max": 170,
+        "y_max": 810
+      }
+    },
+    {
+      "text": "Soaiketi Ddveloppement",
+      "confidence": 0.30413498820231893,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 780,
+        "x_max": 382,
+        "y_max": 810
+      }
+    },
+    {
+      "text": "durabic",
+      "confidence": 0.5012507496018266,
+      "bbox": {
+        "x_min": 384,
+        "y_min": 798,
+        "x_max": 420,
+        "y_max": 806
+      }
+    },
+    {
+      "text": "Organisations (FR)",
+      "confidence": 0.8570345427139129,
+      "bbox": {
+        "x_min": 433,
+        "y_min": 797,
+        "x_max": 523,
+        "y_max": 809
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.22568940920288938,
+      "bbox": {
+        "x_min": 705,
+        "y_min": 745,
+        "x_max": 725,
+        "y_max": 827
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 0.7665309753335556,
+      "bbox": {
+        "x_min": 768,
+        "y_min": 714,
+        "x_max": 794,
+        "y_max": 842
+      }
+    },
+    {
+      "text": "Data Suuctures",
+      "confidence": 0.16690294688922253,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 814,
+        "x_max": 336,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "crorithme",
+      "confidence": 0.1277710188862564,
+      "bbox": {
+        "x_min": 360,
+        "y_min": 814,
+        "x_max": 408,
+        "y_max": 822
+      }
+    },
+    {
+      "text": "Fall 2023",
+      "confidence": 0.6701044051964874,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 829,
+        "x_max": 153,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.9776937925481402,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 829,
+        "x_max": 329,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "11.5",
+      "confidence": 0.5340582492118462,
+      "bbox": {
+        "x_min": 705,
+        "y_min": 825,
+        "x_max": 727,
+        "y_max": 841
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9392038802674126,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 845,
+        "x_max": 315,
+        "y_max": 857
+      }
+    },
+    {
+      "text": "PrYs25]",
+      "confidence": 0.19014350747849643,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 861,
+        "x_max": 153,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "wavcs",
+      "confidence": 0.5935869159599153,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 862,
+        "x_max": 296,
+        "y_max": 870
+      }
+    },
+    {
+      "text": "Optics and Quantum Physins",
+      "confidence": 0.5197287706652921,
+      "bbox": {
+        "x_min": 301,
+        "y_min": 859,
+        "x_max": 433,
+        "y_max": 873
+      }
+    },
+    {
+      "text": "ECE2S1",
+      "confidence": 0.36695500948945864,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 877,
+        "x_max": 147,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "Elcctric -",
+      "confidence": 0.22913826681531504,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 875,
+        "x_max": 303,
+        "y_max": 889
+      }
+    },
+    {
+      "text": "Circu",
+      "confidence": 0.13971685033888023,
+      "bbox": {
+        "x_min": 302,
+        "y_min": 878,
+        "x_max": 336,
+        "y_max": 884
+      }
+    },
+    {
+      "text": "155296",
+      "confidence": 0.9583182511576118,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 891,
+        "x_max": 143,
+        "y_max": 905
+      }
+    },
+    {
+      "text": "AdphorONE",
+      "confidence": 0.11377530507728774,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 894,
+        "x_max": 318,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "TcleCI",
+      "confidence": 0.14743403692950185,
+      "bbox": {
+        "x_min": 326,
+        "y_min": 894,
+        "x_max": 354,
+        "y_max": 902
+      }
+    },
+    {
+      "text": "C5261",
+      "confidence": 0.8030709154057392,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 907,
+        "x_max": 141,
+        "y_max": 921
+      }
+    },
+    {
+      "text": "Cemipute",
+      "confidence": 0.5502581535701372,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 906,
+        "x_max": 309,
+        "y_max": 920
+      }
+    },
+    {
+      "text": "Jrganisation and Design",
+      "confidence": 0.9664890559641334,
+      "bbox": {
+        "x_min": 318,
+        "y_min": 906,
+        "x_max": 427,
+        "y_max": 919
+      }
+    },
+    {
+      "text": "M4TA341",
+      "confidence": 0.21783013247407831,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 923,
+        "x_max": 157,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "Differential Equations",
+      "confidence": 0.93335985927091,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 923,
+        "x_max": 365,
+        "y_max": 935
+      }
+    },
+    {
+      "text": "ScOJ0",
+      "confidence": 0.21093195420006222,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 939,
+        "x_max": 147,
+        "y_max": 951
+      }
+    },
+    {
+      "text": "Operations Managemeni",
+      "confidence": 0.8661760605046441,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 939,
+        "x_max": 381,
+        "y_max": 951
+      }
+    },
+    {
+      "text": "ACTIOI",
+      "confidence": 0.46169301249235234,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 955,
+        "x_max": 147,
+        "y_max": 967
+      }
+    },
+    {
+      "text": "Finanria",
+      "confidence": 0.6391314352445988,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 956,
+        "x_max": 304,
+        "y_max": 964
+      }
+    },
+    {
+      "text": "Accounting",
+      "confidence": 0.9934070705616628,
+      "bbox": {
+        "x_min": 306,
+        "y_min": 953,
+        "x_max": 361,
+        "y_max": 967
+      }
+    },
+    {
+      "text": "FINA 10200",
+      "confidence": 0.8345090873499179,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 971,
+        "x_max": 163,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "Elnancc",
+      "confidence": 0.4914505880411525,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 971,
+        "x_max": 305,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "(FRL",
+      "confidence": 0.2627803683280945,
+      "bbox": {
+        "x_min": 309,
+        "y_min": 971,
+        "x_max": 331,
+        "y_max": 983
+      }
+    },
+    {
+      "text": "2024",
+      "confidence": 0.967869445146111,
+      "bbox": {
+        "x_min": 139,
+        "y_min": 987,
+        "x_max": 167,
+        "y_max": 999
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.7948146177510249,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 987,
+        "x_max": 329,
+        "y_max": 999
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.9606637623727399,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1003,
+        "x_max": 315,
+        "y_max": 1015
+      }
+    },
+    {
+      "text": "ECF371",
+      "confidence": 0.2869162151144492,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1019,
+        "x_max": 145,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Signals",
+      "confidence": 0.9981862448260775,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1019,
+        "x_max": 297,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "Systems",
+      "confidence": 0.9745854589331886,
+      "bbox": {
+        "x_min": 309,
+        "y_min": 1019,
+        "x_max": 349,
+        "y_max": 1031
+      }
+    },
+    {
+      "text": "ECE357",
+      "confidence": 0.8576021266278292,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1035,
+        "x_max": 147,
+        "y_max": 1049
+      }
+    },
+    {
+      "text": "Electronic",
+      "confidence": 0.5288525031382523,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1035,
+        "x_max": 311,
+        "y_max": 1047
+      }
+    },
+    {
+      "text": "OeviceJud Circuits",
+      "confidence": 0.05642446970244559,
+      "bbox": {
+        "x_min": 314,
+        "y_min": 1036,
+        "x_max": 404,
+        "y_max": 1044
+      }
+    },
+    {
+      "text": "ECE3SS",
+      "confidence": 0.36455121923255424,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1053,
+        "x_max": 145,
+        "y_max": 1065
+      }
+    },
+    {
+      "text": "Me",
+      "confidence": 0.30065597190161336,
+      "bbox": {
+        "x_min": 288,
+        "y_min": 1054,
+        "x_max": 310,
+        "y_max": 1062
+      }
+    },
+    {
+      "text": "rmbecced Sustems",
+      "confidence": 0.3148996821145742,
+      "bbox": {
+        "x_min": 314,
+        "y_min": 1054,
+        "x_max": 402,
+        "y_max": 1062
+      }
+    },
+    {
+      "text": "C54 20",
+      "confidence": 0.10502404357424,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1070,
+        "x_max": 138,
+        "y_max": 1078
+      }
+    },
+    {
+      "text": "Programming",
+      "confidence": 0.9967410777178128,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 1068,
+        "x_max": 329,
+        "y_max": 1082
+      }
+    },
+    {
+      "text": "neuaze",
+      "confidence": 0.42256130415599913,
+      "bbox": {
+        "x_min": 340,
+        "y_min": 1072,
+        "x_max": 374,
+        "y_max": 1080
+      }
+    },
+    {
+      "text": "Implcmentation",
+      "confidence": 0.17771631422916565,
+      "bbox": {
+        "x_min": 420,
+        "y_min": 1070,
+        "x_max": 492,
+        "y_max": 1078
+      }
+    },
+    {
+      "text": "L5]l",
+      "confidence": 0.2424580603837967,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1088,
+        "x_max": 138,
+        "y_max": 1096
+      }
+    },
+    {
+      "text": "Compuicrkctorks",
+      "confidence": 0.15058328623732228,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1088,
+        "x_max": 358,
+        "y_max": 1096
+      }
+    },
+    {
+      "text": "55",
+      "confidence": 0.8949468553290917,
+      "bbox": {
+        "x_min": 771,
+        "y_min": 1063,
+        "x_max": 791,
+        "y_max": 1099
+      }
+    },
+    {
+      "text": "FCE4A3",
+      "confidence": 0.528746055574581,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1105,
+        "x_max": 147,
+        "y_max": 1119
+      }
+    },
+    {
+      "text": "covancco",
+      "confidence": 0.20020703053794722,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1108,
+        "x_max": 310,
+        "y_max": 1116
+      }
+    },
+    {
+      "text": "Digital Systems",
+      "confidence": 0.9432577390396265,
+      "bbox": {
+        "x_min": 313,
+        "y_min": 1105,
+        "x_max": 383,
+        "y_max": 1119
+      }
+    },
+    {
+      "text": "Operating Systems",
+      "confidence": 0.6816857529711597,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1123,
+        "x_max": 353,
+        "y_max": 1135
+      }
+    },
+    {
+      "text": "Fall 7074",
+      "confidence": 0.9568410366318798,
+      "bbox": {
+        "x_min": 111,
+        "y_min": 1141,
+        "x_max": 151,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "Term Credits",
+      "confidence": 0.7722993197120134,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1141,
+        "x_max": 329,
+        "y_max": 1153
+      }
+    },
+    {
+      "text": "37.5",
+      "confidence": 0.9938440322875977,
+      "bbox": {
+        "x_min": 703,
+        "y_min": 1137,
+        "x_max": 727,
+        "y_max": 1151
+      }
+    },
+    {
+      "text": "35",
+      "confidence": 0.5683997123375872,
+      "bbox": {
+        "x_min": 768,
+        "y_min": 1118,
+        "x_max": 794,
+        "y_max": 1154
+      }
+    },
+    {
+      "text": "Term GPA",
+      "confidence": 0.5463379590091819,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1158,
+        "x_max": 312,
+        "y_max": 1166
+      }
+    },
+    {
+      "text": "MATH342",
+      "confidence": 0.7417689667487504,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1175,
+        "x_max": 157,
+        "y_max": 1187
+      }
+    },
+    {
+      "text": "Muitvariabic",
+      "confidence": 0.20048413280670876,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1176,
+        "x_max": 326,
+        "y_max": 1184
+      }
+    },
+    {
+      "text": "Calculu;",
+      "confidence": 0.30882512621849845,
+      "bbox": {
+        "x_min": 330,
+        "y_min": 1176,
+        "x_max": 366,
+        "y_max": 1184
+      }
+    },
+    {
+      "text": "Alercnca",
+      "confidence": 0.0025248492024880186,
+      "bbox": {
+        "x_min": 378,
+        "y_min": 1176,
+        "x_max": 424,
+        "y_max": 1182
+      }
+    },
+    {
+      "text": "Hetheds",
+      "confidence": 0.19888263613779167,
+      "bbox": {
+        "x_min": 428,
+        "y_min": 1174,
+        "x_max": 468,
+        "y_max": 1182
+      }
+    },
+    {
+      "text": "ECE37Z",
+      "confidence": 0.5757887613269908,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1191,
+        "x_max": 147,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "Feechack Contia",
+      "confidence": 0.3133168242218304,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1191,
+        "x_max": 345,
+        "y_max": 1203
+      }
+    },
+    {
+      "text": "Suemns",
+      "confidence": 0.2284334813257162,
+      "bbox": {
+        "x_min": 348,
+        "y_min": 1192,
+        "x_max": 384,
+        "y_max": 1200
+      }
+    },
+    {
+      "text": "ECE455",
+      "confidence": 0.42169808063784153,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1207,
+        "x_max": 147,
+        "y_max": 1221
+      }
+    },
+    {
+      "text": "Haro_7r",
+      "confidence": 0.18792424802534893,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1208,
+        "x_max": 306,
+        "y_max": 1216
+      }
+    },
+    {
+      "text": "ASoftvane Co",
+      "confidence": 0.020012161850165813,
+      "bbox": {
+        "x_min": 310,
+        "y_min": 1208,
+        "x_max": 370,
+        "y_max": 1216
+      }
+    },
+    {
+      "text": "MATH348",
+      "confidence": 0.2748959401954536,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1223,
+        "x_max": 157,
+        "y_max": 1237
+      }
+    },
+    {
+      "text": "Graph Ineon",
+      "confidence": 0.2720774024503914,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1226,
+        "x_max": 328,
+        "y_max": 1234
+      }
+    },
+    {
+      "text": "ApElicaticne",
+      "confidence": 0.30773220698708165,
+      "bbox": {
+        "x_min": 340,
+        "y_min": 1226,
+        "x_max": 396,
+        "y_max": 1234
+      }
+    },
+    {
+      "text": "FCE43]",
+      "confidence": 0.24552259736814397,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1242,
+        "x_max": 144,
+        "y_max": 1250
+      }
+    },
+    {
+      "text": "Robatics",
+      "confidence": 0.8559899438364322,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1241,
+        "x_max": 307,
+        "y_max": 1253
+      }
+    },
+    {
+      "text": "ECE457",
+      "confidence": 0.8327797136759241,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1257,
+        "x_max": 147,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "Dicital S Ertall",
+      "confidence": 0.32836389903689384,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1257,
+        "x_max": 327,
+        "y_max": 1271
+      }
+    },
+    {
+      "text": "[OCESSC",
+      "confidence": 0.0979767630949478,
+      "bbox": {
+        "x_min": 332,
+        "y_min": 1260,
+        "x_max": 376,
+        "y_max": 1268
+      }
+    },
+    {
+      "text": "coM3O7",
+      "confidence": 0.1450609355566377,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 1276,
+        "x_max": 151,
+        "y_max": 1289
+      }
+    },
+    {
+      "text": "Fud",
+      "confidence": 0.07779662029884803,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1278,
+        "x_max": 306,
+        "y_max": 1286
+      }
+    },
+    {
+      "text": "ccknle  Communication",
+      "confidence": 0.056734799271803305,
+      "bbox": {
+        "x_min": 314,
+        "y_min": 1278,
+        "x_max": 424,
+        "y_max": 1286
+      }
+    },
+    {
+      "text": "MWJDZ",
+      "confidence": 0.3128784096399074,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1299,
+        "x_max": 147,
+        "y_max": 1313
+      }
+    },
+    {
+      "text": "Management Information Systems",
+      "confidence": 0.7648666046568113,
+      "bbox": {
+        "x_min": 264,
+        "y_min": 1298,
+        "x_max": 423,
+        "y_max": 1312
+      }
+    },
+    {
+      "text": "Spring 2025",
+      "confidence": 0.9964777826430565,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1317,
+        "x_max": 165,
+        "y_max": 1331
+      }
+    },
+    {
+      "text": "Tcrm",
+      "confidence": 0.4090455174446106,
+      "bbox": {
+        "x_min": 266,
+        "y_min": 1318,
+        "x_max": 290,
+        "y_max": 1326
+      }
+    },
+    {
+      "text": "Credits",
+      "confidence": 0.9734702830668824,
+      "bbox": {
+        "x_min": 291,
+        "y_min": 1315,
+        "x_max": 329,
+        "y_max": 1329
+      }
+    },
+    {
+      "text": "Tcrm GPA",
+      "confidence": 0.9450234405000201,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1333,
+        "x_max": 315,
+        "y_max": 1345
+      }
+    },
+    {
+      "text": "Cumulative",
+      "confidence": 0.9970640730823699,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1347,
+        "x_max": 163,
+        "y_max": 1359
+      }
+    },
+    {
+      "text": "Aitempte",
+      "confidence": 0.20523504319950647,
+      "bbox": {
+        "x_min": 166,
+        "y_min": 1350,
+        "x_max": 216,
+        "y_max": 1358
+      }
+    },
+    {
+      "text": "Credits",
+      "confidence": 0.8682805097007731,
+      "bbox": {
+        "x_min": 220,
+        "y_min": 1348,
+        "x_max": 252,
+        "y_max": 1356
+      }
+    },
+    {
+      "text": "Lumulativ",
+      "confidence": 0.5921330838664096,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1364,
+        "x_max": 156,
+        "y_max": 1372
+      }
+    },
+    {
+      "text": "cained",
+      "confidence": 0.3812109977109455,
+      "bbox": {
+        "x_min": 166,
+        "y_min": 1364,
+        "x_max": 198,
+        "y_max": 1372
+      }
+    },
+    {
+      "text": "Credits",
+      "confidence": 0.9998757306420228,
+      "bbox": {
+        "x_min": 199,
+        "y_min": 1361,
+        "x_max": 237,
+        "y_max": 1375
+      }
+    },
+    {
+      "text": "Cumulative GPA",
+      "confidence": 0.9669735277460277,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1377,
+        "x_max": 187,
+        "y_max": 1389
+      }
+    },
+    {
+      "text": "Senior Programs Manager",
+      "confidence": 0.7635724781890246,
+      "bbox": {
+        "x_min": 109,
+        "y_min": 1458,
+        "x_max": 253,
+        "y_max": 1476
+      }
+    },
+    {
+      "text": "Marwa Amri",
+      "confidence": 0.9737485615228478,
+      "bbox": {
+        "x_min": 265,
+        "y_min": 1459,
+        "x_max": 335,
+        "y_max": 1473
+      }
+    },
+    {
+      "text": "(510,",
+      "confidence": 0.19429532699916885,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 400,
+        "x_max": 138,
+        "y_max": 412
+      }
+    },
+    {
+      "text": "Proli",
+      "confidence": 0.3739631804997161,
+      "bbox": {
+        "x_min": 340,
+        "y_min": 590,
+        "x_max": 366,
+        "y_max": 603
+      }
+    },
+    {
+      "text": "Spuing",
+      "confidence": 0.225108411682797,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 686,
+        "x_max": 140,
+        "y_max": 698
+      }
+    },
+    {
+      "text": "Eetra",
+      "confidence": 0.3654846204833261,
+      "bbox": {
+        "x_min": 304,
+        "y_min": 747,
+        "x_max": 332,
+        "y_max": 760
+      }
+    },
+    {
+      "text": "sztine",
+      "confidence": 0.217033511810638,
+      "bbox": {
+        "x_min": 108,
+        "y_min": 986,
+        "x_max": 138,
+        "y_max": 998
+      }
+    },
+    {
+      "text": "De; Er",
+      "confidence": 0.21845476306457645,
+      "bbox": {
+        "x_min": 374,
+        "y_min": 1068,
+        "x_max": 406,
+        "y_max": 1080
+      }
+    },
+    {
+      "text": "C5joj",
+      "confidence": 0.15863569549291665,
+      "bbox": {
+        "x_min": 110,
+        "y_min": 1122,
+        "x_max": 140,
+        "y_max": 1137
+      }
+    },
+    {
+      "text": "Des Bn",
+      "confidence": 0.24018912508559923,
+      "bbox": {
+        "x_min": 372,
+        "y_min": 1206,
+        "x_max": 404,
+        "y_max": 1218
+      }
+    }
+  ]
+}
